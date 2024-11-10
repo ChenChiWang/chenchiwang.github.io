@@ -18,21 +18,32 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# 基本設置
+title: "John's Website"
+description: "紀錄自我介紹、德國生活和樹莓派開發項目"
+baseurl: "" # 如果是根域名，保持空白
+url: "https://chenchiwang.github.io" # 你的網站 URL
 
-# Build settings
-theme: minima
+# 部落格設置
+markdown: kramdown
+theme: minima # 這是 Jekyll 的默認主題，你可以更換為其他主題
+
+# 站點導航
+collections:
+  blog:
+    output: true
+  projects:
+    output: true
+
+# 分頁和顯示
+paginate: 5 # 每頁顯示5篇文章
+paginate_path: "/blog/page:num/"
+
+# 插件
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
