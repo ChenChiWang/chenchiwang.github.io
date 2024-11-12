@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 # 基本設置
-title: John's webpages
-description: {{ site.description }}
+title: "John's webpages"
+description: "紀錄自我介紹、德國生活和樹莓派開發項目"
 baseurl: "" # 如果是根域名，保持空白
 url: "https://chenchiwang.github.io" # 你的網站 URL
 
