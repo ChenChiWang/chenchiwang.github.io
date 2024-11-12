@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "{{ site.title }}"
+title: "德國生活部落格"
 ---
 
 # 歡迎來到 {{ site.title }}
