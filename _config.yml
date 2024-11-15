@@ -18,6 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+# author:
+#   name: John
+#   email: fantastic.core@gmail.com
+  # avatar: /img/avatar.png # 加入你的個人頭像圖片s
+  
+# social:
+#   github: https://github.com/chenchiwang
+#   linkedin: https://www.linkedin.com/in/john-wang-5bb70bb3/
+  # twitter: https://twitter.com/yourhandle
+
+theme_skin: "dark" # 如果你想要深色模式
+
+
 # 基本設置
 title: "John's webpages"
 description: "紀錄自我介紹、德國生活和樹莓派開發項目"
@@ -26,7 +39,15 @@ url: "https://chenchiwang.github.io" # 你的網站 URL
 
 # 部落格設置
 markdown: kramdown
-theme: minima # 這是 Jekyll 的默認主題，你可以更換為其他主題
+# theme: minima # 這是 Jekyll 的默認主題，你可以更換為其他主題
+# remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "daattali/beautiful-jekyll"
+# remote_theme: "cotes2020/jekyll-theme-chirpy"
+# remote_theme: "chesterhow/tale"
+# remote_theme: "fongandrew/hydeout"
+# remote_theme: "pages-themes/slate"
+# remote_theme: "pages-themes/cayman"
+
 
 # 站點導航
 collections:
@@ -44,6 +65,7 @@ paginate_path: "/blog/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-remote-theme
 
 
 # Exclude from processing.
