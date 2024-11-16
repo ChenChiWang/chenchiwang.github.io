@@ -1,7 +1,9 @@
 ---
 layout: home
-title: "CC-Sphere"
+title: "CCsphere"
 ---
+
+# Step by Step
 
 [About me]({{ site.baseurl }}/about)  
 [Relocation]({{ site.baseurl }}/blog)  

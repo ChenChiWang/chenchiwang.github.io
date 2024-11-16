@@ -32,7 +32,7 @@
 
 
 # 基本設置
-title: "CC-SPHERE"
+title: "CCsphere"
 description: "Relocation"
 baseurl: "" # 如果是根域名，保持空白
 url: "https://chenchiwang.github.io" # 你的網站 URL
