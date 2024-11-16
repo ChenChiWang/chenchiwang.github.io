@@ -1,9 +1,7 @@
 ---
 layout: home
-title: "Home"
+title: "CC-Sphere"
 ---
-
-# 歡迎來到 {{ site.title }}
 
 [About me]({{ site.baseurl }}/about)  
 [Relocation]({{ site.baseurl }}/blog)  
