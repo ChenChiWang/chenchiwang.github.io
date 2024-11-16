@@ -6,7 +6,7 @@ permalink: /about/ # permanent link
 
 # About Me
 
-With over 15 years of experience in procurement, I specialize in materials and product sourcing, project coordination, and system development, with a unique skill set in data science. My expertise includes advanced proficiency in Python for data science applications, as well as experience with HTML, JavaScript, SQL, and Shell Script. I am adaptable, detail-oriented, and excel in communication and collaboration.
+With over 15 years of experience in procurement, I specialize in materials and product sourcing, project coordination, and system development, with a skill set in data science. My expertise includes advanced proficiency in Python for data science applications, as well as experience with HTML, JavaScript, SQL, and Shell Script. I am adaptable, detail-oriented, and excel in communication and collaboration.
 
 ## Education
 
@@ -56,7 +56,7 @@ Department of Management Science
 Feel free to connect with me for collaborations or to learn more about my work.
 
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/john-wang-5bb70bb3/)
-- **TradingView**: [TradingView Profile]()
+<!-- - **TradingView**: [TradingView Profile](https://tw.tradingview.com/u/CCWxUmi/) -->
 
 ---
 

@@ -28,17 +28,16 @@
 #   linkedin: https://www.linkedin.com/in/john-wang-5bb70bb3/
   # twitter: https://twitter.com/yourhandle
 
-theme_skin: "dark" # 如果你想要深色模式
+# theme_skin: "dark" # 如果你想要深色模式
 
 
 # 基本設置
-title: "John's webpages"
-description: "紀錄自我介紹、德國生活和樹莓派開發項目"
+title: "CC-SPHERE"
+description: "Relocation"
 baseurl: "" # 如果是根域名，保持空白
 url: "https://chenchiwang.github.io" # 你的網站 URL
 
-# 部落格設置
-markdown: kramdown
+
 # theme: minima # 這是 Jekyll 的默認主題，你可以更換為其他主題
 # remote_theme: "mmistakes/minimal-mistakes"
 remote_theme: "daattali/beautiful-jekyll"

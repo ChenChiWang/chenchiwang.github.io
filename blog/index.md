@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "德國生活部落格"
+title: "Relocation"
 ---
 
 <h1>{{ page.title }}</h1>

@@ -1,7 +1,6 @@
 ---
 layout: default
-title: "樹莓派開發項目"
-description: "勇者鬥惡龍"
+title: "勇者鬥惡龍"
 ---
 
 <h1>{{ page.title }}</h1>
