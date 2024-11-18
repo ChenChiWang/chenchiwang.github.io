@@ -76,6 +76,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-remote-theme
+  - jekyll-mermaid
 
 
 # Exclude from processing.
