@@ -67,9 +67,6 @@ plugins:
   - jekyll-remote-theme
   - jekyll-mermaid
 
-include:
-  - favicon.ico
-
 
 
 # Exclude from processing.
