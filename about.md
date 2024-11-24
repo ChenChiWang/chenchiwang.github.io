@@ -4,6 +4,9 @@ layout: page
 permalink: /about/ # permanent link
 ---
 
+<!-- 流量追蹤 -->
+<script src="{{ '/assets/js/momo-script.js' | relative_url }}"></script>
+
 # About Me
 
 With over 15 years of experience in procurement, I specialize in materials and product sourcing, project coordination, and system development, with a skill set in data science. My expertise includes advanced proficiency in Python for data science applications, as well as experience with HTML, JavaScript, SQL, and Shell Script. I am adaptable, detail-oriented, and excel in communication and collaboration.

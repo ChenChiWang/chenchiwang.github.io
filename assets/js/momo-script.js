@@ -1,4 +1,4 @@
-// assets/js/ga-tracking.js
+// assets/js/momo-script.js
 
 (function() {
     var gtagScript = document.createElement('script');
@@ -11,4 +11,3 @@
     gtag('js', new Date());
     gtag('config', 'G-SF5KP87108');
   })();
-  
