@@ -68,7 +68,7 @@ plugins:
   - jekyll-mermaid
 
 include:
-  - favicon
+  - favicon.ico
 
 # Exclude from processing.
 # The following items will not be processed, by default.
