@@ -105,10 +105,12 @@ categories: bank
 <div class="mermaid">
 graph TD;
     A[開戶] --> B[Online Bank];
-    A[開戶] --> D[借記卡+];
     A[開戶] --> C[借記卡];
+    A[開戶] --> D[借記卡+];
+    D --> Q[借記卡+ PIN]
     C-->L[借記卡-PIN];
     L-->M[ATM改PIN碼];
+    Q --> M
     A-->N[TelefonBanking];
     N-->O[TelefonBanking-PIN];
     O-->P[打電話改PIN];

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "勇者鬥惡龍"
+title: "Dragon Quest"
 ---
 
 <h1>{{ page.title }}</h1>
