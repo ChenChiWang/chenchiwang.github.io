@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Deutsche Cheat Sheet"
+date:   2025-5-25
+categories: Deutsche
+---
+
+<!-- 流量追蹤 -->
+<script src="{{ '/assets/js/momo-script.js' | relative_url }}"></script>
+
 # 德文 Cheat Sheet
 
 ## 1. 人稱代詞 (Pronomen)
