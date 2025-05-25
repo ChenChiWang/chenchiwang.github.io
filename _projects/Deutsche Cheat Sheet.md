@@ -23,6 +23,7 @@ categories: Deutsche
 所有格代詞會隨所修飾名詞的性別和格變化，以下為各代詞的變化表格。
 
 ### 2.1 Ich (我)：mein
+
 |              | Masculin (陽性) | Feminin (陰性) | Neutrum (中性) | Plural (複數) |
 |--------------|-----------------|----------------|----------------|---------------|
 | **Nominativ** | mein            | meine          | mein           | meine         |
@@ -31,6 +32,7 @@ categories: Deutsche
 | **Genitiv**   | meines          | meiner         | meines         | meiner        |
 
 ### 2.2 Du (你)：dein
+
 |              | Masculin (陽性) | Feminin (陰性) | Neutrum (中性) | Plural (複數) |
 |--------------|-----------------|----------------|----------------|---------------|
 | **Nominativ** | dein            | deine          | dein           | deine         |
@@ -39,6 +41,7 @@ categories: Deutsche
 | **Genitiv**   | deines          | deiner         | deines         | deiner        |
 
 ### 2.3 Er (他) / Es (它)：sein
+
 |              | Masculin (陽性) | Feminin (陰性) | Neutrum (中性) | Plural (複數) |
 |--------------|-----------------|----------------|----------------|---------------|
 | **Nominativ** | sein            | seine          | sein           | seine         |
@@ -47,6 +50,7 @@ categories: Deutsche
 | **Genitiv**   | seines          | seiner         | seines         | seiner        |
 
 ### 2.4 Sie (她) / Sie (他們/她們)：ihr
+
 |              | Masculin (陽性) | Feminin (陰性) | Neutrum (中性) | Plural (複數) |
 |--------------|-----------------|----------------|----------------|---------------|
 | **Nominativ** | ihr             | ihre           | ihr            | ihre          |
@@ -55,6 +59,7 @@ categories: Deutsche
 | **Genitiv**   | ihres           | ihrer          | ihres          | ihrer         |
 
 ### 2.5 Wir (我們)：unser
+
 |              | Masculin (陽性) | Feminin (陰性) | Neutrum (中性) | Plural (複數) |
 |--------------|-----------------|----------------|----------------|---------------|
 | **Nominativ** | unser           | unsere         | unser          | unsere        |
@@ -63,6 +68,7 @@ categories: Deutsche
 | **Genitiv**   | unseres         | unserer        | unseres        | unserer       |
 
 ### 2.6 Ihr (你們)：euer
+
 |              | Masculin (陽性) | Feminin (陰性) | Neutrum (中性) | Plural (複數) |
 |--------------|-----------------|----------------|----------------|---------------|
 | **Nominativ** | euer            | eure           | euer           | eure          |
@@ -71,6 +77,7 @@ categories: Deutsche
 | **Genitiv**   | eures           | eurer          | eures          | eurer         |
 
 ## 3. 否定詞：kein
+
 |              | Masculin (陽性) | Feminin (陰性) | Neutrum (中性) | Plural (複數) |
 |--------------|-----------------|----------------|----------------|---------------|
 | **Nominativ** | kein            | keine          | kein           | keine         |
