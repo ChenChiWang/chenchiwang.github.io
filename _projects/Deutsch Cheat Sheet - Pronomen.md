@@ -14,7 +14,7 @@ categories: Deutsch
 
 |           | Ich (我) | Du (你) | Er (他) | Sie (她) | Es (它) | Wir (我們) | Ihr (你們) | Sie (他們/她們) |
 |-----------|----------|---------|---------|---------|---------|-----------|-----------|---------------|
-| **Nominativ (主格)** | Ich      | Du Mors      | Er      | Sie     | Es      | Wir       | Ihr       | Sie           |
+| **Nominativ (主格)** | Ich      | Du      | Er      | Sie     | Es      | Wir       | Ihr       | Sie           |
 | **Akkusativ (受格)** | mich     | dich    | ihn     | sie     | es      | uns       | euch      | sie           |
 | **Dativ (與格)**     | mir      | dir     | ihm     | ihr     | ihm     | uns       | euch      | ihnen         |
 
