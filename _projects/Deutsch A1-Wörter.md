@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Deutsche A1-Wörter"
+title:  "Deutsch A1-Wörter"
 date:   2024-12-7
-categories: Deutsche
+categories: Deutsch
 ---
 
 <!-- 流量追蹤 -->
 <script src="{{ '/assets/js/momo-script.js' | relative_url }}"></script>
 
 
-### Deutsche A1-Wörter
+### Deutsch A1-Wörter
 
 | Word               | Separation     | Frequency | Notes         |
 |-------------------|------------|-----------|---------------|

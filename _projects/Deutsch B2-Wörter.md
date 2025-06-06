@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Deutsche B1-Wörter"
+title:  "Deutsch B1-Wörter"
 date:   2024-12-7
-categories: Deutsche
+categories: Deutsch
 ---
 
 <!-- 流量追蹤 -->
 <script src="{{ '/assets/js/momo-script.js' | relative_url }}"></script>
 
-### Deutsche B1-Wörter
+### Deutsch B1-Wörter
 
 | Word               | Separation     | Frequency | Notes         |
 |-------------------|------------|-----------|---------------|

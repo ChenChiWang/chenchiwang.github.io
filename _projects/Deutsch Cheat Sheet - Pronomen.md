@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Deutsche Cheat Sheet"
+title:  "Deutsch Cheat Sheet - Pronomen"
 date:   2025-5-25
-categories: Deutsche
+categories: Deutsch
 ---
 
 <!-- 流量追蹤 -->
