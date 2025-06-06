@@ -59,7 +59,6 @@ categories: Deutsch
 
 
 - **範例句子**：
-
   - *fahren*: *Ich fahre nach Berlin.*（我開車去柏林）, *Er fährt mit dem Zug.*（他坐火車）
   - *schlafen*: *Du schläfst spät.*（你睡得很晚）, *Wir schlafen gut.*（我們睡得好）
 
@@ -80,7 +79,6 @@ categories: Deutsch
 
 
 - **範例句子**：
-
   - *sehen*: *Du siehst fern.*（你在看電視）, *Sie sieht das Buch.*（她看那本書）
   - *lesen*: *Sie liest ein Buch.*（她讀一本書）, *Ihr lest Zeitung.*（你們讀報紙）
 
@@ -122,7 +120,6 @@ categories: Deutsch
 
 
 - **範例句子**：
-
   - *kommen*: *Ich komme aus Deutschland.*（我來自德國）, *Er kommt später.*（他晚點來）
   - *holen*: *Ich hole das Buch.*（我去拿書）, *Du holst Wasser.*（你去取水）
 
@@ -145,14 +142,12 @@ categories: Deutsch
 
 
 - **範例句子**：
-
   - *sein*: *Ich bin Student.*（我是學生）, *Ihr seid nett.*（你們很友好）
   - *haben*: *Du hast ein Buch.*（你有一本書）, *Wir haben Zeit.*（我們有時間）
   - *möchten*: *Ich möchte Wasser.*（我想要水）, *Er möchte lernen.*（他想要學習）
   - *mögen*: *Ich mag Musik.*（我喜歡音樂）, *Du magst Filme.*（你喜歡電影）
 
 ## 4. 注意事項
-
 - **規則動詞**：詞尾 (-e, -st, -t, -en, -t, -en) 適用於所有規則動詞，詞幹不變。*sprechen*, *hören*, *arbeiten*, *lieben* 遵循此規則，詞幹分別為 sprech-, hör-, arbeit-, lieb-，未列變位表以保持簡潔。
 
 - **強變化動詞**：元音變化 (a→ä, e→ie, e→i, o→i) 只影響 *du* 和 *er/sie/es*，其他形式保持原形，整合按變化模式以便記憶。*geben*, *essen*, *nehmen* 屬於 e→i 模式，注意 *du nimmst*, *er/sie/es nimmt*；*kommen*, *holen* 屬於 o→i 模式，注意 *du holst*, *er/sie/es holt*。
@@ -164,7 +159,6 @@ categories: Deutsch
 - **發音注意**：*du* 形式的 *-st* 和 *ihr* 形式的 *-t* 可能因詞幹結尾輔音而略有變化 (如 *wäschst* 需注意發音，*heißt* 無 *-st* 結尾)。*möchtest*, *magst*, *nimmst*, *holst* 的發音需注意 *t* 音。
 
 ## 5. 實用建議
-
 - **記憶技巧**：按變位邏輯 (規則、a→ä、e→ie、e→i、o→i、不規則) 分類動詞，製作閃卡反覆練習。
 
 - **練習方法**：用簡單句子練習變位，如 *Ich nehme*, *Du holst*, *Er kommt*。
