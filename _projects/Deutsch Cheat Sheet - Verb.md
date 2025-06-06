@@ -57,7 +57,6 @@ categories: Deutsch
   | ihr        | fahrt         | schlaft         |
   | sie/Sie    | fahren        | schlafen        |
 
-
 - **範例句子**：
   - *fahren*: *Ich fahre nach Berlin.*（我開車去柏林）, *Er fährt mit dem Zug.*（他坐火車）
   - *schlafen*: *Du schläfst spät.*（你睡得很晚）, *Wir schlafen gut.*（我們睡得好）
@@ -77,7 +76,6 @@ categories: Deutsch
   | ihr        | seht       | lest         |
   | sie/Sie    | sehen      | lesen        |
 
-
 - **範例句子**：
   - *sehen*: *Du siehst fern.*（你在看電視）, *Sie sieht das Buch.*（她看那本書）
   - *lesen*: *Sie liest ein Buch.*（她讀一本書）, *Ihr lest Zeitung.*（你們讀報紙）
@@ -96,7 +94,6 @@ categories: Deutsch
   | wir        | geben      | essen      | nehmen          |
   | ihr        | gebt       | esst       | nehmt           |
   | sie/Sie    | geben      | essen      | nehmen          |
-
 
 - **範例句子**：
   - *geben*: *Er gibt mir einen Stift.*（他給我一支筆）, *Ihr gebt viel.*（你們給了很多）
@@ -118,7 +115,6 @@ categories: Deutsch
   | ihr        | kommt       | holt           |
   | sie/Sie    | kommen      | holen          |
 
-
 - **範例句子**：
   - *kommen*: *Ich komme aus Deutschland.*（我來自德國）, *Er kommt später.*（他晚點來）
   - *holen*: *Ich hole das Buch.*（我去拿書）, *Du holst Wasser.*（你去取水）
@@ -139,7 +135,6 @@ categories: Deutsch
   | wir        | sind      | haben      | möchten        | mögen        |
   | ihr        | seid      | habt       | möchtet        | mögt         |
   | sie/Sie    | sind      | haben      | möchten        | mögen        |
-
 
 - **範例句子**：
   - *sein*: *Ich bin Student.*（我是學生）, *Ihr seid nett.*（你們很友好）
