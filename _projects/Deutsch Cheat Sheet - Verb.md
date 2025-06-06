@@ -40,6 +40,7 @@ categories: Deutsch
 ### a → ä
 - **動詞**：fahren (駕駛), schlafen (睡)
 - **變位**：
+
   | 人稱       | fahren | schlafen |
   |------------|--------|----------|
   | ich        | fahre  | schlafe  |
@@ -56,6 +57,7 @@ categories: Deutsch
 ### e → ie
 - **動詞**：sehen (看), lesen (讀)
 - **變位**：
+
   | 人稱       | sehen | lesen |
   |------------|-------|-------|
   | ich        | sehe  | lese  |
@@ -72,6 +74,7 @@ categories: Deutsch
 ### e → i
 - **動詞**：geben (給), essen (吃), nehmen (拿)
 - **變位**：
+
   | 人稱       | geben | essen | nehmen |
   |------------|-------|-------|--------|
   | ich        | gebe  | esse  | nehme  |
@@ -89,6 +92,7 @@ categories: Deutsch
 ### o → i
 - **動詞**：kommen (來), holen (取)
 - **變位**：
+
   | 人稱       | kommen | holen |
   |------------|--------|-------|
   | ich        | komme  | hole  |
@@ -107,6 +111,7 @@ categories: Deutsch
 
 - **動詞**：sein (是), haben (有), möchten (想), mögen (喜歡)
 - **變位**：
+
   | 人稱       | sein | haben | möchten | mögen |
   |------------|------|-------|---------|-------|
   | ich        | bin  | habe  | möchte  | mag   |
