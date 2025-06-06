@@ -41,6 +41,7 @@ categories: Deutsch
 ### 2.1 元音變化：a → ä
 - **動詞**：fahren (駕駛), schlafen (睡覺)
 - **變位**：
+
   | 人稱       | fahren (駕駛) | schlafen (睡覺) |
   |------------|---------------|-----------------|
   | ich        | fahre         | schlafe         |
@@ -57,6 +58,7 @@ categories: Deutsch
 ### 2.2 元音變化：e → ie
 - **動詞**：sehen (看), lesen (閱讀)
 - **變位**：
+
   | 人稱       | sehen (看) | lesen (閱讀) |
   |------------|------------|--------------|
   | ich        | sehe       | lese         |
@@ -73,6 +75,7 @@ categories: Deutsch
 ### 2.3 元音變化：e → i
 - **動詞**：geben (給), essen (吃), nehmen (拿、取)
 - **變位**：
+
   | 人稱       | geben (給) | essen (吃) | nehmen (拿、取) |
   |------------|------------|------------|-----------------|
   | ich        | gebe       | esse       | nehme           |
@@ -90,6 +93,7 @@ categories: Deutsch
 ### 2.4 元音變化：o → i
 - **動詞**：kommen (來), holen (拿、取)
 - **變位**：
+
   | 人稱       | kommen (來) | holen (拿、取) |
   |------------|-------------|----------------|
   | ich        | komme       | hole           |
@@ -108,6 +112,7 @@ categories: Deutsch
 
 - **動詞**：sein (是), haben (有), möchten (想要), mögen (喜歡)
 - **變位**：
+
   | 人稱       | sein (是) | haben (有) | möchten (想要) | mögen (喜歡) |
   |------------|-----------|------------|----------------|--------------|
   | ich        | bin       | habe       | möchte         | mag          |
