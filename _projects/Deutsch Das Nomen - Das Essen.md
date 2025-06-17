@@ -10,8 +10,8 @@ categories: Deutsch
 
 <style>
 .noun-table th:nth-child(1), .noun-table td:nth-child(1) { color:rgb(53, 89, 199); } /* Masculin 欄 - Royal Blue */
-.noun-table th:nth-child(2), .noun-table td:nth-child(2) { color:rgb(233, 88, 88); } /* Feminin 欄 - Coral Red */
-.noun-table th:nth-child(3), .noun-table td:nth-child(3) { color:rgb(28, 194, 97); } /* Neutrum 欄 - Emerald Green */
+.noun-table th:nth-child(2), .noun-table td:nth-child(2) { color:rgb(223, 73, 73); } /* Feminin 欄 - Coral Red */
+.noun-table th:nth-child(3), .noun-table td:nth-child(3) { color:rgb(16, 163, 77); } /* Neutrum 欄 - Emerald Green */
 </style>
 
 | Masculin (der) | Feminin (die) | Neutrum (das) |
