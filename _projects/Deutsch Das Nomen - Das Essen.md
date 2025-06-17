@@ -14,7 +14,7 @@ categories: Deutsch
 .noun-table th:nth-child(3), .noun-table td:nth-child(3) { color: #2ECC71; } /* Neutrum 欄 - Emerald Green */
 </style>
 
-| <span style="color: #4169E1;">Masculin (der)</span> | <span style="color: #FF6B6B;">Feminin (die)</span> | <span style="color: #2ECC71;">Neutrum (das)</span> |
+| Masculin (der) | Feminin (die) | Neutrum (das) |
 | :------------- | :------------ | :------------ |
 | der Reis / die Reiskörner | die Paprika / die Paprikas | das Brot / die Brote |
 | der Pilz / die Pilze | die Wurst / die Würste | das Käse / - |
