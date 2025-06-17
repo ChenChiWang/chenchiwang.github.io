@@ -139,3 +139,14 @@ footer a:hover {
     text-align: center;
     max-width: 100%;
 }
+
+/* 為表格的每一欄指定類別 */
+table th:nth-child(1), table td:nth-child(1) {
+    color: blue; /* Masculin 欄 */
+}
+table th:nth-child(2), table td:nth-child(2) {
+    color: red; /* Feminin 欄 */
+}
+table th:nth-child(3), table td:nth-child(3) {
+    color: green; /* Neutrum 欄 */
+}
