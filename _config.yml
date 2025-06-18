@@ -55,6 +55,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  pages:
+    output: true
+    permalink: /pages/:path/
 
 # 分頁和顯示
 paginate: 5 # 每頁顯示5篇文章
