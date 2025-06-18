@@ -7,7 +7,7 @@ title: "Augenblick"
 <ul class="blog-posts">
   {% for page in site.pages %}
     <li class="post-item">
-      <a href="{{ pages.url }}">{{ pages.title }}</a>
+      <a href="{{ page.url }}">{{ page.title }}</a>
     </li>
   {% endfor %}
 </ul>
