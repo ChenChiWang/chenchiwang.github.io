@@ -5,7 +5,7 @@ title: "Augenblick"
 
 <h1>{{ page.title }}</h1>
 <ul class="blog-posts">
-  {% for project in site.projects %}
+  {% for page in site.pages %}
     <li class="post-item">
       <a href="{{ pages.url }}">{{ pages.title }}</a>
     </li>
