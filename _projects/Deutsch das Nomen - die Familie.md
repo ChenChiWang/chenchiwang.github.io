@@ -17,18 +17,22 @@ categories: Deutsch
 | Masculin (der)          | Feminin (die)            | Neutrum (das)           |
 | :---------------------- | :----------------------- | :---------------------- |
 | der Vater, -            | die Mutter, -            |  |
+|                         | die Eltern, -            |  |
 | der Sohn, die Söhne     | die Tochter, -           |  |
 | der Bruder, -           | die Schwester, die Schwestern |  |
+|                         | die Geschwister, -       |  |
 |                         |                          | das Kind, die Kinder    |
 |                         |                          | das Baby, die Babys     |
 |                         |                          | das Junge, die Jungen   |
 |                         |                          | das Enkelkind, die Enkelkinder |
 | der Enkel, die Enkel    | die Enkelin, die Enkelinnen |  |
 | der Großvater, -        | die Großmutter, -        |  |
+|                         | die Großeltern, -        |  |
 | der Opa, die Opas       | die Oma, die Omas        |  |
 | der Onkel, -            | die Tante, die Tanten    |  |
 | der Neffe, die Neffen   | die Nichte, die Nichten  |  |
 | der Cousin, die Cousins | die Cousine, die Cousinen |  |
+| der Ehemann, die Ehemänner | die Ehefrau, die Ehefrauen |  |
 | der Mann, die Männer    | die Frau, die Frauen     |  |
 | der Schwager, -         | die Schwägerin, die Schwägerinnen |  |
 | der Schwiegervater, -   | die Schwiegermutter, -   |  |
