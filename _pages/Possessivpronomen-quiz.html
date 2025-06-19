@@ -131,219 +131,219 @@ categories: Deutsch
     <script>
         // Personalpronomen und ihre Possessivpronomen definieren
         const pronouns = {
-            "Ich": {
+            "ich": {
                 possessiv: "mein",
                 "Nominativ": {
-                    "Masculin": "mein",
+                    "Maskulin": "mein",
                     "Feminin": "meine",
-                    "Neutrum": "mein",
+                    "Neutral": "mein",
                     "Plural": "meine"
                 },
                 "Akkusativ": {
-                    "Masculin": "meinen",
+                    "Maskulin": "meinen",
                     "Feminin": "meine",
-                    "Neutrum": "mein",
+                    "Neutral": "mein",
                     "Plural": "meine"
                 },
                 "Dativ": {
-                    "Masculin": "meinem",
+                    "Maskulin": "meinem",
                     "Feminin": "meiner",
-                    "Neutrum": "meinem",
+                    "Neutral": "meinem",
                     "Plural": "meinen"
                 },
                 "Genitiv": {
-                    "Masculin": "meines",
+                    "Maskulin": "meines",
                     "Feminin": "meiner",
-                    "Neutrum": "meines",
+                    "Neutral": "meines",
                     "Plural": "meiner"
                 }
             },
-            "Du": {
+            "du": {
                 possessiv: "dein",
                 "Nominativ": {
-                    "Masculin": "dein",
+                    "Maskulin": "dein",
                     "Feminin": "deine",
-                    "Neutrum": "dein",
+                    "Neutral": "dein",
                     "Plural": "deine"
                 },
                 "Akkusativ": {
-                    "Masculin": "deinen",
+                    "Maskulin": "deinen",
                     "Feminin": "deine",
-                    "Neutrum": "dein",
+                    "Neutral": "dein",
                     "Plural": "deine"
                 },
                 "Dativ": {
-                    "Masculin": "deinem",
+                    "Maskulin": "deinem",
                     "Feminin": "deiner",
-                    "Neutrum": "deinem",
+                    "Neutral": "deinem",
                     "Plural": "deinen"
                 },
                 "Genitiv": {
-                    "Masculin": "deines",
+                    "Maskulin": "deines",
                     "Feminin": "deiner",
-                    "Neutrum": "deines",
+                    "Neutral": "deines",
                     "Plural": "deiner"
                 }
             },
-            "Er": {
+            "er": {
                 possessiv: "sein",
                 "Nominativ": {
-                    "Masculin": "sein",
+                    "Maskulin": "sein",
                     "Feminin": "seine",
-                    "Neutrum": "sein",
+                    "Neutral": "sein",
                     "Plural": "seine"
                 },
                 "Akkusativ": {
-                    "Masculin": "seinen",
+                    "Maskulin": "seinen",
                     "Feminin": "seine",
-                    "Neutrum": "sein",
+                    "Neutral": "sein",
                     "Plural": "seine"
                 },
                 "Dativ": {
-                    "Masculin": "seinem",
+                    "Maskulin": "seinem",
                     "Feminin": "seiner",
-                    "Neutrum": "seinem",
+                    "Neutral": "seinem",
                     "Plural": "seinen"
                 },
                 "Genitiv": {
-                    "Masculin": "seines",
+                    "Maskulin": "seines",
                     "Feminin": "seiner",
-                    "Neutrum": "seines",
+                    "Neutral": "seines",
                     "Plural": "seiner"
                 }
             },
-            "Sie (she)": {
+            "sie (she)": {
                 possessiv: "ihr",
                 "Nominativ": {
-                    "Masculin": "ihr",
+                    "Maskulin": "ihr",
                     "Feminin": "ihre",
-                    "Neutrum": "ihr",
+                    "Neutral": "ihr",
                     "Plural": "ihre"
                 },
                 "Akkusativ": {
-                    "Masculin": "ihren",
+                    "Maskulin": "ihren",
                     "Feminin": "ihre",
-                    "Neutrum": "ihr",
+                    "Neutral": "ihr",
                     "Plural": "ihre"
                 },
                 "Dativ": {
-                    "Masculin": "ihrem",
+                    "Maskulin": "ihrem",
                     "Feminin": "ihrer",
-                    "Neutrum": "ihrem",
+                    "Neutral": "ihrem",
                     "Plural": "ihren"
                 },
                 "Genitiv": {
-                    "Masculin": "ihres",
+                    "Maskulin": "ihres",
                     "Feminin": "ihrer",
-                    "Neutrum": "ihres",
+                    "Neutral": "ihres",
                     "Plural": "ihrer"
                 }
             },
-            "Es": {
+            "es": {
                 possessiv: "sein",
                 "Nominativ": {
-                    "Masculin": "sein",
+                    "Maskulin": "sein",
                     "Feminin": "seine",
-                    "Neutrum": "sein",
+                    "Neutral": "sein",
                     "Plural": "seine"
                 },
                 "Akkusativ": {
-                    "Masculin": "seinen",
+                    "Maskulin": "seinen",
                     "Feminin": "seine",
-                    "Neutrum": "sein",
+                    "Neutral": "sein",
                     "Plural": "seine"
                 },
                 "Dativ": {
-                    "Masculin": "seinem",
+                    "Maskulin": "seinem",
                     "Feminin": "seiner",
-                    "Neutrum": "seinem",
+                    "Neutral": "seinem",
                     "Plural": "seinen"
                 },
                 "Genitiv": {
-                    "Masculin": "seines",
+                    "Maskulin": "seines",
                     "Feminin": "seiner",
-                    "Neutrum": "seines",
+                    "Neutral": "seines",
                     "Plural": "seiner"
                 }
             },
-            "Wir": {
+            "wir": {
                 possessiv: "unser",
                 "Nominativ": {
-                    "Masculin": "unser",
+                    "Maskulin": "unser",
                     "Feminin": "unsere",
-                    "Neutrum": "unser",
+                    "Neutral": "unser",
                     "Plural": "unsere"
                 },
                 "Akkusativ": {
-                    "Masculin": "unseren",
+                    "Maskulin": "unseren",
                     "Feminin": "unsere",
-                    "Neutrum": "unser",
+                    "Neutral": "unser",
                     "Plural": "unsere"
                 },
                 "Dativ": {
-                    "Masculin": "unserem",
+                    "Maskulin": "unserem",
                     "Feminin": "unserer",
-                    "Neutrum": "unserem",
+                    "Neutral": "unserem",
                     "Plural": "unseren"
                 },
                 "Genitiv": {
-                    "Masculin": "unseres",
+                    "Maskulin": "unseres",
                     "Feminin": "unserer",
-                    "Neutrum": "unseres",
+                    "Neutral": "unseres",
                     "Plural": "unserer"
                 }
             },
-            "Ihr": {
+            "ihr": {
                 possessiv: "euer",
                 "Nominativ": {
-                    "Masculin": "euer",
+                    "Maskulin": "euer",
                     "Feminin": "eure",
-                    "Neutrum": "euer",
+                    "Neutral": "euer",
                     "Plural": "eure"
                 },
                 "Akkusativ": {
-                    "Masculin": "euren",
+                    "Maskulin": "euren",
                     "Feminin": "eure",
-                    "Neutrum": "euer",
+                    "Neutral": "euer",
                     "Plural": "eure"
                 },
                 "Dativ": {
-                    "Masculin": "eurem",
+                    "Maskulin": "eurem",
                     "Feminin": "eurer",
-                    "Neutrum": "eurem",
+                    "Neutral": "eurem",
                     "Plural": "euren"
                 },
                 "Genitiv": {
-                    "Masculin": "eures",
+                    "Maskulin": "eures",
                     "Feminin": "eurer",
-                    "Neutrum": "eures",
+                    "Neutral": "eures",
                     "Plural": "eurer"
                 }
             },
-            "Sie (they)": {
+            "sie (they)": {
                 possessiv: "ihr",
                 "Nominativ": {
-                    "Masculin": "ihr",
+                    "Maskulin": "ihr",
                     "Feminin": "ihre",
-                    "Neutrum": "ihr",
+                    "Neutral": "ihr",
                     "Plural": "ihre"
                 },
                 "Akkusativ": {
-                    "Masculin": "ihren",
+                    "Maskulin": "ihren",
                     "Feminin": "ihre",
-                    "Neutrum": "ihr",
+                    "Neutral": "ihr",
                     "Plural": "ihre"
                 },
                 "Dativ": {
-                    "Masculin": "ihrem",
+                    "Maskulin": "ihrem",
                     "Feminin": "ihrer",
-                    "Neutrum": "ihrem",
+                    "Neutral": "ihrem",
                     "Plural": "ihren"
                 },
                 "Genitiv": {
-                    "Masculin": "ihres",
+                    "Maskulin": "ihres",
                     "Feminin": "ihrer",
-                    "Neutrum": "ihres",
+                    "Neutral": "ihres",
                     "Plural": "ihrer"
                 }
             }
@@ -351,7 +351,7 @@ categories: Deutsch
 
         // Kasus und Geschlecht definieren
         const cases = ["Nominativ", "Akkusativ", "Dativ", "Genitiv"];
-        const genders = ["Masculin", "Feminin", "Neutrum", "Plural"];
+        const genders = ["Maskulin", "Feminin", "Neutral", "Plural"];
 
         let currentQuestion;
 

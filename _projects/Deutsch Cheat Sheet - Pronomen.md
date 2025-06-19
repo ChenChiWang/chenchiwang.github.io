@@ -28,36 +28,36 @@ categories: Deutsch
 
 所有格代詞隨所修飾名詞的性別和格變化，以下為各代詞的變化表格。
 
-### 2.1 Ich：
+### 2.1 ich：
 
-|              | Masculin | Neutrum | Feminin | Plural |
+|              | Maskulin | Neutral | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
 | **Nominativ** | mein            | mein           | meine          | meine         |
 | **Akkusativ** | meinen          | mein           | meine          | meine         |
 | **Dativ**     | meinem          | meinem         | meiner         | meinen        |
 | **Genitiv**   | meines          | meines         | meiner         | meiner        |
 
-### 2.2 Du：
+### 2.2 du：
 
-|              | Masculin | Neutrum | Feminin | Plural |
+|              | Maskulin | Neutral | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
 | **Nominativ** | dein            | dein           | deine          | deine         |
 | **Akkusativ** | deinen          | dein           | deine          | deine         |
 | **Dativ**     | deinem          | deinem         | deiner         | deinen        |
 | **Genitiv**   | deines          | deines         | deiner         | deiner        |
 
-### 2.3 Er/ Es：
+### 2.3 er/ es：
 
-|              | Masculin | Neutrum | Feminin | Plural |
+|              | Maskulin | Neutral | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
 | **Nominativ** | sein            | sein           | seine          | seine         |
 | **Akkusativ** | seinen          | sein           | seine          | seine         |
 | **Dativ**     | seinem          | seinem         | seiner         | seinen        |
 | **Genitiv**   | seines          | seines         | seiner         | seiner        |
 
-### 2.4 Sie (她) / Sie (他們/她們)：
+### 2.4 sie (she) / sie (they)：
 
-|              | Masculin | Neutrum | Feminin | Plural |
+|              | Maskulin | Neutral | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
 | **Nominativ** | ihr             | ihr            | ihre           | ihre          |
 | **Akkusativ** | ihren           | ihr            | ihre           | ihre          |
@@ -66,9 +66,9 @@ categories: Deutsch
 
 **註**：此處 *ihr*（小寫）用於「她」（單數陰性）或「他們/她們」（複數）的所有格，如 *ihr Buch*（她的書）或 *ihr Auto*（他們的車）。
 
-### 2.5 Sie (您/您們)：
+### 2.5 Sie (formell)：
 
-|              | Masculin | Neutrum | Feminin | Plural |
+|              | Maskulin | Neutral | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
 | **Nominativ** | Ihr             | Ihr            | Ihre           | Ihre          |
 | **Akkusativ** | Ihren           | Ihr            | Ihre           | Ihre          |
@@ -77,38 +77,38 @@ categories: Deutsch
 
 **註**：大寫 *Ihr* 用於禮貌「您/您們」的所有格，如 *Ihr Name*（您的名字）。
 
-### 2.6 Wir：
+### 2.6 wir：
 
-|              | Masculin | Neutrum | Feminin | Plural |
+|              | Maskulin | Neutral | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
 | **Nominativ** | unser           | unser          | unsere         | unsere        |
 | **Akkusativ** | unseren         | unser          | unsere         | unsere        |
 | **Dativ**     | unserem         | unserem        | unserer        | unseren       |
 | **Genitiv**   | unseres         | unseres        | unserer        | unserer       |
 
-### 2.7 Ihr：
+### 2.7 ihr：
 
-|              | Masculin | Neutrum | Feminin | Plural |
+|              | Maskulin | Neutral | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
 | **Nominativ** | euer            | euer           | eure           | eure          |
 | **Akkusativ** | euren           | euer           | eure           | eure          |
 | **Dativ**     | eurem           | eurem          | eurer          | euren         |
 | **Genitiv**   | eures           | eures          | eurer          | eurer         |
 
-## 3. 冠詞 (Artikel)
+## 3. Artikel
 
-### 3.1 Bestimmter Artikel（定冠詞）
+### 3.1 Definiter Artikel（定冠詞）
 
-|              | Masculin | Neutrum | Feminin | Plural |
+|              | Maskulin | Neutral | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
 | **Nominativ** | der             | das            | die            | die           |
 | **Akkusativ** | den             | das            | die            | die           |
 | **Dativ**     | dem             | dem            | der            | den           |
 | **Genitiv**   | des             | des            | der            | der           |
 
-### 3.2 Unbestimmter Artikel（不定冠詞）
+### 3.2 Indefiniter Artikel（不定冠詞）
 
-|              | Masculin | Neutrum | Feminin | Plural |
+|              | Maskulin | Neutral | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
 | **Nominativ** | ein             | ein            | eine           | -             |
 | **Akkusativ** | einen           | ein            | eine           | -             |
@@ -117,7 +117,7 @@ categories: Deutsch
 
 ### 3.3 Negativer Artikel（否定冠詞）
 
-|              | Masculin | Neutrum | Feminin | Plural |
+|              | Maskulin | Neutral | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
 | **Nominativ** | kein            | kein           | keine          | keine         |
 | **Akkusativ** | keinen          | kein           | keine          | keine         |

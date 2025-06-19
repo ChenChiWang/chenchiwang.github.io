@@ -98,7 +98,7 @@ categories: Deutsch
             color: #696969; /* 中深灰 */
             font-weight: bold;
         }
-        .masculin {
+        .maskulin {
             color: #4169E1; /* 皇家藍 */
             font-weight: bold;
         }
@@ -106,7 +106,7 @@ categories: Deutsch
             color: #FF6B6B; /* 珊瑚紅 */
             font-weight: bold;
         }
-        .neutrum {
+        .neutral {
             color: #2ECC71; /* 翡翠綠 */
             font-weight: bold;
         }
@@ -119,12 +119,12 @@ categories: Deutsch
             font-weight: bold;
             color: #808080; /* 中灰色 */
         }
-        .icon-bestimmter {
-            color: #2ECC71; /* 綠色，與 Neutrum 協調 */
+        .icon-definit {
+            color: #2ECC71; /* 綠色，與 Neutral 協調 */
             margin-left: 5px;
             font-size: inherit; /* 與文字大小一致 */
         }
-        .icon-unbestimmter {
+        .icon-undefinit {
             color: #8A2BE2; /* 紫色 */
             margin-left: 5px;
             font-size: inherit; /* 與文字大小一致 */
@@ -151,12 +151,12 @@ categories: Deutsch
     <script>
         // Artikel definieren
         const articles = {
-            "Bestimmter Artikel": {
+            "definit Artikel": {
                 "der": {
-                    "Nominativ": { "Masculin": "der" },
-                    "Akkusativ": { "Masculin": "den" },
-                    "Dativ": { "Masculin": "dem" },
-                    "Genitiv": { "Masculin": "des" }
+                    "Nominativ": { "Maskulin": "der" },
+                    "Akkusativ": { "Maskulin": "den" },
+                    "Dativ": { "Maskulin": "dem" },
+                    "Genitiv": { "Maskulin": "des" }
                 },
                 "die (Feminin)": {
                     "Nominativ": { "Feminin": "die" },
@@ -165,10 +165,10 @@ categories: Deutsch
                     "Genitiv": { "Feminin": "der" }
                 },
                 "das": {
-                    "Nominativ": { "Neutrum": "das" },
-                    "Akkusativ": { "Neutrum": "das" },
-                    "Dativ": { "Neutrum": "dem" },
-                    "Genitiv": { "Neutrum": "des" }
+                    "Nominativ": { "Neutral": "das" },
+                    "Akkusativ": { "Neutral": "das" },
+                    "Dativ": { "Neutral": "dem" },
+                    "Genitiv": { "Neutral": "des" }
                 },
                 "die (Plural)": {
                     "Nominativ": { "Plural": "die" },
@@ -177,12 +177,12 @@ categories: Deutsch
                     "Genitiv": { "Plural": "der" }
                 }
             },
-            "Unbestimmter Artikel": {
+            "Undefinit Artikel": {
                 "der": {
-                    "Nominativ": { "Masculin": "ein" },
-                    "Akkusativ": { "Masculin": "einen" },
-                    "Dativ": { "Masculin": "einem" },
-                    "Genitiv": { "Masculin": "eines" }
+                    "Nominativ": { "Maskulin": "ein" },
+                    "Akkusativ": { "Maskulin": "einen" },
+                    "Dativ": { "Maskulin": "einem" },
+                    "Genitiv": { "Maskulin": "eines" }
                 },
                 "die (Feminin)": {
                     "Nominativ": { "Feminin": "eine" },
@@ -191,10 +191,10 @@ categories: Deutsch
                     "Genitiv": { "Feminin": "einer" }
                 },
                 "das": {
-                    "Nominativ": { "Neutrum": "ein" },
-                    "Akkusativ": { "Neutrum": "ein" },
-                    "Dativ": { "Neutrum": "einem" },
-                    "Genitiv": { "Neutrum": "eines" }
+                    "Nominativ": { "Neutral": "ein" },
+                    "Akkusativ": { "Neutral": "ein" },
+                    "Dativ": { "Neutral": "einem" },
+                    "Genitiv": { "Neutral": "eines" }
                 },
                 "die (Plural)": {
                     "Nominativ": { "Plural": "-" },
@@ -205,10 +205,10 @@ categories: Deutsch
             },
             "Negativer Artikel": {
                 "der": {
-                    "Nominativ": { "Masculin": "kein" },
-                    "Akkusativ": { "Masculin": "keinen" },
-                    "Dativ": { "Masculin": "keinem" },
-                    "Genitiv": { "Masculin": "keines" }
+                    "Nominativ": { "Maskulin": "kein" },
+                    "Akkusativ": { "Maskulin": "keinen" },
+                    "Dativ": { "Maskulin": "keinem" },
+                    "Genitiv": { "Maskulin": "keines" }
                 },
                 "die (Feminin)": {
                     "Nominativ": { "Feminin": "keine" },
@@ -217,10 +217,10 @@ categories: Deutsch
                     "Genitiv": { "Feminin": "keiner" }
                 },
                 "das": {
-                    "Nominativ": { "Neutrum": "kein" },
-                    "Akkusativ": { "Neutrum": "kein" },
-                    "Dativ": { "Neutrum": "keinem" },
-                    "Genitiv": { "Neutrum": "keines" }
+                    "Nominativ": { "Neutral": "kein" },
+                    "Akkusativ": { "Neutral": "kein" },
+                    "Dativ": { "Neutral": "keinem" },
+                    "Genitiv": { "Neutral": "keines" }
                 },
                 "die (Plural)": {
                     "Nominativ": { "Plural": "keine" },
@@ -233,7 +233,7 @@ categories: Deutsch
 
         // Kasus und Geschlecht definieren
         const cases = ["Nominativ", "Akkusativ", "Dativ", "Genitiv"];
-        const genders = ["Masculin", "Feminin", "Neutrum", "Plural"];
+        const genders = ["Maskulin", "Feminin", "Neutral", "Plural"];
         const definiteArticles = ["der", "die (Feminin)", "das", "die (Plural)"];
 
         let currentQuestion;
@@ -264,7 +264,7 @@ categories: Deutsch
                 // 確保問題有效且排除定冠詞的 Nominativ
             } while (
                 !articles[articleType][baseForm][caseKey][genderKey] ||
-                (articleType === "Bestimmter Artikel" && caseKey === "Nominativ") ||
+                (articleType === "definit Artikel" && caseKey === "Nominativ") ||
                 articles[articleType][baseForm][caseKey][genderKey] === "-"
             );
 
@@ -297,10 +297,10 @@ categories: Deutsch
             
             // 添加圖示
             let icon = '';
-            if (articleType === "Bestimmter Artikel") {
-                icon = `<span class="icon-bestimmter">👈</span>`;
-            } else if (articleType === "Unbestimmter Artikel") {
-                icon = `<span class="icon-unbestimmter">1</span>`;
+            if (articleType === "definit Artikel") {
+                icon = `<span class="icon-definit">👈</span>`;
+            } else if (articleType === "Undefinit Artikel") {
+                icon = `<span class="icon-undefinit">1</span>`;
             } else if (articleType === "Negativer Artikel") {
                 icon = `<span class="icon-negativer">0</span>`;
             }
