@@ -83,12 +83,35 @@ categories: Deutsch
         .incorrect {
             color: red;
         }
+        .nominative {
+            font-weight: bold; /* 無顏色，標準黑色 */
+        }
         .accusative {
-            color: #1e90ff; /* 藍色 for Akkusativ */
+            color: #4682B4; /* 鋼藍色 */
             font-weight: bold;
         }
         .dative {
-            color: #ff8c00; /* 橙色 for Dativ */
+            color: #FF8C00; /* 橙色 */
+            font-weight: bold;
+        }
+        .genitive {
+            color: #696969; /* 中深灰 */
+            font-weight: bold;
+        }
+        .masculin {
+            color: #4169E1; /* 皇家藍 */
+            font-weight: bold;
+        }
+        .feminin {
+            color: #FF6B6B; /* 珊瑚紅 */
+            font-weight: bold;
+        }
+        .neutrum {
+            color: #2ECC71; /* 翡翠綠 */
+            font-weight: bold;
+        }
+        .plural {
+            color: #4B4B4B; /* 深灰 */
             font-weight: bold;
         }
     </style>
@@ -110,6 +133,12 @@ categories: Deutsch
         const pronouns = {
             "Ich": {
                 possessiv: "mein",
+                "Nominativ": {
+                    "Masculin": "mein",
+                    "Feminin": "meine",
+                    "Neutrum": "mein",
+                    "Plural": "meine"
+                },
                 "Akkusativ": {
                     "Masculin": "meinen",
                     "Feminin": "meine",
@@ -121,10 +150,22 @@ categories: Deutsch
                     "Feminin": "meiner",
                     "Neutrum": "meinem",
                     "Plural": "meinen"
+                },
+                "Genitiv": {
+                    "Masculin": "meines",
+                    "Feminin": "meiner",
+                    "Neutrum": "meines",
+                    "Plural": "meiner"
                 }
             },
             "Du": {
                 possessiv: "dein",
+                "Nominativ": {
+                    "Masculin": "dein",
+                    "Feminin": "deine",
+                    "Neutrum": "dein",
+                    "Plural": "deine"
+                },
                 "Akkusativ": {
                     "Masculin": "deinen",
                     "Feminin": "deine",
@@ -136,10 +177,22 @@ categories: Deutsch
                     "Feminin": "deiner",
                     "Neutrum": "deinem",
                     "Plural": "deinen"
+                },
+                "Genitiv": {
+                    "Masculin": "deines",
+                    "Feminin": "deiner",
+                    "Neutrum": "deines",
+                    "Plural": "deiner"
                 }
             },
             "Er": {
                 possessiv: "sein",
+                "Nominativ": {
+                    "Masculin": "sein",
+                    "Feminin": "seine",
+                    "Neutrum": "sein",
+                    "Plural": "seine"
+                },
                 "Akkusativ": {
                     "Masculin": "seinen",
                     "Feminin": "seine",
@@ -151,10 +204,22 @@ categories: Deutsch
                     "Feminin": "seiner",
                     "Neutrum": "seinem",
                     "Plural": "seinen"
+                },
+                "Genitiv": {
+                    "Masculin": "seines",
+                    "Feminin": "seiner",
+                    "Neutrum": "seines",
+                    "Plural": "seiner"
                 }
             },
             "Sie (she)": {
                 possessiv: "ihr",
+                "Nominativ": {
+                    "Masculin": "ihr",
+                    "Feminin": "ihre",
+                    "Neutrum": "ihr",
+                    "Plural": "ihre"
+                },
                 "Akkusativ": {
                     "Masculin": "ihren",
                     "Feminin": "ihre",
@@ -166,10 +231,22 @@ categories: Deutsch
                     "Feminin": "ihrer",
                     "Neutrum": "ihrem",
                     "Plural": "ihren"
+                },
+                "Genitiv": {
+                    "Masculin": "ihres",
+                    "Feminin": "ihrer",
+                    "Neutrum": "ihres",
+                    "Plural": "ihrer"
                 }
             },
             "Es": {
                 possessiv: "sein",
+                "Nominativ": {
+                    "Masculin": "sein",
+                    "Feminin": "seine",
+                    "Neutrum": "sein",
+                    "Plural": "seine"
+                },
                 "Akkusativ": {
                     "Masculin": "seinen",
                     "Feminin": "seine",
@@ -181,10 +258,22 @@ categories: Deutsch
                     "Feminin": "seiner",
                     "Neutrum": "seinem",
                     "Plural": "seinen"
+                },
+                "Genitiv": {
+                    "Masculin": "seines",
+                    "Feminin": "seiner",
+                    "Neutrum": "seines",
+                    "Plural": "seiner"
                 }
             },
             "Wir": {
                 possessiv: "unser",
+                "Nominativ": {
+                    "Masculin": "unser",
+                    "Feminin": "unsere",
+                    "Neutrum": "unser",
+                    "Plural": "unsere"
+                },
                 "Akkusativ": {
                     "Masculin": "unseren",
                     "Feminin": "unsere",
@@ -196,10 +285,22 @@ categories: Deutsch
                     "Feminin": "unserer",
                     "Neutrum": "unserem",
                     "Plural": "unseren"
+                },
+                "Genitiv": {
+                    "Masculin": "unseres",
+                    "Feminin": "unserer",
+                    "Neutrum": "unseres",
+                    "Plural": "unserer"
                 }
             },
             "Ihr": {
                 possessiv: "euer",
+                "Nominativ": {
+                    "Masculin": "euer",
+                    "Feminin": "eure",
+                    "Neutrum": "euer",
+                    "Plural": "eure"
+                },
                 "Akkusativ": {
                     "Masculin": "euren",
                     "Feminin": "eure",
@@ -211,10 +312,22 @@ categories: Deutsch
                     "Feminin": "eurer",
                     "Neutrum": "eurem",
                     "Plural": "euren"
+                },
+                "Genitiv": {
+                    "Masculin": "eures",
+                    "Feminin": "eurer",
+                    "Neutrum": "eures",
+                    "Plural": "eurer"
                 }
             },
             "Sie (they)": {
                 possessiv: "ihr",
+                "Nominativ": {
+                    "Masculin": "ihr",
+                    "Feminin": "ihre",
+                    "Neutrum": "ihr",
+                    "Plural": "ihre"
+                },
                 "Akkusativ": {
                     "Masculin": "ihren",
                     "Feminin": "ihre",
@@ -226,12 +339,18 @@ categories: Deutsch
                     "Feminin": "ihrer",
                     "Neutrum": "ihrem",
                     "Plural": "ihren"
+                },
+                "Genitiv": {
+                    "Masculin": "ihres",
+                    "Feminin": "ihrer",
+                    "Neutrum": "ihres",
+                    "Plural": "ihrer"
                 }
             }
         };
 
         // Kasus und Geschlecht definieren
-        const cases = ["Akkusativ", "Dativ"];
+        const cases = ["Nominativ", "Akkusativ", "Dativ", "Genitiv"];
         const genders = ["Masculin", "Feminin", "Neutrum", "Plural"];
 
         let currentQuestion;
@@ -256,19 +375,26 @@ categories: Deutsch
                 answer: pronouns[pronoun][caseKey][genderKey] 
             };
             
-            // Farbliche Hervorhebung für Akkusativ und Dativ
+            // Farbliche Hervorhebung für Kasus
             let caseDisplay = caseKey;
-            if (caseKey === "Akkusativ") {
+            if (caseKey === "Nominativ") {
+                caseDisplay = `<span class="nominative">${caseKey}</span>`;
+            } else if (caseKey === "Akkusativ") {
                 caseDisplay = `<span class="accusative">${caseKey}</span>`;
             } else if (caseKey === "Dativ") {
                 caseDisplay = `<span class="dative">${caseKey}</span>`;
+            } else if (caseKey === "Genitiv") {
+                caseDisplay = `<span class="genitive">${caseKey}</span>`;
             }
             
-            // 問題顯示，確保換行，性別/數加粗
+            // Farbliche Hervorhebung für Geschlecht/數
+            let genderDisplay = `<span class="${genderKey.toLowerCase()}">${genderKey}</span>`;
+            
+            // 問題顯示，確保換行，格和性別/數加粗
             document.getElementById("question").innerHTML = `
                 Gib die korrekte Form des Possessivpronomens<br>
                 <strong>${pronoun}</strong><br>
-                ${caseDisplay}, <strong>${genderKey}</strong>
+                ${caseDisplay}, ${genderDisplay}
             `;
         }
 
