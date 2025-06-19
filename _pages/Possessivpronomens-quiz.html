@@ -1,20 +1,19 @@
 ---
 layout: default
-title:  "Personalpronomen"
-date:   2025-6-18
+title:  "Possessivpronomens"
+date:   2025-6-19
 categories: Deutsch
 ---
 
 <!-- 流量追蹤 -->
 <script src="{{ '/assets/js/momo-script.js' | relative_url }}"></script>
 
-
 <!DOCTYPE html>
 <html lang="de">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Übung zu deutschen Personalpronomen</title>
+    <title>Übung zu deutschen Possessivpronomen</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -41,7 +40,7 @@ categories: Deutsch
         p {
             font-size: 18px;
             margin: 10px 0;
-            line-height: 1.5; /* 增加行距以提高可讀性 */
+            line-height: 1.5;
         }
         input {
             padding: 8px;
@@ -96,7 +95,7 @@ categories: Deutsch
 </head>
 <body>
     <div class="container">
-        <h1>Übung zu deutschen Personalpronomen</h1>
+        <h1>Übung zu deutschen Possessivpronomen</h1>
         <p id="question"></p>
         <input type="text" id="answerInput" placeholder="Antwort eingeben" autocomplete="off">
         <div>
@@ -107,20 +106,133 @@ categories: Deutsch
     </div>
 
     <script>
-        // Personalpronomen definieren
+        // Personalpronomen und ihre Possessivpronomen definieren
         const pronouns = {
-            "Ich": {"Nominativ": "Ich", "Akkusativ": "mich", "Dativ": "mir"},
-            "Du": {"Nominativ": "Du", "Akkusativ": "dich", "Dativ": "dir"},
-            "Er": {"Nominativ": "Er", "Akkusativ": "ihn", "Dativ": "ihm"},
-            "Sie (she)": {"Nominativ": "Sie", "Akkusativ": "sie", "Dativ": "ihr"},
-            "Es": {"Nominativ": "Es", "Akkusativ": "es", "Dativ": "ihm"},
-            "Wir": {"Nominativ": "Wir", "Akkusativ": "uns", "Dativ": "uns"},
-            "Ihr": {"Nominativ": "Ihr", "Akkusativ": "euch", "Dativ": "euch"},
-            "Sie (they)": {"Nominativ": "Sie", "Akkusativ": "sie", "Dativ": "ihnen"}
+            "Ich": {
+                possessiv: "mein",
+                "Akkusativ": {
+                    "Masculin": "meinen",
+                    "Feminin": "meine",
+                    "Neutrum": "mein",
+                    "Plural": "meine"
+                },
+                "Dativ": {
+                    "Masculin": "meinem",
+                    "Feminin": "meiner",
+                    "Neutrum": "meinem",
+                    "Plural": "meinen"
+                }
+            },
+            "Du": {
+                possessiv: "dein",
+                "Akkusativ": {
+                    "Masculin": "deinen",
+                    "Feminin": "deine",
+                    "Neutrum": "dein",
+                    "Plural": "deine"
+                },
+                "Dativ": {
+                    "Masculin": "deinem",
+                    "Feminin": "deiner",
+                    "Neutrum": "deinem",
+                    "Plural": "deinen"
+                }
+            },
+            "Er": {
+                possessiv: "sein",
+                "Akkusativ": {
+                    "Masculin": "seinen",
+                    "Feminin": "seine",
+                    "Neutrum": "sein",
+                    "Plural": "seine"
+                },
+                "Dativ": {
+                    "Masculin": "seinem",
+                    "Feminin": "seiner",
+                    "Neutrum": "seinem",
+                    "Plural": "seinen"
+                }
+            },
+            "Sie (she)": {
+                possessiv: "ihr",
+                "Akkusativ": {
+                    "Masculin": "ihren",
+                    "Feminin": "ihre",
+                    "Neutrum": "ihr",
+                    "Plural": "ihre"
+                },
+                "Dativ": {
+                    "Masculin": "ihrem",
+                    "Feminin": "ihrer",
+                    "Neutrum": "ihrem",
+                    "Plural": "ihren"
+                }
+            },
+            "Es": {
+                possessiv: "sein",
+                "Akkusativ": {
+                    "Masculin": "seinen",
+                    "Feminin": "seine",
+                    "Neutrum": "sein",
+                    "Plural": "seine"
+                },
+                "Dativ": {
+                    "Masculin": "seinem",
+                    "Feminin": "seiner",
+                    "Neutrum": "seinem",
+                    "Plural": "seinen"
+                }
+            },
+            "Wir": {
+                possessiv: "unser",
+                "Akkusativ": {
+                    "Masculin": "unseren",
+                    "Feminin": "unsere",
+                    "Neutrum": "unser",
+                    "Plural": "unsere"
+                },
+                "Dativ": {
+                    "Masculin": "unserem",
+                    "Feminin": "unserer",
+                    "Neutrum": "unserem",
+                    "Plural": "unseren"
+                }
+            },
+            "Ihr": {
+                possessiv: "euer",
+                "Akkusativ": {
+                    "Masculin": "euren",
+                    "Feminin": "eure",
+                    "Neutrum": "euer",
+                    "Plural": "eure"
+                },
+                "Dativ": {
+                    "Masculin": "eurem",
+                    "Feminin": "eurer",
+                    "Neutrum": "eurem",
+                    "Plural": "euren"
+                }
+            },
+            "Sie (they)": {
+                possessiv: "ihr",
+                "Akkusativ": {
+                    "Masculin": "ihren",
+                    "Feminin": "ihre",
+                    "Neutrum": "ihr",
+                    "Plural": "ihre"
+                },
+                "Dativ": {
+                    "Masculin": "ihrem",
+                    "Feminin": "ihrer",
+                    "Neutrum": "ihrem",
+                    "Plural": "ihren"
+                }
+            }
         };
 
-        // Kasus definieren（僅保留 Akkusativ 和 Dativ）
+        // Kasus und Geschlecht definieren
         const cases = ["Akkusativ", "Dativ"];
+        const genders = ["Masculin", "Feminin", "Neutrum", "Plural"];
 
         let currentQuestion;
 
@@ -136,7 +248,13 @@ categories: Deutsch
         function generateQuestion() {
             const pronoun = Object.keys(pronouns)[Math.floor(Math.random() * Object.keys(pronouns).length)];
             const caseKey = cases[Math.floor(Math.random() * cases.length)];
-            currentQuestion = { pronoun, case: caseKey, answer: pronouns[pronoun][caseKey] };
+            const genderKey = genders[Math.floor(Math.random() * genders.length)];
+            currentQuestion = { 
+                pronoun, 
+                case: caseKey, 
+                gender: genderKey, 
+                answer: pronouns[pronoun][caseKey][genderKey] 
+            };
             
             // Farbliche Hervorhebung für Akkusativ und Dativ
             let caseDisplay = caseKey;
@@ -146,11 +264,11 @@ categories: Deutsch
                 caseDisplay = `<span class="dative">${caseKey}</span>`;
             }
             
-            // 簡化問題顯示，移除單引號，確保換行
+            // 問題顯示，確保換行，性別/數加粗
             document.getElementById("question").innerHTML = `
-                Gib die korrekte Form des Personalpronomens<br>
+                Gib die korrekte Form des Possessivpronomens<br>
                 <strong>${pronoun}</strong><br>
-                ${caseDisplay}
+                ${caseDisplay}, <strong>${genderKey}</strong>
             `;
         }
 
@@ -199,7 +317,7 @@ categories: Deutsch
             }
         });
 
-        // Initialize quiz
+        // Übung starten
         initQuiz();
     </script>
 </body>
