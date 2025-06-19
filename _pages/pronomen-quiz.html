@@ -8,14 +8,13 @@ categories: Deutsch
 <!-- 流量追蹤 -->
 <script src="{{ '/assets/js/momo-script.js' | relative_url }}"></script>
 
----
 
 <!DOCTYPE html>
-<html lang="zh-TW">
+<html lang="de">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>德語人稱代詞練習</title>
+    <title>Übung zu deutschen Personalpronomen</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -42,6 +41,7 @@ categories: Deutsch
         p {
             font-size: 18px;
             margin: 10px 0;
+            line-height: 1.5; /* 增加行距以提高可讀性 */
         }
         input {
             padding: 8px;
@@ -84,22 +84,30 @@ categories: Deutsch
         .incorrect {
             color: red;
         }
+        .accusative {
+            color: #1e90ff; /* 藍色 for Akkusativ */
+            font-weight: bold;
+        }
+        .dative {
+            color: #ff8c00; /* 橙色 for Dativ */
+            font-weight: bold;
+        }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>德語人稱代詞練習</h1>
+        <h1>Übung zu deutschen Personalpronomen</h1>
         <p id="question"></p>
-        <input type="text" id="answerInput" placeholder="輸入答案" autocomplete="off">
+        <input type="text" id="answerInput" placeholder="Antwort eingeben" autocomplete="off">
         <div>
-            <button id="submitBtn" class="submit-btn" onclick="submitAnswer()">提交答案</button>
-            <button id="quitBtn" class="quit-btn" onclick="quitQuiz()">退出</button>
+            <button id="submitBtn" class="submit-btn" onclick="submitAnswer()">Antwort senden</button>
+            <button id="quitBtn" class="quit-btn" onclick="quitQuiz()">Beenden</button>
         </div>
         <p id="feedback" class="feedback"></p>
     </div>
 
     <script>
-        // 定義人稱代詞
+        // Personalpronomen definieren
         const pronouns = {
             "Ich": {"Nominativ": "Ich", "Akkusativ": "mich", "Dativ": "mir"},
             "Du": {"Nominativ": "Du", "Akkusativ": "dich", "Dativ": "dir"},
@@ -111,12 +119,12 @@ categories: Deutsch
             "Sie (they)": {"Nominativ": "Sie", "Akkusativ": "sie", "Dativ": "ihnen"}
         };
 
-        // 定義格位
-        const cases = ["Nominativ", "Akkusativ", "Dativ"];
+        // Kasus definieren（僅保留 Akkusativ 和 Dativ）
+        const cases = ["Akkusativ", "Dativ"];
 
         let currentQuestion;
 
-        // 初始化
+        // Initialisieren
         function initQuiz() {
             generateQuestion();
             document.getElementById("answerInput").value = "";
@@ -124,15 +132,29 @@ categories: Deutsch
             document.getElementById("answerInput").focus();
         }
 
-        // 生成新問題
+        // Neue Frage generieren
         function generateQuestion() {
             const pronoun = Object.keys(pronouns)[Math.floor(Math.random() * Object.keys(pronouns).length)];
             const caseKey = cases[Math.floor(Math.random() * cases.length)];
             currentQuestion = { pronoun, case: caseKey, answer: pronouns[pronoun][caseKey] };
-            document.getElementById("question").innerText = `請輸入 '${pronoun}' 在 ${caseKey} 的正確形式：`;
+            
+            // Farbliche Hervorhebung für Akkusativ und Dativ
+            let caseDisplay = caseKey;
+            if (caseKey === "Akkusativ") {
+                caseDisplay = `<span class="accusative">${caseKey}</span>`;
+            } else if (caseKey === "Dativ") {
+                caseDisplay = `<span class="dative">${caseKey}</span>`;
+            }
+            
+            // 簡化問題顯示，移除單引號，確保換行
+            document.getElementById("question").innerHTML = `
+                Gib die korrekte Form<br>
+                <strong>${pronoun}</strong><br>
+                ${caseDisplay}
+            `;
         }
 
-        // 提交答案
+        // Antwort senden
         function submitAnswer() {
             const userAnswer = document.getElementById("answerInput").value.trim();
             const feedbackElement = document.getElementById("feedback");
@@ -145,30 +167,30 @@ categories: Deutsch
             if (userAnswer.toLowerCase() === currentQuestion.answer.toLowerCase()) {
                 feedbackElement.classList.remove("incorrect");
                 feedbackElement.classList.add("correct");
-                feedbackElement.innerText = "正確！";
+                feedbackElement.innerText = "Richtig!";
                 setTimeout(() => {
                     initQuiz();
-                }, 1000); // 延遲1秒進入下一題
+                }, 1000); // Verzögerung von 1 Sekunde für die nächste Frage
             } else {
                 feedbackElement.classList.remove("correct");
                 feedbackElement.classList.add("incorrect");
-                feedbackElement.innerText = `錯誤！正確答案是：${currentQuestion.answer}`;
+                feedbackElement.innerText = `Falsch! Die richtige Antwort ist: ${currentQuestion.answer}`;
                 setTimeout(() => {
                     initQuiz();
-                }, 2000); // 錯誤時延遲2秒
+                }, 2000); // Verzögerung von 2 Sekunden bei falscher Antwort
             }
         }
 
-        // 退出練習
+        // Übung beenden
         function quitQuiz() {
-            document.getElementById("question").innerText = "感謝練習！再見！";
+            document.getElementById("question").innerText = "Danke fürs Üben! Auf Wiedersehen!";
             document.getElementById("answerInput").style.display = "none";
             document.getElementById("submitBtn").style.display = "none";
             document.getElementById("quitBtn").style.display = "none";
             document.getElementById("feedback").innerText = "";
         }
 
-        // 按 Enter 鍵提交答案或按 q 退出
+        // Enter-Taste zum Senden der Antwort oder 'q' zum Beenden
         document.getElementById("answerInput").addEventListener("keypress", function(event) {
             if (event.key === "Enter") {
                 submitAnswer();
@@ -177,7 +199,7 @@ categories: Deutsch
             }
         });
 
-        // 開始練習
+        // Initialize quiz
         initQuiz();
     </script>
 </body>
