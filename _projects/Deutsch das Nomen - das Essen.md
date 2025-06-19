@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Das Nomen - Das Essen"
+title:  "Das Nomen - das Essen"
 date:   2025-6-17
 categories: Deutsch
 ---
