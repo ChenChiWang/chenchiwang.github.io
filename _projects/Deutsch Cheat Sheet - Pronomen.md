@@ -12,11 +12,11 @@ categories: Deutsch
 
 ## 1. 人稱代詞 (Pronomen)
 
-|           | Ich (我) | Du (你) | Er (他) | Sie (她) | Es (它) | Wir (我們) | Ihr (你們) | Sie (他們/她們) | Sie (您/您們) |
+|           | ich | du | er | sie | es | wir | ihr | sie | Sie|
 |-----------|----------|---------|---------|----------|---------|------------|------------|-----------------|----------------|
-| **Nominativ (主格)** | Ich      | Du      | Er      | sie      | Es      | Wir        | Ihr        | Sie             | Sie            |
-| **Akkusativ (受格)** | mich     | dich    | ihn     | sie      | es      | uns        | euch       | sie             | Sie            |
-| **Dativ (與格)**     | mir      | dir     | ihm     | ihr      | ihm     | uns        | euch       | ihnen           | Ihnen          |
+| **Nominativ** | ich      | du      | er      | sie      | es      | wir        | ihr        | sie             | Sie            |
+| **Akkusativ** | mich     | dich    | ihn     | sie      | es      | uns        | euch       | sie             | Sie            |
+| **Dativ**     | mir      | dir     | ihm     | ihr      | ihm     | uns        | euch       | ihnen           | Ihnen          |
 
 **註**：
 - **Sie (大寫)**：用於禮貌稱呼「您/您們」（單數或複數），動詞使用第三人稱複數變位，如 *Sie sind*（您是）。
@@ -30,99 +30,99 @@ categories: Deutsch
 
 ### 2.1 Ich：
 
-|              | Masculin | Feminin | Neutrum| Plural |
+|              | Masculin | Neutrum | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
-| **Nominativ** | mein            | meine          | mein           | meine         |
-| **Akkusativ** | meinen          | meine          | mein           | meine         |
-| **Dativ**     | meinem          | meiner         | meinem         | meinen        |
-| **Genitiv**   | meines          | meiner         | meines         | meiner        |
+| **Nominativ** | mein            | mein           | meine          | meine         |
+| **Akkusativ** | meinen          | mein           | meine          | meine         |
+| **Dativ**     | meinem          | meinem         | meiner         | meinen        |
+| **Genitiv**   | meines          | meines         | meiner         | meiner        |
 
 ### 2.2 Du：
 
-|              | Masculin | Feminin | Neutrum| Plural |
+|              | Masculin | Neutrum | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
-| **Nominativ** | dein            | deine          | dein           | deine         |
-| **Akkusativ** | deinen          | deine          | dein           | deine         |
-| **Dativ**     | deinem          | deiner         | deinem         | deinen        |
-| **Genitiv**   | deines          | deiner         | deines         | deiner        |
+| **Nominativ** | dein            | dein           | deine          | deine         |
+| **Akkusativ** | deinen          | dein           | deine          | deine         |
+| **Dativ**     | deinem          | deinem         | deiner         | deinen        |
+| **Genitiv**   | deines          | deines         | deiner         | deiner        |
 
 ### 2.3 Er/ Es：
 
-|              | Masculin | Feminin | Neutrum| Plural |
+|              | Masculin | Neutrum | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
-| **Nominativ** | sein            | seine          | sein           | seine         |
-| **Akkusativ** | seinen          | seine          | sein           | seine         |
-| **Dativ**     | seinem          | seiner         | seinem         | seinen        |
-| **Genitiv**   | seines          | seiner         | seines         | seiner        |
+| **Nominativ** | sein            | sein           | seine          | seine         |
+| **Akkusativ** | seinen          | sein           | seine          | seine         |
+| **Dativ**     | seinem          | seinem         | seiner         | seinen        |
+| **Genitiv**   | seines          | seines         | seiner         | seiner        |
 
 ### 2.4 Sie (她) / Sie (他們/她們)：
 
-|              | Masculin | Feminin | Neutrum| Plural |
+|              | Masculin | Neutrum | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
-| **Nominativ** | ihr             | ihre           | ihr            | ihre          |
-| **Akkusativ** | ihren           | ihre           | ihr            | ihre          |
-| **Dativ**     | ihrem           | ihrer          | ihrem          | ihren         |
-| **Genitiv**   | ihres           | ihrer          | ihres          | ihrer         |
+| **Nominativ** | ihr             | ihr            | ihre           | ihre          |
+| **Akkusativ** | ihren           | ihr            | ihre           | ihre          |
+| **Dativ**     | ihrem           | ihrem          | ihrer          | ihren         |
+| **Genitiv**   | ihres           | ihres          | ihrer          | ihrer         |
 
 **註**：此處 *ihr*（小寫）用於「她」（單數陰性）或「他們/她們」（複數）的所有格，如 *ihr Buch*（她的書）或 *ihr Auto*（他們的車）。
 
 ### 2.5 Sie (您/您們)：
 
-|              | Masculin | Feminin | Neutrum| Plural |
+|              | Masculin | Neutrum | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
-| **Nominativ** | Ihr             | Ihre           | Ihr            | Ihre          |
-| **Akkusativ** | Ihren           | Ihre           | Ihr            | Ihre          |
-| **Dativ**     | Ihrem           | Ihrer          | Ihrem          | Ihren         |
-| **Genitiv**   | Ihres           | Ihrer          | Ihres          | Ihrer         |
+| **Nominativ** | Ihr             | Ihr            | Ihre           | Ihre          |
+| **Akkusativ** | Ihren           | Ihr            | Ihre           | Ihre          |
+| **Dativ**     | Ihrem           | Ihrem          | Ihrer          | Ihren         |
+| **Genitiv**   | Ihres           | Ihres          | Ihrer          | Ihrer         |
 
 **註**：大寫 *Ihr* 用於禮貌「您/您們」的所有格，如 *Ihr Name*（您的名字）。
 
 ### 2.6 Wir：
 
-|              | Masculin | Feminin | Neutrum| Plural |
+|              | Masculin | Neutrum | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
-| **Nominativ** | unser           | unsere         | unser          | unsere        |
-| **Akkusativ** | unseren         | unsere         | unser          | unsere        |
-| **Dativ**     | unserem         | unserer        | unserem        | unseren       |
-| **Genitiv**   | unseres         | unserer        | unseres        | unserer       |
+| **Nominativ** | unser           | unser          | unsere         | unsere        |
+| **Akkusativ** | unseren         | unser          | unsere         | unsere        |
+| **Dativ**     | unserem         | unserem        | unserer        | unseren       |
+| **Genitiv**   | unseres         | unseres        | unserer        | unserer       |
 
 ### 2.7 Ihr：
 
-|              | Masculin | Feminin | Neutrum| Plural |
+|              | Masculin | Neutrum | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
-| **Nominativ** | euer            | eure           | euer           | eure          |
-| **Akkusativ** | euren           | eure           | euer           | eure          |
-| **Dativ**     | eurem           | eurer          | eurem          | euren         |
-| **Genitiv**   | eures           | eurer          | eures          | eurer         |
+| **Nominativ** | euer            | euer           | eure           | eure          |
+| **Akkusativ** | euren           | euer           | eure           | eure          |
+| **Dativ**     | eurem           | eurem          | eurer          | euren         |
+| **Genitiv**   | eures           | eures          | eurer          | eurer         |
 
 ## 3. 冠詞 (Artikel)
 
 ### 3.1 Bestimmter Artikel（定冠詞）
 
-|              | Masculin | Feminin | Neutrum| Plural |
+|              | Masculin | Neutrum | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
-| **Nominativ** | der             | die            | das            | die           |
-| **Akkusativ** | den             | die            | das            | die           |
-| **Dativ**     | dem             | der            | dem            | den           |
-| **Genitiv**   | des             | der            | des            | der           |
+| **Nominativ** | der             | das            | die            | die           |
+| **Akkusativ** | den             | das            | die            | die           |
+| **Dativ**     | dem             | dem            | der            | den           |
+| **Genitiv**   | des             | des            | der            | der           |
 
 ### 3.2 Unbestimmter Artikel（不定冠詞）
 
-|              | Masculin | Feminin | Neutrum| Plural |
+|              | Masculin | Neutrum | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
-| **Nominativ** | ein             | eine           | ein            | -             |
-| **Akkusativ** | einen           | eine           | ein            | -             |
-| **Dativ**     | einem           | einer          | einem          | -             |
-| **Genitiv**   | eines           | einer          | eines          | -             |
+| **Nominativ** | ein             | ein            | eine           | -             |
+| **Akkusativ** | einen           | ein            | eine           | -             |
+| **Dativ**     | einem           | einem          | einer          | -             |
+| **Genitiv**   | eines           | eines          | einer          | -             |
 
 ### 3.3 Negativer Artikel（否定冠詞）
 
-|              | Masculin | Feminin | Neutrum| Plural |
+|              | Masculin | Neutrum | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
-| **Nominativ** | kein            | keine          | kein           | keine         |
-| **Akkusativ** | keinen          | keine          | kein           | keine         |
-| **Dativ**     | keinem          | keiner         | keinem         | keinen        |
-| **Genitiv**   | keines          | keiner         | keines         | keiner        |
+| **Nominativ** | kein            | kein           | keine          | keine         |
+| **Akkusativ** | keinen          | kein           | keine          | keine         |
+| **Dativ**     | keinem          | keinem         | keiner         | keinen        |
+| **Genitiv**   | keines          | keines         | keiner         | keiner        |
 
 ## 4. 使用範例
 
