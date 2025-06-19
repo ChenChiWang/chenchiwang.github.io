@@ -13,10 +13,10 @@ categories: Deutsch
 ## 1. 人稱代詞 (Pronomen)
 
 |           | Ich (我) | Du (你) | Er (他) | Sie (她) | Es (它) | Wir (我們) | Ihr (你們) | Sie (他們/她們) |
-|-----------|----------|---------|---------|---------|---------|-----------|-----------|---------------|
-| **Nominativ (主格)** | Ich      | Du      | Er      | Sie     | Es      | Wir       | Ihr       | Sie           |
-| **Akkusativ (受格)** | mich     | dich    | ihn     | sie     | es      | uns       | euch      | sie           |
-| **Dativ (與格)**     | mir      | dir     | ihm     | ihr     | ihm     | uns       | euch      | ihnen         |
+|-----------|----------|---------|---------|----------|---------|------------|------------|-----------------|
+| **Nominativ (主格)** | Ich      | Du      | Er      | Sie      | Es      | Wir        | Ihr        | Sie             |
+| **Akkusativ (受格)** | mich     | dich    | ihn     | sie      | es      | uns        | euch       | sie             |
+| **Dativ (與格)**     | mir      | dir     | ihm     | ihr      | ihm     | uns        | euch       | ihnen           |
 
 ## 2. 所有格代詞 (Possessivpronomen)
 
@@ -76,7 +76,27 @@ categories: Deutsch
 | **Dativ**     | eurem           | eurer          | eurem          | euren         |
 | **Genitiv**   | eures           | eurer          | eures          | eurer         |
 
-## 3. 否定詞：kein
+## 3. 冠詞 (Artikel)
+
+### 3.1 Bestimmter Artikel（定冠詞）
+
+|              | Masculin (陽性) | Feminin (陰性) | Neutrum (中性) | Plural (複數) |
+|--------------|-----------------|----------------|----------------|---------------|
+| **Nominativ** | der             | die            | das            | die           |
+| **Akkusativ** | den             | die            | das            | die           |
+| **Dativ**     | dem             | der            | dem            | den           |
+| **Genitiv**   | des             | der            | des            | der           |
+
+### 3.2 Unbestimmter Artikel（不定冠詞）
+
+|              | Masculin (陽性) | Feminin (陰性) | Neutrum (中性) | Plural (複數) |
+|--------------|-----------------|----------------|----------------|---------------|
+| **Nominativ** | ein             | eine           | ein            | -             |
+| **Akkusativ** | einen           | eine           | ein            | -             |
+| **Dativ**     | einem           | einer          | einem          | -             |
+| **Genitiv**   | eines           | einer          | eines          | -             |
+
+### 3.3 Negativer Artikel（否定冠詞）
 
 |              | Masculin (陽性) | Feminin (陰性) | Neutrum (中性) | Plural (複數) |
 |--------------|-----------------|----------------|----------------|---------------|
@@ -85,16 +105,8 @@ categories: Deutsch
 | **Dativ**     | keinem          | keiner         | keinem         | keinen        |
 | **Genitiv**   | keines          | keiner         | keines         | keiner        |
 
-## 4. 冠詞 (Artikel)
+## 4. 使用範例
 
-|              | Masculin (陽性) | Feminin (陰性) | Neutrum (中性) | Plural (複數) |
-|--------------|-----------------|----------------|----------------|---------------|
-| **Nominativ** | der / ein       | die / eine     | das / ein      | die / -       |
-| **Akkusativ** | den / einen     | die / eine     | das / ein      | die / -       |
-| **Dativ**     | dem / einem     | der / einer    | dem / einem    | den / -       |
-| **Genitiv**   | des / eines     | der / einer    | des / eines    | der / -       |
-
-## 5. 使用範例
 - **人稱代詞**：
   - 主格：*Ich bin hier.*（我在這裡）
   - 受格：*Er sieht mich.*（他看到我）
@@ -104,16 +116,15 @@ categories: Deutsch
   - *Meine Schwester*（我的妹妹，陰性主格）
   - *Deinen Hund*（你的狗，陽性受格）
   - *Ihrer Mutter*（她的/他們的媽媽，陰性與格）
-- **否定詞 (kein)**：
-  - *Ich habe kein Buch.*（我沒有書，中性主格）
+- **冠詞**：
+  - 定冠詞：*Der Mann liest.*（那個男人讀書，陽性主格）
+  - 不定冠詞：*Eine Frau.*（一個女人，陰性主格）
+  - 否定冠詞：*Ich bin kein Mann.*（我不是男人，陽性主格）
   - *Das ist keine Katze.*（這不是貓，陰性主格）
   - *Ich helfe keinem Freund.*（我沒幫任何朋友，陽性與格）
-- **冠詞**：
-  - *Der Mann*（那個男人，陽性主格）
-  - *Eine Frau*（一個女人，陰性主格）
-  - *Dem Kind*（給那個孩子，中性與格）
 
-## 6. 注意事項
+## 5. 注意事項
+
 - **所有格代詞變化**：詞尾變化與不定冠詞 (*ein*, *eine*, *einem*, *eines*) 類似，需根據名詞的性別和格調整。
 - **kein 的變化**：與不定冠詞 (*ein*) 相同，例如 *keine* 用於陰性主格/受格和複數主格/受格。
 - **unser/euer 特殊規則**：在某些形式中會省略中間的「e」，如 *unsere*（而不是 *unser-e*）、*eure*（而不是 *euer-e*）。
