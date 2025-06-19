@@ -33,3 +33,4 @@ categories: Deutsch
 | der Schwager, - | die Schwägerin, die Schwägerinnen |  |
 | der Schwiegervater, - | die Schwiegermutter, - |  |
 | der Mann, die Männer | die Frau, die Frauen | |
+{:.noun-table}
