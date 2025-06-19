@@ -14,23 +14,24 @@ categories: Deutsch
 .noun-table th:nth-child(3), .noun-table td:nth-child(3) { color: #2ECC71; } /* Neutrum 欄 - Emerald Green */
 </style>
 
-| Masculin (der) | Feminin (die) | Neutrum (das) |
-| :------------- | :------------ | :------------ |
-| der Verwandte, die Verwandten | die Verwandte, die Verwandten |  |
-| der Vater, - | die Mutter, - |  |
-| der Großvater, - | die Großmutter, - |  |
-| der Opa, die Opas | die Oma, die Omas |  |
-|  |  | das Kind, die Kinder |
-|  |  | das Baby, die Babys |
-|  |  | das Junge, die Jungen |
-|  | die Mädchen, - |  |
-| der Sohn, die Söhne | die Tochter, - |  |
-| der Enkel, die Enkel | die Enkelin, die Enkelinnen | das Enkelkind, die Enkelkinder |
-| der Bruder, - | die Schwester, die Schwestern |  |
-| der Onkel, - | die Tante, die Tanten |  |
-| der Neffe, die Neffen | die Nichte, die Nichten |  |
+| Masculin (der)          | Feminin (die)            | Neutrum (das)           |
+| :---------------------- | :----------------------- | :---------------------- |
+| der Vater, -            | die Mutter, -            |  |
+| der Sohn, die Söhne     | die Tochter, -           |  |
+| der Bruder, -           | die Schwester, die Schwestern |  |
+|                         |                          | das Kind, die Kinder    |
+|                         |                          | das Baby, die Babys     |
+|                         |                          | das Junge, die Jungen   |
+|                         |                          | das Enkelkind, die Enkelkinder |
+| der Enkel, die Enkel    | die Enkelin, die Enkelinnen |  |
+| der Großvater, -        | die Großmutter, -        |  |
+| der Opa, die Opas       | die Oma, die Omas        |  |
+| der Onkel, -            | die Tante, die Tanten    |  |
+| der Neffe, die Neffen   | die Nichte, die Nichten  |  |
 | der Cousin, die Cousins | die Cousine, die Cousinen |  |
-| der Schwager, - | die Schwägerin, die Schwägerinnen |  |
-| der Schwiegervater, - | die Schwiegermutter, - |  |
-| der Mann, die Männer | die Frau, die Frauen | |
+| der Mann, die Männer    | die Frau, die Frauen     |  |
+| der Schwager, -         | die Schwägerin, die Schwägerinnen |  |
+| der Schwiegervater, -   | die Schwiegermutter, -   |  |
+| der Verwandte, die Verwandten | die Verwandte, die Verwandten |  |
+|                         | die Mädchen, -           |  |
 {:.noun-table}
