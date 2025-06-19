@@ -10,7 +10,7 @@ categories: Deutsch
 
 # 德文 Cheat Sheet
 
-## 1. 人稱代詞 (Pronomen)
+## 1. PersonalPronomen
 
 |           | ich | du | er | sie | es | wir | ihr | sie | Sie|
 |-----------|----------|---------|---------|----------|---------|------------|------------|-----------------|----------------|
@@ -24,7 +24,7 @@ categories: Deutsch
 - **sie (小寫)**：用於第三人稱單數陰性「她」（主格/受格）或複數「他們/她們」（受格）。
 - **ihnen/Ihnen**：小寫 *ihnen* 用於「他們/她們」（複數與格）；大寫 *Ihnen* 用於「您/您們」（禮貌與格）。
 
-## 2. 所有格代詞 (Possessivpronomen)
+## 2. Possessivpronomen
 
 所有格代詞隨所修飾名詞的性別和格變化，以下為各代詞的變化表格。
 
@@ -97,7 +97,7 @@ categories: Deutsch
 
 ## 3. Artikel
 
-### 3.1 Definiter Artikel（定冠詞）
+### 3.1 Definiter Artikel
 
 |              | Maskulin | Neutral | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
@@ -106,7 +106,7 @@ categories: Deutsch
 | **Dativ**     | dem             | dem            | der            | den           |
 | **Genitiv**   | des             | des            | der            | der           |
 
-### 3.2 Indefiniter Artikel（不定冠詞）
+### 3.2 Indefiniter Artikel
 
 |              | Maskulin | Neutral | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
@@ -115,7 +115,7 @@ categories: Deutsch
 | **Dativ**     | einem           | einem          | einer          | -             |
 | **Genitiv**   | eines           | eines          | einer          | -             |
 
-### 3.3 Negativer Artikel（否定冠詞）
+### 3.3 Negativer Artikel
 
 |              | Maskulin | Neutral | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
