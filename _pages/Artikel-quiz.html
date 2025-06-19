@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "der Artikel"
-date:   2025-6-18
+date:   2025-6-19
 categories: Deutsch
 ---
 
@@ -120,12 +120,12 @@ categories: Deutsch
             color: #808080; /* 中灰色 */
         }
         .icon-bestimmter {
-            color: #8f0eaf; /* 紫色*/
+            color: #2ECC71; /* 綠色，與 Neutrum 協調 */
             margin-left: 5px;
             font-size: inherit; /* 與文字大小一致 */
         }
         .icon-unbestimmter {
-            color: #2ECC71; /* 綠色，與 Neutrum 協調 */
+            color: #8A2BE2; /* 紫色 */
             margin-left: 5px;
             font-size: inherit; /* 與文字大小一致 */
         }
@@ -298,9 +298,9 @@ categories: Deutsch
             // 添加圖示
             let icon = '';
             if (articleType === "Bestimmter Artikel") {
-                icon = `<span class="icon-bestimmter">1</span>`;
+                icon = `<span class="icon-bestimmter">👈</span>`;
             } else if (articleType === "Unbestimmter Artikel") {
-                icon = `<span class="icon-unbestimmter">👈</span>`;
+                icon = `<span class="icon-unbestimmter">1</span>`;
             } else if (articleType === "Negativer Artikel") {
                 icon = `<span class="icon-negativer">0</span>`;
             }
