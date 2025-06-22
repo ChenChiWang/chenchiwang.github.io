@@ -16,6 +16,8 @@ categories: Deutsch
 ## 規則動詞
 規則動詞詞幹不變，依代詞添加詞尾：ich -e, du -st, er/sie/es -t, wir -en, ihr -t, sie/Sie -en。
 
+變位：
+
 | 代詞       | lernen (學) | machen (做) | waschen (洗) | wohnen (住) | heißen (名) |
 |------------|-------------|-------------|--------------|-------------|-------------|
 | ich        | lerne       | mache       | wasche       | wohne       | heiße       |
@@ -39,15 +41,17 @@ categories: Deutsch
 
 ### a → ä
 - **動詞**：fahren (駕駛), schlafen (睡), fangen (抓)
-- **變位**：
-  | 代詞       | fahren | schlafen | fangen |
-  |------------|--------|----------|--------|
-  | ich        | fahre  | schlafe  | fange  |
-  | du         | fährst | schläfst | fängst |
-  | er/sie/es  | fährt  | schläft  | fängt  |
-  | wir        | fahren | schlafen | fangen |
-  | ihr        | fahrt  | schlaft  | fangt  |
-  | sie/Sie    | fahren | schlafen | fangen |
+
+變位：
+
+| 代詞       | fahren | schlafen | fangen |
+|------------|--------|----------|--------|
+| ich        | fahre  | schlafe  | fange  |
+| du         | fährst | schläfst | fängst |
+| er/sie/es  | fährt  | schläft  | fängt  |
+| wir        | fahren | schlafen | fangen |
+| ihr        | fahrt  | schlaft  | fangt  |
+| sie/Sie    | fahren | schlafen | fangen |
 
 - **範例句子**：
   - *fahren*: *Ich fahre nach Berlin.*（我駕車去柏林）
@@ -56,15 +60,17 @@ categories: Deutsch
 
 ### e → ie
 - **動詞**：sehen (看), lesen (讀)
-- **變位**：
-  | 代詞       | sehen | lesen |
-  |------------|-------|-------|
-  | ich        | sehe  | lese  |
-  | du         | siehst| liest |
-  | er/sie/es  | sieht | liest |
-  | wir        | sehen | lesen |
-  | ihr        | seht  | lest  |
-  | sie/Sie    | sehen | lesen |
+
+變位：
+
+| 代詞       | sehen | lesen |
+|------------|-------|-------|
+| ich        | sehe  | lese  |
+| du         | siehst| liest |
+| er/sie/es  | sieht | liest |
+| wir        | sehen | lesen |
+| ihr        | seht  | lest  |
+| sie/Sie    | sehen | lesen |
 
 - **範例句子**：
   - *sehen*: *Du siehst fern.*（你看電視）
@@ -72,15 +78,17 @@ categories: Deutsch
 
 ### e → i
 - **動詞**：geben (給), essen (吃), nehmen (拿)
-- **變位**：
-  | 代詞       | geben | essen | nehmen |
-  |------------|-------|-------|--------|
-  | ich        | gebe  | esse  | nehme  |
-  | du         | gibst | isst  | nimmst |
-  | er/sie/es  | gibt  | isst  | nimmt  |
-  | wir        | geben | essen | nehmen |
-  | ihr        | gebt  | esst  | nehmt  |
-  | sie/Sie    | geben | essen | nehmen |
+
+變位：
+
+| 代詞       | geben | essen | nehmen |
+|------------|-------|-------|--------|
+| ich        | gebe  | esse  | nehme  |
+| du         | gibst | isst  | nimmst |
+| er/sie/es  | gibt  | isst  | nimmt  |
+| wir        | geben | essen | nehmen |
+| ihr        | gebt  | esst  | nehmt  |
+| sie/Sie    | geben | essen | nehmen |
 
 - **範例句子**：
   - *geben*: *Er gibt mir einen Stift.*（他給我筆）
@@ -89,15 +97,17 @@ categories: Deutsch
 
 ### o → i
 - **動詞**：kommen (來), holen (取)
-- **變位**：
-  | 代詞       | kommen | holen |
-  |------------|--------|-------|
-  | ich        | komme  | hole  |
-  | du         | kommst | holst |
-  | er/sie/es  | kommt  | holt  |
-  | wir        | kommen | holen |
-  | ihr        | kommt  | holt  |
-  | sie/Sie    | kommen | holen |
+
+變位：
+
+| 代詞       | kommen | holen |
+|------------|--------|-------|
+| ich        | komme  | hole  |
+| du         | kommst | holst |
+| er/sie/es  | kommt  | holt  |
+| wir        | kommen | holen |
+| ihr        | kommt  | holt  |
+| sie/Sie    | kommen | holen |
 
 - **範例句子**：
   - *kommen*: *Ich komme aus Deutschland.*（我來自德國）
@@ -107,15 +117,17 @@ categories: Deutsch
 不規則動詞變位不遵循標準規則，常用於 A1 級別，整合以便對比：
 
 - **動詞**：sein (是), haben (有), möchten (想), mögen (喜歡), müssen (必須), wollen (想), dürfen (可)
-- **變位**：
-  | 代詞       | sein  | haben | möchten | mögen | müssen | wollen | dürfen |
-  |------------|-------|-------|---------|-------|--------|--------|--------|
-  | ich        | bin   | habe  | möchte  | mag   | muss   | will   | darf   |
-  | du         | bist  | hast  | möchtest| magst | musst  | willst | darfst |
-  | er/sie/es  | ist   | hat   | möchte  | mag   | muss   | will   | darf   |
-  | wir        | sind  | haben | möchten | mögen | müssen | wollen | dürfen |
-  | ihr        | seid  | habt  | möchtet | mögt  | müsst  | wollt  | dürft  |
-  | sie/Sie    | sind  | haben | möchten | mögen | müssen | wollen | dürfen |
+
+變位：
+
+| 代詞       | sein  | haben | möchten | mögen | müssen | wollen | dürfen |
+|------------|-------|-------|---------|-------|--------|--------|--------|
+| ich        | bin   | habe  | möchte  | mag   | muss   | will   | darf   |
+| du         | bist  | hast  | möchtest| magst | musst  | willst | darfst |
+| er/sie/es  | ist   | hat   | möchte  | mag   | muss   | will   | darf   |
+| wir        | sind  | haben | möchten | mögen | müssen | wollen | dürfen |
+| ihr        | seid  | habt  | möchtet | mögt  | müsst  | wollt  | dürft  |
+| sie/Sie    | sind  | haben | möchten | mögen | müssen | wollen | dürfen |
 
 - **範例句子**：
   - *sein*: *Ich bin Student.*（我是學生）
