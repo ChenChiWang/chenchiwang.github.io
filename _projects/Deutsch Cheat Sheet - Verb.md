@@ -38,26 +38,25 @@ categories: Deutsch
 強變化動詞在 *du* 和 *er/sie/es* 形式有元音變化 (Vokalwechsel)，其他形式通常保持原形。
 
 ### a → ä
-- **動詞**：fahren (駕駛), schlafen (睡)
+- **動詞**：fahren (駕駛), schlafen (睡), fangen (抓)
 - **變位**：
-
-  | 人稱       | fahren | schlafen |
-  |------------|--------|----------|
-  | ich        | fahre  | schlafe  |
-  | du         | fährst | schläfst |
-  | er/sie/es  | fährt  | schläft  |
-  | wir        | fahren | schlafen |
-  | ihr        | fahrt  | schlaft  |
-  | sie/Sie    | fahren | schlafen |
+  | 人稱       | fahren | schlafen | fangen |
+  |------------|--------|----------|--------|
+  | ich        | fahre  | schlafe  | fange  |
+  | du         | fährst | schläfst | fängst |
+  | er/sie/es  | fährt  | schläft  | fängt  |
+  | wir        | fahren | schlafen | fangen |
+  | ihr        | fahrt  | schlaft  | fangt  |
+  | sie/Sie    | fahren | schlafen | fangen |
 
 - **範例句子**：
   - *fahren*: *Ich fahre nach Berlin.*（我駕車去柏林）
   - *schlafen*: *Du schläfst spät.*（你睡得很晚）
+  - *fangen*: *Du fängst den Ball.*（你抓球）
 
 ### e → ie
 - **動詞**：sehen (看), lesen (讀)
 - **變位**：
-
   | 人稱       | sehen | lesen |
   |------------|-------|-------|
   | ich        | sehe  | lese  |
@@ -74,7 +73,6 @@ categories: Deutsch
 ### e → i
 - **動詞**：geben (給), essen (吃), nehmen (拿)
 - **變位**：
-
   | 人稱       | geben | essen | nehmen |
   |------------|-------|-------|--------|
   | ich        | gebe  | esse  | nehme  |
@@ -92,7 +90,6 @@ categories: Deutsch
 ### o → i
 - **動詞**：kommen (來), holen (取)
 - **變位**：
-
   | 人稱       | kommen | holen |
   |------------|--------|-------|
   | ich        | komme  | hole  |
@@ -109,38 +106,40 @@ categories: Deutsch
 ## 特殊動詞
 不規則動詞變位不遵循標準規則，常用於 A1 級別，整合以便對比：
 
-- **動詞**：sein (是), haben (有), möchten (想), mögen (喜歡)
+- **動詞**：sein (是), haben (有), möchten (想), mögen (喜歡), müssen (必須), wollen (想), dürfen (可)
 - **變位**：
-
-  | 人稱       | sein | haben | möchten | mögen |
-  |------------|------|-------|---------|-------|
-  | ich        | bin  | habe  | möchte  | mag   |
-  | du         | bist | hast  | möchtest| magst |
-  | er/sie/es  | ist  | hat   | möchte  | mag   |
-  | wir        | sind | haben | möchten | mögen |
-  | ihr        | seid | habt  | möchtet | mögt  |
-  | sie/Sie    | sind | haben | möchten | mögen |
+  | 人稱       | sein | haben | möchten | mögen | müssen | wollen | dürfen |
+  |------------|------|-------|---------|-------|--------|--------|--------|
+  | ich        | bin  | habe  | möchte  | mag   | muss   | will   | darf   |
+  | du         | bist | hast  | möchtest| magst | musst  | willst | darfst |
+  | er/sie/es  | ist  | hat   | möchte  | mag   | muss   | will   | darf   |
+  | wir        | sind | haben | möchten | mögen | müssen | wollen | dürfen |
+  | ihr        | seid | habt  | möchtet | mögt  | müsst  | wollt  | dürft  |
+  | sie/Sie    | sind | haben | möchten | mögen | müssen | wollen | dürfen |
 
 - **範例句子**：
   - *sein*: *Ich bin Student.*（我是學生）
   - *haben*: *Du hast ein Buch.*（你有書）
   - *möchten*: *Ich möchte Wasser.*（我想喝水）
   - *mögen*: *Ich mag Musik.*（我喜歡音樂）
+  - *müssen*: *Du musst lernen.*（你必須學習）
+  - *wollen*: *Ich will reisen.*（我想旅行）
+  - *dürfen*: *Du darfst spielen.*（你可以玩）
 
 ## 學習筆記
 
 ### 變位規則
 - **規則動詞**：詞幹不變，加詞尾 (-e, -st, -t, -en, -t, -en)。如 *sprechen*, *hören*, *arbeiten*, *lieben*，詞幹為 sprech-, hör-, arbeit-, lieb-。
 - **強變化動詞**：元音變化僅影響 *du* 和 *er/sie/es*：
-  - *a→ä*: *fahren* (du fährst), *schlafen* (du schläfst)
+  - *a→ä*: *fahren* (du fährst), *schlafen* (du schläfst), *fangen* (du fängst)
   - *e→ie*: *sehen* (du siehst), *lesen* (du liest)
   - *e→i*: *geben* (du gibst), *essen* (du isst), *nehmen* (du nimmst)
   - *o→i*: *kommen* (du kommst), *holen* (du holst)
-- **特殊動詞**：*sein*, *haben*, *möchten*, *mögen* 變位不規則，注意 *du* 形式：*bist*, *hast*, *möchtest*, *magst*。
-- **詞幹提取**：動詞原形去 *-en* (如 nehmen → nehm-)。*möchten*, *mögen* 無標準詞幹。
-- **發音**：注意 *du* 形式的 *-st*/*-t* (如 *wäschst*, *nimmst*, *holst* 的 *t* 音)，*heißt* 無 *-st*。
+- **特殊動詞**：*sein*, *haben*, *möchten*, *mögen*, *müssen*, *wollen*, *dürfen* 變位不規則，注意 *du* 形式：*bist*, *hast*, *möchtest*, *magst*, *musst*, *willst*, *darfst*。
+- **詞幹提取**：動詞原形去 *-en* (如 fangen → fang-)。*möchten*, *mögen*, *müssen*, *wollen*, *dürfen* 為情態動詞，無標準詞幹。
+- **發音**：注意 *du* 形式的 *-st*/*-t* (如 *wäschst*, *fängst*, *nimmst*, *holst*, *musst*, *willst*, *darfst* 的 *t* 音)，*heißt* 無 *-st*。
 
 ### 學習建議
 - 用閃卡練習變位，按規則、a→ä、e→ie、e→i、o→i、不規則分類。
-- 造簡單句子，如 *Ich nehme*, *Du magst*, *Er kommt*。
-- 避免混淆 *bist*/*hast*/*möchtest*/*magst*，以及 *heißt* (非 *heißst*)。
+- 造簡單句子，如 *Ich fange*, *Du musst*, *Er kommt*。
+- 避免混淆 *bist*/*hast*/*möchtest*/*magst*/*musst*/*willst*/*darfst*，以及 *heißt* (非 *heißst*)。
