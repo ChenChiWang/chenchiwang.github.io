@@ -19,15 +19,15 @@ categories: Deutsch
 | der Bärlauch / - | die Banane / die Bananen | das Brot / die Brote |
 | der Fisch / die Fische | die Bohne / die Bohnen | das Ei / die Eier |
 | der Koriander / - | die Brotwurst / die Brotwürste | das Fleisch / - |
-| der Liebstöckel / - | die Butter / - | das Gemüse / - |
-| der Orangensaft / - | die Erdbeermarmelade / die Erdbeermarmeladen | das Käse / - |
-| der Pfeffer / - | die Gurke / die Gurken | das Mehl / - |
-| der Pilz / die Pilze | die Karotte / die Karotten | das Mineralwasser / - |
-| der Reis / die Reiskörner | die Kartoffel / die Kartoffeln | das Müsli / - |
-| der Salat / die Salate | die Marmelade / die Marmeladen | das Obst / - |
-| der Tee / die Tees | die Milch / - | das Öl / - |
-| der Zucker / - | die Orange / die Orangen | das Olivenöl / - |
-| | die Paprika / die Paprikas | das Salz / - |
+| der Kuchen / die Kuchen | die Butter / - | das Gemüse / - |
+| der Liebstöckel / - | die Erdbeermarmelade / die Erdbeermarmeladen | das Käse / - |
+| der Orangensaft / - | die Gurke / die Gurken | das Mehl / - |
+| der Pfeffer / - | die Karotte / die Karotten | das Mineralwasser / - |
+| der Pilz / die Pilze | die Kartoffel / die Kartoffeln | das Müsli / - |
+| der Reis / die Reiskörner | die Marmelade / die Marmeladen | das Obst / - |
+| der Salat / die Salate | die Milch / - | das Öl / - |
+| der Tee / die Tees | die Orange / die Orangen | das Olivenöl / - |
+| der Zucker / - | die Paprika / die Paprikas | das Salz / - |
 | | die Pizza / die Pizzen | |
 | | die Sahne / - | |
 | | die Schokolade / die Schokoladen | |

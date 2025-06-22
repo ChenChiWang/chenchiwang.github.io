@@ -18,23 +18,23 @@ categories: Deutsch
 
 變位：
 
-| 代詞       | lernen (學) | machen (做) | waschen (洗) | wohnen (住) | heißen (名) |
+| 代詞       | lernen (學) | machen (做) | waschen (洗) | heißen (名) | backen (烤) |
 |------------|-------------|-------------|--------------|-------------|-------------|
-| ich        | lerne       | mache       | wasche       | wohne       | heiße       |
-| du         | lernst      | machst      | wäschst      | wohnst      | heißt       |
-| er/sie/es  | lernt       | macht       | wäscht       | wohnt       | heißt       |
-| wir        | lernen      | machen      | waschen      | wohnen      | heißen      |
-| ihr        | lernt       | macht       | wascht       | wohnt       | heißt       |
-| sie/Sie    | lernen      | machen      | waschen      | wohnen      | heißen      |
+| ich        | lerne       | mache       | wasche       | heiße       | backe       |
+| du         | lernst      | machst      | wäschst      | heißt       | backst      |
+| er/sie/es  | lernt       | macht       | wäscht       | heißt       | backt       |
+| wir        | lernen      | machen      | waschen      | heißen      | backen      |
+| ihr        | lernt       | macht       | wascht       | heißt       | backt       |
+| sie/Sie    | lernen      | machen      | waschen      | heißen      | backen      |
 
 範例句子：
 - *lernen*: *Ich lerne Deutsch.*（我學德文）
 - *machen*: *Wir machen einen Kuchen.*（我們做蛋糕）
 - *waschen*: *Du wäschst das Auto.*（你洗車）
-- *wohnen*: *Ich wohne in Berlin.*（我住柏林）
 - *heißen*: *Ich heiße Anna.*（我名安娜）
+- *backen*: *Ich backe Brot.*（我烤麵包）
 
-其他規則動詞：*sprechen* (說話, 詞幹 sprech-), *hören* (聽, 詞幹 hör-), *arbeiten* (工作, 詞幹 arbeit-), *lieben* (愛, 詞幹 lieb-)，遵循上述詞尾規則。
+其他規則動詞：*sprechen* (說話, 詞幹 sprech-), *hören* (聽, 詞幹 hör-), *arbeiten* (工作, 詞幹 arbeit-), *lieben* (愛, 詞幹 lieb-), *wohnen* (住, 詞幹 wohn-)，遵循上述詞尾規則。
 
 ## 強變化動詞
 強變化動詞在 *du* 和 *er/sie/es* 形式有元音變化 (Vokalwechsel)，其他形式通常保持原形。
@@ -116,18 +116,18 @@ categories: Deutsch
 ## 特殊動詞
 不規則動詞變位不遵循標準規則，常用於 A1 級別，整合以便對比：
 
-動詞：sein (是), haben (有), möchten (想), mögen (喜歡), müssen (必須), wollen (想), dürfen (可)
+動詞：sein (是), haben (有), möchten (想), mögen (喜歡), müssen (必須), wollen (想), dürfen (可), können (能)
 
 變位：
 
-| 代詞       | sein  | haben | möchten | mögen | müssen | wollen | dürfen |
-|------------|-------|-------|---------|-------|--------|--------|--------|
-| ich        | bin   | habe  | möchte  | mag   | muss   | will   | darf   |
-| du         | bist  | hast  | möchtest| magst | musst  | willst | darfst |
-| er/sie/es  | ist   | hat   | möchte  | mag   | muss   | will   | darf   |
-| wir        | sind  | haben | möchten | mögen | müssen | wollen | dürfen |
-| ihr        | seid  | habt  | möchtet | mögt  | müsst  | wollt  | dürft  |
-| sie/Sie    | sind  | haben | möchten | mögen | müssen | wollen | dürfen |
+| 代詞       | sein  | haben | möchten | mögen | müssen | wollen | dürfen | können |
+|------------|-------|-------|---------|-------|--------|--------|--------|--------|
+| ich        | bin   | habe  | möchte  | mag   | muss   | will   | darf   | kann   |
+| du         | bist  | hast  | möchtest| magst | musst  | willst | darfst | kannst |
+| er/sie/es  | ist   | hat   | möchte  | mag   | muss   | will   | darf   | kann   |
+| wir        | sind  | haben | möchten | mögen | müssen | wollen | dürfen | können |
+| ihr        | seid  | habt  | möchtet | mögt  | müsst  | wollt  | dürft  | könnt  |
+| sie/Sie    | sind  | haben | möchten | mögen | müssen | wollen | dürfen | können |
 
 範例句子：
 - *sein*: *Ich bin Student.*（我是學生）
@@ -137,6 +137,7 @@ categories: Deutsch
 - *müssen*: *Du musst lernen.*（你必須學習）
 - *wollen*: *Ich will reisen.*（我想旅行）
 - *dürfen*: *Du darfst spielen.*（你可以玩）
+- *können*: *Ich kann schwimmen.*（我會游泳）
 
 ## 學習筆記
 
@@ -147,11 +148,11 @@ categories: Deutsch
   - *e→ie*: *sehen* (du siehst), *lesen* (du liest)
   - *e→i*: *geben* (du gibst), *essen* (du isst), *nehmen* (du nimmst)
   - *o→i*: *kommen* (du kommst), *holen* (du holst)
-- **特殊動詞**：*sein*, *haben*, *möchten*, *mögen*, *müssen*, *wollen*, *dürfen* 變位不規則，注意 *du* 形式：*bist*, *hast*, *möchtest*, *magst*, *musst*, *willst*, *darfst*。
-- **詞幹提取**：動詞原形去 *-en* (如 fangen → fang-)。*möchten*, *mögen*, *müssen*, *wollen*, *dürfen* 為情態動詞，無標準詞幹。
-- **發音**：注意 *du* 形式的 *-st*/*-t* (如 *wäschst*, *fängst*, *nimmst*, *holst*, *musst*, *willst*, *darfst* 的 *t* 音)，*heißt* 無 *-st*。
+- **特殊動詞**：*sein*, *haben*, *möchten*, *mögen*, *müssen*, *wollen*, *dürfen*, *können* 變位不規則，注意 *du* 形式：*bist*, *hast*, *möchtest*, *magst*, *musst*, *willst*, *darfst*, *kannst*。
+- **詞幹提取**：動詞原形去 *-en* (如 fangen → fang-)。*möchten*, *mögen*, *müssen*, *wollen*, *dürfen*, *können* 為情態動詞，無標準詞幹。
+- **發音**：注意 *du* 形式的 *-st*/*-t* (如 *wäschst*, *fängst*, *nimmst*, *holst*, *musst*, *willst*, *darfst*, *kannst* 的 *t* 音)，*heißt* 無 *-st*。
 
 ### 學習建議
 - 用閃卡練習變位，按規則、a→ä、e→ie、e→i、o→i、不規則分類。
-- 造簡單句子，如 *Ich fange*, *Du musst*, *Er kommt*。
-- 避免混淆 *bist*/*hast*/*möchtest*/*magst*/*musst*/*willst*/*darfst*，以及 *heißt* (非 *heißst*)。
+- 造簡單句子，如 *Ich backe*, *Du kannst*, *Er kommt*。
+- 避免混淆 *bist*/*hast*/*möchtest*/*magst*/*musst*/*willst*/*darfst*/*kannst*，以及 *heißt* (非 *heißst*)。
