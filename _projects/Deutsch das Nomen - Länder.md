@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Das Nomen - DaF kompakt A1, Lektion 1"
+title:  "Das Nomen - Länder"
 date:   2025-9-4
 categories: Deutsch
 ---
@@ -17,14 +17,44 @@ categories: Deutsch
 
 ## 🌍 Länder • Sprachen • Nationalitäten
 
-| Land         | Sprache      | Nationalität (m) | Nationalität (f) |
-| :----------- | :----------- | :--------------- | :--------------- |
-| Spanien      | Spanisch     | der Spanier      | die Spanierin    |
-| Japan        | Japanisch    | der Japaner      | die Japanerin    |
-| England      | Englisch     | der Engländer    | die Engländerin  |
-| China        | Chinesisch   | der Chinese      | die Chinesin     |
-| Türkei       | Türkisch     | der Türke        | die Türkin       |
-| Frankreich   | Französisch  | der Franzose     | die Französin    |
-| Deutschland  | Deutsch      | der Deutsche     | die Deutsche     |
+| Land         | Sprache        | Nationalität (m)    | Nationalität (f)      |
+| :----------- | :------------- | :------------------ | :-------------------- |
+| Spanien      | Spanisch       | der Spanier         | die Spanierin         |
+| Japan        | Japanisch      | der Japaner         | die Japanerin         |
+| England      | Englisch       | der Engländer       | die Engländerin       |
+| China        | Chinesisch     | der Chinese         | die Chinesin          |
+| Türkei       | Türkisch       | der Türke           | die Türkin            |
+| Frankreich   | Französisch    | der Franzose        | die Französin         |
+| Deutschland  | Deutsch        | der Deutsche        | die Deutsche          |
+| Bulgarien    | Bulgarisch     | der Bulgare         | die Bulgarin          |
+| Mexiko       | Spanisch       | der Mexikaner       | die Mexikanerin       |
+| Polen        | Polnisch       | der Pole            | die Polin             |
+| Korea        | Koreanisch     | der Koreaner        | die Koreanerin        |
+| Tschechien   | Tschechisch    | der Tscheche        | die Tschechin         |
+| Italien      | Italienisch    | der Italiener       | die Italienerin       |
+| Indien       | Hindi / Englisch | der Inder        | die Inderin           |
+| Taiwan       | Chinesisch     | der Taiwanese       | die Taiwanerin        |
+{:.noun-table}
+
+
+## 🌍 Countries • Languages • Nationalities
+
+| Country      | Language        | Nationality   |
+| :----------- | :-------------- | :------------ |
+| Spain        | Spanish         | Spanish       |
+| Japan        | Japanese        | Japanese      |
+| England      | English         | English       |
+| China        | Chinese         | Chinese       |
+| Turkey       | Turkish         | Turkish       |
+| France       | French          | French        |
+| Germany      | German          | German        |
+| Bulgaria     | Bulgarian       | Bulgarian     |
+| Mexico       | Spanish         | Mexican       |
+| Poland       | Polish          | Polish        |
+| Korea        | Korean          | Korean        |
+| Czechia      | Czech           | Czech         |
+| Italy        | Italian         | Italian       |
+| India        | Hindi / English | Indian        |
+| Taiwan       | Chinese         | Taiwanese     |
 {:.noun-table}
 
