@@ -77,7 +77,7 @@ categories: Deutsch
 | Afrika              | afrikanisch    | der Afrikaner   | die Afrikanerin |
 | Amerika             | amerikanisch   | der Amerikaner  | die Amerikanerin|
 | Australien          | australisch    | der Australier  | die Australierin|
-| Ozeanien *(optional)* | ozeanisch    | der Ozeanier    | die Ozeanierin  |
+| Ozeanien            | ozeanisch      | der Ozeanier    | die Ozeanierin  |
 {:.continent-table}
 
 ---
@@ -91,7 +91,7 @@ categories: Deutsch
 | Africa      | African     | African     |
 | America     | American    | American    |
 | Australia   | Australian  | Australian  |
-| Oceania *(optional)* | Oceanian   | Oceanian   |
+| Oceania     | Oceanian    | Oceanian    |
 
 
 
