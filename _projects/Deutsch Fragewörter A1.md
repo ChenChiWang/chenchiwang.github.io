@@ -8,6 +8,8 @@ categories: Deutsch
 <!-- 流量追蹤 -->
 <script src="{{ '/assets/js/momo-script.js' | relative_url }}"></script>
 
+## Fragewöter
+
 | 德文疑問詞 | 中文意思         | 英文意思           | 備註/用法 |
 |------------|----------------|-------------------|-----------|
 | wer        | 誰             | who               | 主語常用 |
