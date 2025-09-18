@@ -11,6 +11,7 @@ categories: Deutsch
 ## A1 常見介詞 Präpositionen
 
 ### 只能接 Dativ
+
 | 介詞   | 中文意思         | 英文意思       | 例句 |
 |--------|----------------|---------------|------|
 | aus    | 從、來自        | from/out of   | Ich komme **aus** Taiwan. |
@@ -24,6 +25,7 @@ categories: Deutsch
 ---
 
 ### 只能接 Akkusativ
+
 | 介詞   | 中文意思     | 英文意思     | 例句 |
 |--------|------------|-------------|------|
 | bis    | 直到       | until/to    | Ich bleibe **bis** Montag. |
