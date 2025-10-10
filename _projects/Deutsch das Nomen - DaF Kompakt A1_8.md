@@ -56,10 +56,12 @@ categories: Deutsch
 | **vegetarisch** | 素食的 |
 {:.noun-table}
 
+---
 
 ## 🏠 Im Restaurant（在餐廳）
 
 ### 📘 Nomen（名詞）
+
 | Masculin (der) | Feminin (die) | Neutrum (das) |
 | :------------- | :------------ | :------------ |
 | der Gast 🙋 | die Speise 🍽️ | das Lokal 🏨 |
@@ -73,6 +75,7 @@ categories: Deutsch
 
 
 ### 🗣️ Redemittel（常用句）
+
 - Ich möchte bitte bestellen.（我想點餐。）
 - Was empfehlen Sie?（您推薦什麼？）
 - Ich hätte gern die Suppe als Vorspeise.（我想要湯當前菜。）
@@ -82,6 +85,7 @@ categories: Deutsch
 
 
 ## 🍴 Besteck / Geschirr（餐具 / 器皿）
+
 | Masculin (der) | Feminin (die) | Neutrum (das) |
 | :------------- | :------------ | :------------ |
 | der Löffel 🥄 | die Gabel 🍴 | das Messer 🔪 |
@@ -98,6 +102,7 @@ categories: Deutsch
 
 
 ## 👩‍🍳 Kochen – Nomen（烹飪名詞）
+
 | Masculin (der) | Feminin (die) | Neutrum (das) |
 | :------------- | :------------ | :------------ |
 | | die Zubereitung 🧪 | das Gericht 🍱 |
