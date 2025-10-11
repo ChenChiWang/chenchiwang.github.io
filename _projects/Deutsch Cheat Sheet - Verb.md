@@ -16,14 +16,15 @@ categories: Deutsch
 ---
 
 <style>
-/* 動詞變位表人稱上色 */
-.verb-table tr:nth-child(2) td:first-child { color: #4169E1; font-weight: bold; } /* ich */
-.verb-table tr:nth-child(3) td:first-child { color: #4169E1; font-weight: bold; } /* du */
-.verb-table tr:nth-child(4) td:first-child { color: #FF6B6B; font-weight: bold; } /* er/sie/es */
-.verb-table tr:nth-child(5) td:first-child { color: #2ECC71; font-weight: bold; } /* wir */
-.verb-table tr:nth-child(6) td:first-child { color: #FFA500; font-weight: bold; } /* ihr */
-.verb-table tr:nth-child(7) td:first-child { color: #2ECC71; font-weight: bold; } /* sie/Sie */
+/* 整列上色（所有欄位） */
+.verb-table tbody tr:nth-child(1) td { color: #4169E1; font-weight: bold; } /* ich */
+.verb-table tbody tr:nth-child(2) td { color: #4169E1; font-weight: bold; } /* du */
+.verb-table tbody tr:nth-child(3) td { color: #FF6B6B; font-weight: bold; } /* er/sie/es */
+.verb-table tbody tr:nth-child(4) td { color: #2ECC71; font-weight: bold; } /* wir */
+.verb-table tbody tr:nth-child(5) td { color: #FFA500; font-weight: bold; } /* ihr */
+.verb-table tbody tr:nth-child(6) td { color: #2ECC71; font-weight: bold; } /* sie/Sie */
 </style>
+
 
 ---
 
