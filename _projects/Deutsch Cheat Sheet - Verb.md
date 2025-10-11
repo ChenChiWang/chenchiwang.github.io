@@ -118,13 +118,59 @@ categories: Deutsch
 ---
 
 <div class="mermaid">
-%%{init: { "flowchart": { "htmlLabels": false } }}%%
 graph TD;
-  A[德文 A1 動詞總覽] --> R[規則動詞];
-  R --> R6[heißen\n(du er heißt)];
-  S[強變化動詞] --> Sa[a → ä];
-  Sa --> Sa1[fahren\nfährst / fährt];
+    A[De A1 Verb Uebersicht] --> R[Regelmaessige Verben];
+    A --> S[Starke Verben];
+    A --> U[Unregelmaessig Spezial];
+    A --> P[Praxishinweise];
+
+    R --> R1[lernen];
+    R --> R2[machen];
+    R --> R3[hoeren];
+    R --> R4[wohnen];
+    R --> R5[spielen];
+    R --> R6[heissen du er heisst];
+    R --> R7[backen backst backt oder baeckst baeckt];
+
+    S --> Sa[a zu ae];
+    S --> Se[e zu ie];
+    S --> Si[e zu i];
+
+    Sa --> Sa1[fahren faehrst faehrt];
+    Sa --> Sa2[schlafen schlaefst schlaeft];
+    Sa --> Sa3[fangen faengst faengt];
+    Sa --> Sa4[waschen waeschst waescht];
+
+    Se --> Se1[sehen siehst sieht];
+    Se --> Se2[lesen liest];
+
+    Si --> Si1[geben gibst gibt];
+    Si --> Si2[essen isst isst];
+    Si --> Si3[nehmen nimmst nimmt];
+    Si --> Si4[sprechen sprichst spricht];
+
+    U --> U1[sein bin bist ist];
+    U --> U2[haben habe hast hat];
+    U --> U3[wissen weiss weisst weiss];
+    U --> M[Modalverben];
+
+    M --> M1[muessen muss musst muss];
+    M --> M2[wollen will willst will];
+    M --> M3[duerfen darf darfst darf];
+    M --> M4[koennen kann kannst kann];
+    M --> M5[moegen mag magst mag];
+    M --> M6[moechten Konjunktiv];
+
+    P --> P1[Endungen e st t en t en];
+    P --> P2[Vokalwechsel bei du und er sie es];
+    P --> P3[Modal plus Infinitiv Ich will Deutsch lernen];
+    P --> P4[Futur werden plus Infinitiv];
+    P --> P5[Irrealis wuerde plus Infinitiv];
+    P --> P6[zu Infinitiv Es ist wichtig ehrlich zu sein];
+    P --> P7[heissen scharfes s kein st also heisst];
+    P --> P8[backen backst backt oder baeckst baeckt];
 </div>
+
 
 
 
