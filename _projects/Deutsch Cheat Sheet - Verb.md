@@ -119,8 +119,15 @@ categories: Deutsch
 
 <div class="mermaid">
 graph TD;
-  A[節點一\n換行OK] --> B[節點二\n也換行];
+  A[德文 A1 動詞總覽] --> R[規則動詞];
+  A --> S[強變化動詞];
+  A --> U[不規則特殊動詞];
+  R --> R1[heißen\n(du er heißt)];
+  S --> Sa[a → ä];
+  Sa --> Sa1[fahren\nfährst fährt];
+  U --> U1[sein\nbin bist ist];
 </div>
+
 
 
 
