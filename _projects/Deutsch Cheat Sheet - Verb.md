@@ -124,14 +124,6 @@ graph TD;
     A --> U[Unregelmaessig Spezial];
     A --> P[Praxishinweise];
 
-    R --> R1[lernen];
-    R --> R2[machen];
-    R --> R3[hoeren];
-    R --> R4[wohnen];
-    R --> R5[spielen];
-    R --> R6[heissen du er heisst];
-    R --> R7[backen backst backt oder baeckst baeckt];
-
     S --> Sa[a zu ae];
     S --> Se[e zu ie];
     S --> Si[e zu i];
