@@ -119,8 +119,9 @@ categories: Deutsch
 
 <div class="mermaid">
 graph TD;
-  A[OK] --> B[渲染成功];
+  A[節點一\n換行OK] --> B[節點二\n也換行];
 </div>
+
 
 
 
