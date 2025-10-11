@@ -67,67 +67,71 @@ categories: Deutsch
 
 ### a → ä
 
-| 代詞       | fahren | schlafen | fangen |
-|------------|--------|----------|--------|
-| ich        | fahre  | schlafe  | fange  |
-| du         | fährst | schläfst | fängst |
-| er/sie/es  | fährt  | schläft  | fängt  |
-| wir        | fahren | schlafen | fangen |
-| ihr        | fahrt  | schlaft  | fangt  |
-| sie/Sie    | fahren | schlafen | fangen |
+| 代詞       | fahren (開車) | schlafen (睡覺) | fangen (抓) | laufen (跑) |
+|------------|---------------|----------------|-------------|-------------|
+| ich        | fahre         | schlafe        | fange       | laufe       |
+| du         | fährst        | schläfst       | fängst      | läufst      |
+| er/sie/es  | fährt         | schläft        | fängt       | läuft       |
+| wir        | fahren        | schlafen       | fangen      | laufen      |
+| ihr        | fahrt         | schlaft        | fangt       | lauft       |
+| sie/Sie    | fahren        | schlafen       | fangen      | laufen      |
 {: .verb-table }
+
+---
 
 ### e → ie
 
-| 代詞       | sehen | lesen |
-|------------|-------|-------|
-| ich        | sehe  | lese  |
-| du         | siehst| liest |
-| er/sie/es  | sieht | liest |
-| wir        | sehen | lesen |
-| ihr        | seht  | lest  |
-| sie/Sie    | sehen | lesen |
+| 代詞       | sehen (看) | lesen (讀) |
+|------------|------------|------------|
+| ich        | sehe       | lese       |
+| du         | siehst     | liest      |
+| er/sie/es  | sieht      | liest      |
+| wir        | sehen      | lesen      |
+| ihr        | seht       | lest       |
+| sie/Sie    | sehen      | lesen      |
 {: .verb-table }
+
+---
 
 ### e → i
 
-| 代詞       | geben | essen | nehmen | sprechen |
-|------------|-------|-------|--------|----------|
-| ich        | gebe  | esse  | nehme  | spreche  |
-| du         | gibst | isst  | nimmst | sprichst |
-| er/sie/es  | gibt  | isst  | nimmt  | spricht  |
-| wir        | geben | essen | nehmen | sprechen |
-| ihr        | gebt  | esst  | nehmt  | sprecht  |
-| sie/Sie    | geben | essen | nehmen | sprechen |
+| 代詞       | geben (給) | essen (吃) | nehmen (拿) | sprechen (說) | treffen (見面) |
+|------------|-----------|------------|-------------|---------------|----------------|
+| ich        | gebe      | esse       | nehme       | spreche       | treffe         |
+| du         | gibst     | isst       | nimmst      | sprichst      | triffst        |
+| er/sie/es  | gibt      | isst       | nimmt       | spricht       | trifft         |
+| wir        | geben     | essen      | nehmen      | sprechen      | treffen        |
+| ihr        | gebt      | esst       | nehmt       | sprecht       | trefft         |
+| sie/Sie    | geben     | essen      | nehmen      | sprechen      | treffen        |
 {: .verb-table }
 
 ---
 
 ## 特殊動詞
 
-| 代詞       | sein | haben | möchten  | mögen | müssen | wollen | dürfen | können | wissen |
-|------------|------|-------|----------|-------|--------|--------|--------|--------|--------|
-| ich        | bin  | habe  | möchte   | mag   | muss   | will   | darf   | kann   | weiß   |
-| du         | bist | hast  | möchtest | magst | musst  | willst | darfst | kannst | weißt  |
-| er/sie/es  | ist  | hat   | möchte   | mag   | muss   | will   | darf   | kann   | weiß   |
-| wir        | sind | haben | möchten  | mögen | müssen | wollen | dürfen | können | wissen |
-| ihr        | seid | habt  | möchtet  | mögt  | müsst  | wollt  | dürft  | könnt  | wisst  |
-| sie/Sie    | sind | haben | möchten  | mögen | müssen | wollen | dürfen | können | wissen |
+| 代詞       | sein (是) | haben (有) | möchten (想要) | mögen (喜歡) | müssen (必須) | wollen (要) | dürfen (允許) | können (能) | wissen (知道) |
+|------------|-----------|------------|----------------|--------------|---------------|-------------|---------------|-------------|---------------|
+| ich        | bin       | habe       | möchte         | mag          | muss          | will        | darf          | kann        | weiß          |
+| du         | bist      | hast       | möchtest       | magst        | musst         | willst      | darfst        | kannst      | weißt         |
+| er/sie/es  | ist       | hat        | möchte         | mag          | muss          | will        | darf          | kann        | weiß          |
+| wir        | sind      | haben      | möchten        | mögen        | müssen        | wollen      | dürfen        | können      | wissen        |
+| ihr        | seid      | habt       | möchtet        | mögt         | müsst         | wollt       | dürft         | könnt       | wisst         |
+| sie/Sie    | sind      | haben      | möchten        | mögen        | müssen        | wollen      | dürfen        | können      | wissen        |
 {: .verb-table }
 
 ---
 
+## 學習導圖
+
 <div class="mermaid">
 graph TD;
-    A[De A1 Verb Uebersicht] --> R[Regelmaessige Verben];
-    A --> S[Starke Verben];
-    A --> U[Unregelmaessig Spezial];
-    A --> P[Praxishinweise];
+    A[A1 動詞變位] --> R[規則動詞]
+    A --> S[強變化動詞]
+    A --> U[特殊動詞]
 
-    S --> Sa[a zu ae];
-    S --> Se[e zu ie];
-    S --> Si[e zu i];
-
+    S --> Sa[a → ä]
+    S --> Se[e → ie]
+    S --> Si[e → i]
 </div>
 
 
