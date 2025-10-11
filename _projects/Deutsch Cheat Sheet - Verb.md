@@ -135,6 +135,49 @@ graph TD;
 </div>
 
 
+---
+
+## ✅ sein (是)
+
+| 人稱       | Präsens (現在) | Präteritum (過去) | Perfekt (完成) |
+|------------|----------------|-------------------|----------------|
+| ich        | bin            | war               | bin gewesen    |
+| du         | bist           | warst             | bist gewesen   |
+| er/sie/es  | ist            | war               | ist gewesen    |
+| wir        | sind           | waren             | sind gewesen   |
+| ihr        | seid           | wart              | seid gewesen   |
+| sie/Sie    | sind           | waren             | sind gewesen   |
+
+📌 例句  
+- Präsens: *Ich bin müde.* (我很累)  
+- Präteritum: *Ich war gestern krank.* (我昨天生病了)  
+- Perfekt: *Ich bin nach Berlin gewesen.* (我去過柏林)  
+
+---
+
+## ✅ haben (有)
+
+| 人稱       | Präsens (現在) | Präteritum (過去) | Perfekt (完成) |
+|------------|----------------|-------------------|----------------|
+| ich        | habe           | hatte             | habe gehabt    |
+| du         | hast           | hattest           | hast gehabt    |
+| er/sie/es  | hat            | hatte             | hat gehabt     |
+| wir        | haben          | hatten            | haben gehabt   |
+| ihr        | habt           | hattet            | habt gehabt    |
+| sie/Sie    | haben          | hatten            | haben gehabt   |
+
+📌 例句  
+- Präsens: *Ich habe ein Auto.* (我有一輛車)  
+- Präteritum: *Ich hatte keine Zeit.* (我當時沒有時間)  
+- Perfekt: *Ich habe Glück gehabt.* (我曾經很幸運)  
+
+---
+
+## ✨ 小提示
+
+- **sein / haben** 在口語裡，常用 **Perfekt** 來講過去。  
+- 在 **書面語**（新聞、小說、報告）中，會更多用 **Präteritum**。 
+
 
 
 
