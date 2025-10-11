@@ -25,6 +25,12 @@ categories: Deutsch
 .verb-table tbody tr:nth-child(6) td { color: #2ECC71; font-weight: bold; } /* sie/Sie */
 </style>
 
+<style>
+.verb-table th, .verb-table td {
+  min-width: 100px;  /* 最小寬度 */
+  padding: 4px 8px;  /* 表格內邊距 */
+}
+</style>
 
 ---
 
