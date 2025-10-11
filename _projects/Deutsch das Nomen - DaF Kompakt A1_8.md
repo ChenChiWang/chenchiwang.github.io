@@ -183,8 +183,8 @@ categories: Deutsch
 | **lieber** | 比較喜歡 |
 | **am liebsten** | 最喜歡 |
 | **ein bisschen** | 一點點 |
-| **draußen** | 在外面 |
-| **drinnen** | 在裡面 |
+| **draußen** | 在室外 |
+| **drinnen** | 在室內 |
 | **überall** | 到處 |
 {:.noun-table}
 

@@ -9,40 +9,56 @@ categories: Deutsch
 <script src="{{ '/assets/js/momo-script.js' | relative_url }}"></script>
 
 
-# 德文 A1 動詞變位 Cheat Sheet
+# 德文 A1 動詞變位 Cheat Sheet (彩色版)
 
-這份 Cheat Sheet 整理 A1 級別常用德文動詞變位，涵蓋規則動詞、強變化動詞和特殊動詞，適合初學者。變位以現在時態 (Präsens) 為主，按變位邏輯整合，附簡單範例，方便快速學習。
+這份 Cheat Sheet 整理 A1 級別常用德文動詞變位，涵蓋規則動詞、強變化動詞和特殊動詞，適合初學者。變位以現在時態 (Präsens) 為主，按變位邏輯整合，附簡單範例。
+
+---
+
+<style>
+/* 動詞變位表人稱上色 */
+.verb-table tr:nth-child(2) td:first-child { color: #4169E1; font-weight: bold; } /* ich */
+.verb-table tr:nth-child(3) td:first-child { color: #4169E1; font-weight: bold; } /* du */
+.verb-table tr:nth-child(4) td:first-child { color: #FF6B6B; font-weight: bold; } /* er/sie/es */
+.verb-table tr:nth-child(5) td:first-child { color: #2ECC71; font-weight: bold; } /* wir */
+.verb-table tr:nth-child(6) td:first-child { color: #FFA500; font-weight: bold; } /* ihr */
+.verb-table tr:nth-child(7) td:first-child { color: #2ECC71; font-weight: bold; } /* sie/Sie */
+</style>
+
+---
+
+## 🎨 配色說明 (Color Legend)
+
+- <span style="color:#4169E1; font-weight:bold">ich / du</span> → **藍色**  
+  初學最常用的人稱，基礎參考點。  
+- <span style="color:#FF6B6B; font-weight:bold">er/sie/es</span> → **紅色**  
+  第三人稱單數，最常出現不規則變化，需要特別注意。  
+- <span style="color:#2ECC71; font-weight:bold">wir / sie / Sie</span> → **綠色**  
+  複數形式，幾乎都是回到動詞原形 (如 *wir lernen*, *sie lernen*)。  
+- <span style="color:#FFA500; font-weight:bold">ihr</span> → **橘色**  
+  第二人稱複數，在課堂或團體對話出現，但使用頻率相對較低。  
+
+👉 這樣配色能幫助快速辨識規律與例外，讓動詞變位更容易掌握。
+
+---
 
 ## 規則動詞
-規則動詞詞幹不變，依代詞添加詞尾：ich -e, du -st, er/sie/es -t, wir -en, ihr -t, sie/Sie -en。
-
-變位：
 
 | 代詞       | lernen (學) | machen (做) | waschen (洗) | heißen (名) | backen (烤) |
 |------------|-------------|-------------|--------------|-------------|-------------|
 | ich        | lerne       | mache       | wasche       | heiße       | backe       |
-| du         | lernst      | machst      | wäschst      | heißt       | backst      |
-| er/sie/es  | lernt       | macht       | wäscht       | heißt       | backt       |
+| du         | lernst      | machst      | wäschst      | heißt       | backst / bäckst |
+| er/sie/es  | lernt       | macht       | wäscht       | heißt       | backt / bäckt   |
 | wir        | lernen      | machen      | waschen      | heißen      | backen      |
 | ihr        | lernt       | macht       | wascht       | heißt       | backt       |
 | sie/Sie    | lernen      | machen      | waschen      | heißen      | backen      |
+{: .verb-table }
 
-範例句子：
-- *lernen*: *Ich lerne Deutsch.*（我學德文）
-- *machen*: *Wir machen einen Kuchen.*（我們做蛋糕）
-- *waschen*: *Du wäschst das Auto.*（你洗車）
-- *heißen*: *Ich heiße Anna.*（我名安娜）
-- *backen*: *Ich backe Brot.*（我烤麵包）
-
-其他規則動詞：*sprechen* (說話, 詞幹 sprech-), *hören* (聽, 詞幹 hör-), *arbeiten* (工作, 詞幹 arbeit-), *lieben* (愛, 詞幹 lieb-), *wohnen* (住, 詞幹 wohn-)，遵循上述詞尾規則。
+---
 
 ## 強變化動詞
-強變化動詞在 *du* 和 *er/sie/es* 形式有元音變化 (Vokalwechsel)，其他形式通常保持原形。
 
 ### a → ä
-動詞：fahren (駕駛), schlafen (睡), fangen (抓)
-
-變位：
 
 | 代詞       | fahren | schlafen | fangen |
 |------------|--------|----------|--------|
@@ -52,16 +68,9 @@ categories: Deutsch
 | wir        | fahren | schlafen | fangen |
 | ihr        | fahrt  | schlaft  | fangt  |
 | sie/Sie    | fahren | schlafen | fangen |
-
-範例句子：
-- *fahren*: *Ich fahre nach Berlin.*（我駕車去柏林）
-- *schlafen*: *Du schläfst spät.*（你睡得很晚）
-- *fangen*: *Du fängst den Ball.*（你抓球）
+{: .verb-table }
 
 ### e → ie
-動詞：sehen (看), lesen (讀)
-
-變位：
 
 | 代詞       | sehen | lesen |
 |------------|-------|-------|
@@ -71,88 +80,30 @@ categories: Deutsch
 | wir        | sehen | lesen |
 | ihr        | seht  | lest  |
 | sie/Sie    | sehen | lesen |
-
-範例句子：
-- *sehen*: *Du siehst fern.*（你看電視）
-- *lesen*: *Sie liest ein Buch.*（她讀書）
+{: .verb-table }
 
 ### e → i
-動詞：geben (給), essen (吃), nehmen (拿)
 
-變位：
+| 代詞       | geben | essen | nehmen | sprechen |
+|------------|-------|-------|--------|----------|
+| ich        | gebe  | esse  | nehme  | spreche  |
+| du         | gibst | isst  | nimmst | sprichst |
+| er/sie/es  | gibt  | isst  | nimmt  | spricht  |
+| wir        | geben | essen | nehmen | sprechen |
+| ihr        | gebt  | esst  | nehmt  | sprecht  |
+| sie/Sie    | geben | essen | nehmen | sprechen |
+{: .verb-table }
 
-| 代詞       | geben | essen | nehmen |
-|------------|-------|-------|--------|
-| ich        | gebe  | esse  | nehme  |
-| du         | gibst | isst  | nimmst |
-| er/sie/es  | gibt  | isst  | nimmt  |
-| wir        | geben | essen | nehmen |
-| ihr        | gebt  | esst  | nehmt  |
-| sie/Sie    | geben | essen | nehmen |
-
-範例句子：
-- *geben*: *Er gibt mir einen Stift.*（他給我筆）
-- *essen*: *Du isst einen Apfel.*（你吃蘋果）
-- *nehmen*: *Ich nehme das Buch.*（我拿書）
-
-### o → i
-動詞：kommen (來), holen (取)
-
-變位：
-
-| 代詞       | kommen | holen |
-|------------|--------|-------|
-| ich        | komme  | hole  |
-| du         | kommst | holst |
-| er/sie/es  | kommt  | holt  |
-| wir        | kommen | holen |
-| ihr        | kommt  | holt  |
-| sie/Sie    | kommen | holen |
-
-範例句子：
-- *kommen*: *Ich komme aus Deutschland.*（我來自德國）
-- *holen*: *Du holst Wasser.*（你取水）
+---
 
 ## 特殊動詞
-不規則動詞變位不遵循標準規則，常用於 A1 級別，整合以便對比：
 
-動詞：sein (是), haben (有), möchten (想), mögen (喜歡), müssen (必須), wollen (想), dürfen (可), können (能)
-
-變位：
-
-| 代詞       | sein  | haben | möchten | mögen | müssen | wollen | dürfen | können |
-|------------|-------|-------|---------|-------|--------|--------|--------|--------|
-| ich        | bin   | habe  | möchte  | mag   | muss   | will   | darf   | kann   |
-| du         | bist  | hast  | möchtest| magst | musst  | willst | darfst | kannst |
-| er/sie/es  | ist   | hat   | möchte  | mag   | muss   | will   | darf   | kann   |
-| wir        | sind  | haben | möchten | mögen | müssen | wollen | dürfen | können |
-| ihr        | seid  | habt  | möchtet | mögt  | müsst  | wollt  | dürft  | könnt  |
-| sie/Sie    | sind  | haben | möchten | mögen | müssen | wollen | dürfen | können |
-
-範例句子：
-- *sein*: *Ich bin Student.*（我是學生）
-- *haben*: *Du hast ein Buch.*（你有書）
-- *möchten*: *Ich möchte Wasser.*（我想喝水）
-- *mögen*: *Ich mag Musik.*（我喜歡音樂）
-- *müssen*: *Du musst lernen.*（你必須學習）
-- *wollen*: *Ich will reisen.*（我想旅行）
-- *dürfen*: *Du darfst spielen.*（你可以玩）
-- *können*: *Ich kann schwimmen.*（我會游泳）
-
-## 學習筆記
-
-### 變位規則
-- **規則動詞**：詞幹不變，加詞尾 (-e, -st, -t, -en, -t, -en)。如 *sprechen*, *hören*, *arbeiten*, *lieben*，詞幹為 sprech-, hör-, arbeit-, lieb-。
-- **強變化動詞**：元音變化僅影響 *du* 和 *er/sie/es*：
-  - *a→ä*: *fahren* (du fährst), *schlafen* (du schläfst), *fangen* (du fängst)
-  - *e→ie*: *sehen* (du siehst), *lesen* (du liest)
-  - *e→i*: *geben* (du gibst), *essen* (du isst), *nehmen* (du nimmst)
-  - *o→i*: *kommen* (du kommst), *holen* (du holst)
-- **特殊動詞**：*sein*, *haben*, *möchten*, *mögen*, *müssen*, *wollen*, *dürfen*, *können* 變位不規則，注意 *du* 形式：*bist*, *hast*, *möchtest*, *magst*, *musst*, *willst*, *darfst*, *kannst*。
-- **詞幹提取**：動詞原形去 *-en* (如 fangen → fang-)。*möchten*, *mögen*, *müssen*, *wollen*, *dürfen*, *können* 為情態動詞，無標準詞幹。
-- **發音**：注意 *du* 形式的 *-st*/*-t* (如 *wäschst*, *fängst*, *nimmst*, *holst*, *musst*, *willst*, *darfst*, *kannst* 的 *t* 音)，*heißt* 無 *-st*。
-
-### 學習建議
-- 用閃卡練習變位，按規則、a→ä、e→ie、e→i、o→i、不規則分類。
-- 造簡單句子，如 *Ich backe*, *Du kannst*, *Er kommt*。
-- 避免混淆 *bist*/*hast*/*möchtest*/*magst*/*musst*/*willst*/*darfst*/*kannst*，以及 *heißt* (非 *heißst*)。
+| 代詞       | sein | haben | möchten  | mögen | müssen | wollen | dürfen | können | wissen |
+|------------|------|-------|----------|-------|--------|--------|--------|--------|--------|
+| ich        | bin  | habe  | möchte   | mag   | muss   | will   | darf   | kann   | weiß   |
+| du         | bist | hast  | möchtest | magst | musst  | willst | darfst | kannst | weißt  |
+| er/sie/es  | ist  | hat   | möchte   | mag   | muss   | will   | darf   | kann   | weiß   |
+| wir        | sind | haben | möchten  | mögen | müssen | wollen | dürfen | können | wissen |
+| ihr        | seid | habt  | möchtet  | mögt  | müsst  | wollt  | dürft  | könnt  | wisst  |
+| sie/Sie    | sind | haben | möchten  | mögen | müssen | wollen | dürfen | können | wissen |
+{: .verb-table }
