@@ -114,3 +114,69 @@ categories: Deutsch
 | ihr        | seid | habt  | möchtet  | mögt  | müsst  | wollt  | dürft  | könnt  | wisst  |
 | sie/Sie    | sind | haben | möchten  | mögen | müssen | wollen | dürfen | können | wissen |
 {: .verb-table }
+
+---
+
+<div class="mermaid">
+graph TD;
+    A[德文 A1 動詞總覽] --> R[規則動詞];
+    A --> S[強變化動詞];
+    A --> U[不規則 / 特殊動詞];
+    A --> P[用法要點];
+
+    %% 規則動詞
+    R --> R1[lernen];
+    R --> R2[machen];
+    R --> R3[hören];
+    R --> R4[wohnen];
+    R --> R5[spielen];
+    R --> R6[heißen<br/>(du/er: heißt)];
+    R --> R7[backen<br/>(backst/backt 或 bäckst/bäckt)];
+
+    %% 強變化：母音變化分組
+    S --> Sa[a → ä];
+    S --> Se[e → ie];
+    S --> Si[e → i];
+
+    Sa --> Sa1[fahren → fährst / fährt];
+    Sa --> Sa2[schlafen → schläfst / schläft];
+    Sa --> Sa3[fangen → fängst / fängt];
+    Sa --> Sa4[waschen → wäschst / wäscht];
+
+    Se --> Se1[sehen → siehst / sieht];
+    Se --> Se2[lesen → liest];
+
+    Si --> Si1[geben → gibst / gibt];
+    Si --> Si2[essen → isst / isst];
+    Si --> Si3[nehmen → nimmst / nimmt];
+    Si --> Si4[sprechen → sprichst / spricht];
+
+    %% 不規則 / 特殊動詞（含情態動詞）
+    U --> U1[sein (bin, bist, ist ...)];
+    U --> U2[haben (habe, hast, hat ...)];
+    U --> U3[wissen (weiß, weißt, weiß ...)];
+    U --> M[情態動詞 Modalverben];
+
+    M --> M1[müssen (muss, musst, muss ...)];
+    M --> M2[wollen (will, willst, will ...)];
+    M --> M3[dürfen (darf, darfst, darf ...)];
+    M --> M4[können (kann, kannst, kann ...)];
+    M --> M5[mögen (mag, magst, mag ...)];
+    M --> M6[möchten (虛擬式變位)];
+
+    %% 用法要點
+    P --> P1[規則尾碼：-e / -st / -t / -en / -t / -en];
+    P --> P2[強變化位置：多在 du、er/sie/es];
+    P --> P3[Modal + 不定式：Ich will Deutsch lernen.];
+    P --> P4[未來式：werden + Infinitiv];
+    P --> P5[假設：würde + Infinitiv];
+    P --> P6[zu-Infinitiv：Es ist wichtig, ehrlich zu sein.];
+    P --> P7[heißen：ß 後不再加 -st → heißt];
+    P --> P8[backen：backst/backt 或 bäckst/bäckt];
+
+    %% 輔助連結（虛線）
+    R -.-> P1;
+    S -.-> P2;
+    U -.-> P3;
+    U -.-> P5;
+</div>
