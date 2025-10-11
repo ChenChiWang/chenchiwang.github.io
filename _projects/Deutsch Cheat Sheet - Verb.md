@@ -119,67 +119,9 @@ categories: Deutsch
 
 <div class="mermaid">
 graph TD;
-    A[德文 A1 動詞總覽] --> R[規則動詞];
-    A --> S[強變化動詞];
-    A --> U[不規則特殊動詞];
-    A --> P[用法要點];
-
-    %% 規則動詞
-    R --> R1[lernen];
-    R --> R2[machen];
-    R --> R3[hören];
-    R --> R4[wohnen];
-    R --> R5[spielen];
-    R --> R6[heißen\n(du er heißt)];
-    R --> R7[backen\n(backst backt 或 baeckst baeckt)];
-
-    %% 強變化
-    S --> Sa[a → ä];
-    S --> Se[e → ie];
-    S --> Si[e → i];
-
-    Sa --> Sa1[fahren\nfährst fährt];
-    Sa --> Sa2[schlafen\nschläfst schläft];
-    Sa --> Sa3[fangen\nfängst fängt];
-    Sa --> Sa4[waschen\nwäschst wäscht];
-
-    Se --> Se1[sehen\nsiehst sieht];
-    Se --> Se2[lesen\nliest];
-
-    Si --> Si1[geben\ngibst gibt];
-    Si --> Si2[essen\nisst isst];
-    Si --> Si3[nehmen\nnimmst nimmt];
-    Si --> Si4[sprechen\nsprichst spricht];
-
-    %% 不規則特殊動詞
-    U --> U1[sein\n(bin bist ist)];
-    U --> U2[haben\n(habe hast hat)];
-    U --> U3[wissen\n(weiss weisst weiss)];
-    U --> M[情態動詞\nModalverben];
-
-    M --> M1[müssen\n(muss musst muss)];
-    M --> M2[wollen\n(will willst will)];
-    M --> M3[dürfen\n(darf darfst darf)];
-    M --> M4[können\n(kann kannst kann)];
-    M --> M5[mögen\n(mag magst mag)];
-    M --> M6[möchten\n(虛擬式變位)];
-
-    %% 用法要點
-    P --> P1[規則尾碼\n-e -st -t -en -t -en];
-    P --> P2[強變化多在\n du er sie es];
-    P --> P3[情態動詞 + 原形\nIch will Deutsch lernen];
-    P --> P4[未來式\nwerden + Infinitiv];
-    P --> P5[假設\nwürde + Infinitiv];
-    P --> P6[zu-Infinitiv\nEs ist wichtig ehrlich zu sein];
-    P --> P7[heißen\nß 後不加 st → heißt];
-    P --> P8[backen\nbackst backt 或 bäckst bäckt];
-
-    %% 輔助關聯
-    R -.-> P1;
-    S -.-> P2;
-    U -.-> P3;
-    U -.-> P5;
+  A[OK] --> B[渲染成功];
 </div>
+
 
 
 
