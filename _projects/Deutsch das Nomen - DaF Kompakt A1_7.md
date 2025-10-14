@@ -138,3 +138,86 @@ categories: Deutsch
 - Gute Stimmung auf der Party! 🎶（派對氣氛很好！）  
 - Das war ein schönes Geschenk! 🎁（這是一份很棒的禮物！）
 
+---
+
+## 💫 Leben, Reisen & Gefühle（生活、旅行與情感）
+
+### 🔧 Verben（動詞）
+
+| Verb | 中文意思 | A1 範例句 |
+| :---- | :-------- | :--------- |
+| gehören zu | 屬於 | Das Buch gehört zu mir.（這本書是我的。） |
+| grillen | 烤肉 | Wir grillen im Garten.（我們在花園烤肉。） |
+| heiraten | 結婚 | Sie heiraten im Mai.（他們五月結婚。） |
+| lachen | 笑 | Das Kind lacht laut.（孩子大聲笑。） |
+| leben | 生活 | Ich lebe in Deutschland.（我住在德國。） |
+| reisen | 旅行 | Wir reisen gern im Sommer.（我們夏天喜歡旅行。） |
+| schmecken | 嘗起來 | Das Eis schmeckt lecker.（冰淇淋很好吃。） |
+| sterben | 死亡 | Der König ist gestorben.（國王去世了。） |
+| studieren | 讀大學 | Ich studiere Informatik.（我念資訊學。） |
+| tippen | 打字 | Er tippt schnell.（他打字很快。） |
+| eintippen | 鍵入 | Tipp bitte den Code ein.（請輸入代碼。） |
+| unterrichten | 教授 | Er unterrichtet Deutsch.（他教德文。） |
+| zurückgehen | 返回 | Wir gehen zum Hotel zurück.（我們回飯店。） |
+{:.verb-table}
+
+---
+
+### 🎨 Adjektive（形容詞）
+
+| Adjektiv | 中文意思 |
+| :-------- | :-------- |
+| **astronomisch** | 天文的、極大的 |
+| **abstrakt** | 抽象的 |
+| **aggressiv** | 具有攻擊性的 |
+| **berühmt** | 有名的 |
+| **bunt** | 五彩繽紛的 |
+| **direkt** | 直接的 |
+| **einfach** | 簡單的 |
+| **fröhlich** | 快樂的 |
+| **lustig** | 有趣的 |
+| **original** | 原創的 |
+| **peinlich** | 尷尬的 |
+| **traurig** | 傷心的 |
+| **verärgert** | 生氣的 |
+| **voll** | 滿的 |
+| **weit** | 遠的、寬的 |
+{:.noun-table}
+
+---
+
+### ⚡ Adverbien（副詞）
+
+| Adverb | 中文意思 |
+| :------ | :-------- |
+| **bestimmt** | 一定、肯定 |
+| **vorher** | 之前 |
+| **alle** | 所有人／全部 |
+| **etwas** | 一些／某些 |
+| **nichts** | 什麼都沒有 |
+{:.noun-table}
+
+---
+
+### 🔗 Präpositionen（介詞 + 格提示）
+
+| Präposition | 用法範例 | 中文意思 |
+| :----------- | :---------- | :-------- |
+| **bei (dem/der)** | bei dem Freund → *beim Freund* | 在…旁邊／於…處 |
+| **für (den/das/die)** | für den Freund | 給／為了 |
+| **durch (den/das/die)** | durch den Park | 穿過 |
+| **mit (dem/der)** | mit der Freundin | 和…一起 |
+| **um (den/das/die) ... (herum)** | um das Haus herum | 圍繞著… |
+| **von … (bis) zu** | von Montag bis Freitag | 從…到… |
+{:.noun-table}
+
+---
+
+### 💬 Redemittel（常用語）
+
+| Ausdruck | 中文意思 |
+| :-------- | :-------- |
+| **Das nächste Mal ... gefällt mir gut/schlecht.** | 下次…我覺得好／不好。 |
+| **Entschuldigung, wie komme ich zu/zum/zur ...?** | 請問，我怎麼到…？（問路） |
+{:.noun-table}
+
