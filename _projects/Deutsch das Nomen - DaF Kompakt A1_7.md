@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Das Nomen - DaF kompakt A1, Lektion 8"
-date:   2025-10-09
+title:  "Das Nomen - DaF kompakt A1, Lektion 7"
+date:   2025-10-12
 categories: Deutsch
 ---
 
