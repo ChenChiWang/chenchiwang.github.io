@@ -138,3 +138,5 @@ categories: Deutsch
 | **die Liste / die Lösung / die Neuigkeit / die Notiz / die Zeile** | 清單 / 解答 / 新消息 / 筆記 / 行 |
 | **der Vetter** | 表兄弟 |
 {:.noun-table}
+
+==
