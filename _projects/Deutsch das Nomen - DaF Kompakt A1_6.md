@@ -19,4 +19,4 @@ categories: Deutsch
 
 </style>
 
-## 👕 Kleidung（服裝）
+## Kleidung（服裝）
