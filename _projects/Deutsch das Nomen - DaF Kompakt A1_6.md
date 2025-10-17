@@ -139,3 +139,78 @@ categories: Deutsch
 | **der Vetter** | 表兄弟 |
 {:.noun-table}
 
+## 🔧 Verben（動詞）
+
+| Verb | 中文意思 | A1 範例句 |
+| :---- | :-------- | :--------- |
+| anfangen | 開始 | Der Kurs fängt um neun Uhr an. |
+| anprobieren | 試穿 | Ich probiere die Hose an. |
+| anstoßen | 乾杯、碰杯 | Wir stoßen auf den Geburtstag an. |
+| aufpassen | 注意、小心 | Pass auf die Kinder auf! |
+| ausführen | 執行、實施 | Der Techniker führt den Test aus. |
+| bedeuten | 意思是 | Was bedeutet dieses Wort? |
+| bringen | 帶來 | Kannst du mir das Buch bringen? |
+| klicken | 點擊 | Klicken Sie hier! |
+| eingeben | 輸入 | Gib bitte das Passwort ein. |
+| einladen | 邀請 | Ich lade dich zum Essen ein. |
+| entschuldigen | 原諒、道歉 | Entschuldigen Sie bitte! |
+| erklären | 解釋 | Er erklärt die Aufgabe. |
+| fernsehen | 看電視 | Wir sehen abends fern. |
+| festhalten | 抓緊、固定 | Halt dich gut fest! |
+| helfen | 幫助 | Kannst du mir helfen? |
+| holen | 拿來、取來 | Ich hole einen Stuhl. |
+| kopieren | 複製、影印 | Ich kopiere das Dokument. |
+| lächeln | 微笑 | Sie lächelt freundlich. |
+| mailen | 寄電子郵件 | Ich maile dir die Datei. |
+| nachfragen | 詢問、追問 | Ich frage noch einmal nach. |
+| nehmen | 拿、取 | Ich nehme einen Kaffee. |
+| nennen | 稱呼、叫做 | Er nennt das Projekt „Alpha“. |
+| sagen | 說 | Was hast du gesagt? |
+| stoppen | 停止 | Der Bus stoppt hier. |
+| surfen | 上網、衝浪 | Ich surfe im Internet. |
+| träumen | 做夢 | Ich träume von Urlaub. |
+| vermuten | 猜想 | Ich vermute, es regnet. |
+| versuchen | 嘗試 | Versuch es noch einmal! |
+| warten | 等待 | Ich warte auf den Bus. |
+{:.verb-table}
+
+---
+
+## 🌈 Adjektive（形容詞）
+
+| Adjektiv | 中文意思 |
+| :-------- | :-------- |
+| fertig | 完成的 |
+| freundlich | 友善的 |
+| herzlich | 熱情的 |
+| klasse | 棒的、極好的 |
+| kulturell | 文化的 |
+| kurz | 短的 |
+| lang | 長的 |
+| langsam | 慢的 |
+| nass | 濕的 |
+| trocken | 乾的 |
+| passend | 合適的 |
+| professionell | 專業的 |
+| sauber | 乾淨的 |
+| vorsichtig | 小心的 |
+| warm | 溫暖的 |
+{:.verb-table}
+
+---
+
+## ⚡ Adverbien（副詞）
+
+| Adverb | 中文意思 |
+| :------ | :-------- |
+| gleich | 馬上、立刻 |
+| nie | 從不 |
+| später | 之後、稍晚 |
+| wirklich | 真的 |
+| zuerst | 首先 |
+| ja | 是、對 |
+| mal | （語氣詞，用於口語） |
+| doch | （語氣詞，加強語氣） |
+| alles | 一切、所有東西 |
+| ein paar | 一些、幾個 |
+{:.verb-table}
