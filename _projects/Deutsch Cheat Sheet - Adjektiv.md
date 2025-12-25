@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Deutsch Cheat Sheet - Adjektiv"
-date:   2025-12-26
+date:   2025-12-25
 categories: Deutsch
 ---
 
