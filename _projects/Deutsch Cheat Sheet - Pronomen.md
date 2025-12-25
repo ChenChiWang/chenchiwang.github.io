@@ -24,11 +24,41 @@ categories: Deutsch
 - **sie (小寫)**：用於第三人稱單數陰性「她」（主格/受格）或複數「他們/她們」（受格）。
 - **ihnen/Ihnen**：小寫 *ihnen* 用於「他們/她們」（複數與格）；大寫 *Ihnen* 用於「您/您們」（禮貌與格）。
 
-## 2. Possessivartikel
+## 2. Reflexivpronomen
+
+> ⚠️ **重點先記一句：**
+- **一、二人稱 → 跟 Akkusativ / Dativ 的人稱代名詞一樣**
+- **三人稱 → 全部用「sich」**
+
+---
+
+|           | ich | du | er | sie | es | wir | ihr | sie | Sie |
+|-----------|-----|----|----|-----|----|-----|-----|-----|-----|
+| **Akkusativ** | mich | dich | sich | sich | sich | uns | euch | sich | sich |
+| **Dativ**     | mir  | dir  | sich | sich | sich | uns | euch | sich | sich |
+
+---
+
+### 🔎 說明
+
+#### 1️⃣ 為什麼沒有 Nominativ？
+👉 **反身代名詞永遠不是主詞**  
+主詞仍然是：ich / du / er / sie / wir …
+
+---
+
+#### 2️⃣ Akkusativ vs. Dativ 怎麼分？
+- **只有一個受詞 → Akkusativ**  
+  - Ich freue **mich**.
+- **已經有一個 Akkusativ 受詞 → 反身代名詞變 Dativ**  
+  - Ich wasche **mir** die Hände.
+
+
+## 3. Possessivartikel
 
 所有格冠詞隨所修飾名詞的性別和格變化，以下為各代詞的變化表格。
 
-### 2.1 ich：
+### 3.1 ich：
 
 |              | Maskulin | Neutral | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
@@ -37,7 +67,7 @@ categories: Deutsch
 | **Dativ**     | meinem          | meinem         | meiner         | meinen        |
 | **Genitiv**   | meines          | meines         | meiner         | meiner        |
 
-### 2.2 du：
+### 3.2 du：
 
 |              | Maskulin | Neutral | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
@@ -46,7 +76,7 @@ categories: Deutsch
 | **Dativ**     | deinem          | deinem         | deiner         | deinen        |
 | **Genitiv**   | deines          | deines         | deiner         | deiner        |
 
-### 2.3 er/ es：
+### 3.3 er/ es：
 
 |              | Maskulin | Neutral | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
@@ -55,7 +85,7 @@ categories: Deutsch
 | **Dativ**     | seinem          | seinem         | seiner         | seinen        |
 | **Genitiv**   | seines          | seines         | seiner         | seiner        |
 
-### 2.4 sie (she) / sie (they)：
+### 3.4 sie (she) / sie (they)：
 
 |              | Maskulin | Neutral | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
@@ -66,7 +96,7 @@ categories: Deutsch
 
 **註**：此處 *ihr*（小寫）用於「她」（單數陰性）或「他們/她們」（複數）的所有格，如 *ihr Buch*（她的書）或 *ihr Auto*（他們的車）。
 
-### 2.5 Sie (formell)：
+### 3.5 Sie (formell)：
 
 |              | Maskulin | Neutral | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
@@ -77,7 +107,7 @@ categories: Deutsch
 
 **註**：大寫 *Ihr* 用於禮貌「您/您們」的所有格，如 *Ihr Name*（您的名字）。
 
-### 2.6 wir：
+### 3.6 wir：
 
 |              | Maskulin | Neutral | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
@@ -86,7 +116,7 @@ categories: Deutsch
 | **Dativ**     | unserem         | unserem        | unserer        | unseren       |
 | **Genitiv**   | unseres         | unseres        | unserer        | unserer       |
 
-### 2.7 ihr：
+### 3.7 ihr：
 
 |              | Maskulin | Neutral | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
@@ -95,19 +125,19 @@ categories: Deutsch
 | **Dativ**     | eurem           | eurem          | eurer          | euren         |
 | **Genitiv**   | eures           | eures          | eurer          | eurer         |
 
-### 2.8 補充 :
+### 3.8 補充 :
 - Possessivartikel：保留 Genitiv（閱讀用）
 
 ---
 
-## 3. Possessivpronomen
+## 4. Possessivpronomen
 
 **所有格代名詞（Possessivpronomen）用來取代名詞本身**，  
 後面**不再接名詞**，其變化形式與定冠詞 *der / die / das* 類似。
 
 
 
-### 3.1 ich：
+### 4.1 ich：
 
 |              | Maskulin | Neutral | Feminin | Plural |
 |--------------|----------|---------|---------|--------|
@@ -116,7 +146,7 @@ categories: Deutsch
 | **Dativ**     | meinem   | meinem  | meiner  | meinen |
 
 
-### 3.2 du：
+### 4.2 du：
 
 |              | Maskulin | Neutral | Feminin | Plural |
 |--------------|----------|---------|---------|--------|
@@ -125,7 +155,7 @@ categories: Deutsch
 | **Dativ**     | deinem   | deinem  | deiner  | deinen |
 
 
-### 3.3 er / es：
+### 4.3 er / es：
 
 |              | Maskulin | Neutral | Feminin | Plural |
 |--------------|----------|---------|---------|--------|
@@ -134,7 +164,7 @@ categories: Deutsch
 | **Dativ**     | seinem   | seinem  | seiner  | seinen |
 
 
-### 3.4 sie (she) / sie (they)：
+### 4.4 sie (she) / sie (they)：
 
 |              | Maskulin | Neutral | Feminin | Plural |
 |--------------|----------|---------|---------|--------|
@@ -146,7 +176,7 @@ categories: Deutsch
 例：*Das Buch ist ihres.*
 
 
-### 3.5 Sie (formell)：
+### 4.5 Sie (formell)：
 
 ⚠️ **禮貌形一律大寫**
 
@@ -156,7 +186,7 @@ categories: Deutsch
 | **Akkusativ** | Ihren    | Ihres   | Ihre    | Ihre   |
 | **Dativ**     | Ihrem    | Ihrem   | Ihrer   | Ihren  |
 
-### 3.6 wir：
+### 4.6 wir：
 
 |              | Maskulin | Neutral | Feminin | Plural |
 |--------------|----------|---------|---------|--------|
@@ -164,7 +194,7 @@ categories: Deutsch
 | **Akkusativ** | unseren  | unseres | unsere  | unsere |
 | **Dativ**     | unserem  | unserem | unserer | unseren |
 
-### 3.7 ihr：
+### 4.7 ihr：
 
 |              | Maskulin | Neutral | Feminin | Plural |
 |--------------|----------|---------|---------|--------|
@@ -173,7 +203,7 @@ categories: Deutsch
 | **Dativ**     | eurem    | eurem   | eurer   | euren  |
 
 
-### 3.8 補充 :
+### 4.8 補充 :
 - Possessivpronomen：不用 Genitiv
 
 ---
@@ -184,9 +214,9 @@ categories: Deutsch
 - **Possessivpronomen**：後面不接名詞 → *meins*
 
 
-## 4. Artikel
+## 5. Artikel
 
-### 4.1 Definiter Artikel
+### 5.1 Definiter Artikel
 
 |              | Maskulin | Neutral | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
@@ -195,7 +225,7 @@ categories: Deutsch
 | **Dativ**     | dem             | dem            | der            | den           |
 | **Genitiv**   | des             | des            | der            | der           |
 
-### 4.2 Indefiniter Artikel
+### 5.2 Indefiniter Artikel
 
 |              | Maskulin | Neutral | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
@@ -204,7 +234,7 @@ categories: Deutsch
 | **Dativ**     | einem           | einem          | einer          | -             |
 | **Genitiv**   | eines           | eines          | einer          | -             |
 
-### 4.3 Negativer Artikel
+### 5.3 Negativer Artikel
 
 |              | Maskulin | Neutral | Feminin | Plural |
 |--------------|-----------------|----------------|----------------|---------------|
@@ -213,7 +243,7 @@ categories: Deutsch
 | **Dativ**     | keinem          | keinem         | keiner         | keinen        |
 | **Genitiv**   | keines          | keines         | keiner         | keiner        |
 
-### 4.4 Negativer Artikel
+### 5.4 Negativer Artikel
 
 | 類型                  | Genitiv 要求 |
 | ------------------- | ---------- |
@@ -222,9 +252,9 @@ categories: Deutsch
 | Negativer Artikel   | 🔶 認得即可    |
 
 
-## 5. 使用範例
+## 6. 使用範例
 
-### 5.1 人稱代詞
+### 6.1 人稱代詞
 - **Ich**：*Ich bin hier.*（我在這裡，主格）
 - **Du**：*Gib mir das Buch.*（給我那本書，與格）
 - **Er**：*Er sieht mich.*（他看到我，受格）
@@ -232,19 +262,19 @@ categories: Deutsch
 - **Sie (他們/她們)**：*Sie spielen Fußball.*（他們/她們踢足球，主格）；*Ich sehe sie.*（我看到他們/她們，受格）；*Ich helfe ihnen.*（我幫助他們/她們，與格）
 - **Sie (您/您們)**：*Sie sind nett.*（您很友善，主格）；*Ich danke Ihnen.*（我感謝您，與格）
 
-### 5.2 所有格代詞
+### 6.2 所有格代詞
 - **mein**：*Mein Bruder*（我的哥哥，陽性主格）
 - **dein**：*Deinen Hund*（你的狗，陽性受格）
 - **ihr (她/他們/她們)**：*Ihr Buch*（她的書，陰性主格）；*Ihr Garten*（他們的花園，陽性主格）
 - **Ihr (您/您們)**：*Ihr Auto*（您的車，陽性主格）；*Ist das Ihre Tasche?*（這是您的包嗎？陰性主格）
 - **unser**：*Unsere Freunde*（我們的朋友，複數主格）
 
-### 5.3 冠詞
+### 6.3 冠詞
 - **定冠詞**：*Der Mann liest.*（那個男人讀書，陽性主格）
 - **不定冠詞**：*Eine Frau.*（一個女人，陰性主格）
 - **否定冠詞**：*Ich bin kein Mann.*（我不是男人，陽性主格）；*Das ist keine Katze.*（這不是貓，陰性主格）；*Ich helfe keinem Freund.*（我沒幫任何朋友，陽性與格）
 
-## 6. 注意事項
+## 7. 注意事項
 - **Sie/sie 大小寫區別**：
   - **Sie (大寫)**：
     - 禮貌「您/您們」，用於正式場合，所有格為 *Ihr*（大寫），如 *Ihr Name*（您的名字）。
