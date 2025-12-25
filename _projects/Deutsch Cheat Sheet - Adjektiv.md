@@ -32,7 +32,7 @@ categories: Deutsch
 
 ## 2) 不定/所有格後：混合變化 (ein / mein / dein / kein)
 > 規則：**只有冠詞未標示性別時，形容詞用強尾；其餘用 -en**  
-> 注意：**複數沒有 ein → 直接用強變化**
+> 注意：**複數沒有 ein → 直接用強變化**  
 
 ### 單數
 | Kasus | Maskulin | Neutrum | Feminin |
