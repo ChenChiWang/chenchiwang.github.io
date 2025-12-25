@@ -39,14 +39,6 @@ categories: Deutsch
 
 ---
 
-### 🔎 說明
-
-#### 1️⃣ 為什麼沒有 Nominativ？
-👉 **反身代名詞永遠不是主詞**  
-主詞仍然是：ich / du / er / sie / wir …
-
----
-
 #### 2️⃣ Akkusativ vs. Dativ 怎麼分？
 - **只有一個受詞 → Akkusativ**  
   - Ich freue **mich**.
