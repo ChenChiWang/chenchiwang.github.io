@@ -21,6 +21,7 @@ categories: Deutsch
 > 規則：**Nom. 單數，以及 Akk. 單數（除陽性）用 -e；其餘一律 -en**  
 > 規則：**看到 dem / des / den(複數) / der(Gen.) → 一定 -en**
 
+
 | Kasus | Maskulin | Neutrum | Feminin | Plural |
 |------|----------|---------|---------|--------|
 | **Nominativ** | der gut**e** Mann | das gut**e** Kind | die gut**e** Frau | die gut**en** Leute |
