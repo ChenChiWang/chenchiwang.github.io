@@ -36,6 +36,7 @@ categories: Deutsch
 > 注意：**複數沒有 ein → 直接用強變化**  
 
 ### 單數
+
 | Kasus | Maskulin | Neutrum | Feminin |
 |------|----------|---------|---------|
 | **Nominativ** | ein gut**er** Mann | ein gut**es** Kind | eine gut**e** Frau |
