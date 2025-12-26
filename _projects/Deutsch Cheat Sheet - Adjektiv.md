@@ -18,9 +18,9 @@ categories: Deutsch
 
 在寫題目或口說時，請按此順序思考：
 
-1.  **前面有「定冠詞」嗎？** (der, die, das...) $\rightarrow$ **弱變化**
-2.  **前面有「不定/所有格冠詞」嗎？** (ein, mein, kein...) $\rightarrow$ **混合變化**
-3.  **前面「什麼都沒有」嗎？** $\rightarrow$ **強變化** (形容詞需自己標示性別)
+1. **前面有「定冠詞」嗎？** (der, die, das...) → **弱變化**
+2. **前面有「不定/所有格冠詞」嗎？** (ein, mein, kein...) → **混合變化**
+3. **前面「什麼都沒有」嗎？** → **強變化** (形容詞需自己標示性別)
 
 ---
 
@@ -30,10 +30,10 @@ categories: Deutsch
 
 | 格 (Kasus) | 陽性 (M) | 中性 (N) | 陰性 (F) | 複數 (Pl.) |
 | :--- | :--- | :--- | :--- | :--- |
-| **Nominativ** | der gut**e** | das gut**e** | die gut**e** | die gut**en** |
-| **Akkusativ** | den gut**en** | das gut**e** | die gut**e** | die gut**en** |
-| **Dativ** | dem gut**en** | dem gut**en** | der gut**en** | den gut**en** |
-| **Genitiv** | des gut**en** | des gut**en** | der gut**en** | der gut**en** |
+| **Nominativ** | der gut<span style="color:#2ecc71">**e**</span> | das gut<span style="color:#2ecc71">**e**</span> | die gut<span style="color:#2ecc71">**e**</span> | die gut<span style="color:#3498db">**en**</span> |
+| **Akkusativ** | den gut<span style="color:#3498db">**en**</span> | das gut<span style="color:#2ecc71">**e**</span> | die gut<span style="color:#2ecc71">**e**</span> | die gut<span style="color:#3498db">**en**</span> |
+| **Dativ** | dem gut<span style="color:#3498db">**en**</span> | dem gut<span style="color:#3498db">**en**</span> | der gut<span style="color:#3498db">**en**</span> | den gut<span style="color:#3498db">**en**</span> |
+| **Genitiv** | des gut<span style="color:#3498db">**en**</span> | des gut<span style="color:#3498db">**en**</span> | der gut<span style="color:#3498db">**en**</span> | der gut<span style="color:#3498db">**en**</span> |
 
 ---
 
@@ -43,10 +43,10 @@ categories: Deutsch
 
 | 格 (Kasus) | 陽性 (M) | 中性 (N) | 陰性 (F) | 複數 (keine/meine) |
 | :--- | :--- | :--- | :--- | :--- |
-| **Nominativ** | ein gut**er** | ein gut**es** | eine gut**e** | meine gut**en** |
-| **Akkusativ** | einen gut**en** | ein gut**es** | eine gut**e** | meine gut**en** |
-| **Dativ** | einem gut**en** | einem gut**en** | einer gut**en** | meinen gut**en** |
-| **Genitiv** | eines gut**en** | eines gut**en** | einer gut**en** | meiner gut**en** |
+| **Nominativ** | ein gut<span style="color:#e67e22">**er**</span> | ein gut<span style="color:#e74c3c">**es**</span> | eine gut<span style="color:#2ecc71">**e**</span> | meine gut<span style="color:#3498db">**en**</span> |
+| **Akkusativ** | einen gut<span style="color:#3498db">**en**</span> | ein gut<span style="color:#e74c3c">**es**</span> | eine gut<span style="color:#2ecc71">**e**</span> | meine gut<span style="color:#3498db">**en**</span> |
+| **Dativ** | einem gut<span style="color:#3498db">**en**</span> | einem gut<span style="color:#3498db">**en**</span> | einer gut<span style="color:#3498db">**en**</span> | meinen gut<span style="color:#3498db">**en**</span> |
+| **Genitiv** | eines gut<span style="color:#3498db">**en**</span> | eines gut<span style="color:#3498db">**en**</span> | einer gut<span style="color:#3498db">**en**</span> | meiner gut<span style="color:#3498db">**en**</span> |
 
 ---
 
@@ -56,10 +56,10 @@ categories: Deutsch
 
 | 格 (Kasus) | 陽性 (M) | 中性 (N) | 陰性 (F) | 複數 (Pl.) |
 | :--- | :--- | :--- | :--- | :--- |
-| **Nominativ** | gut**er** | gut**es** | gut**e** | gut**e** |
-| **Akkusativ** | gut**en** | gut**es** | gut**e** | gut**e** |
-| **Dativ** | gut**em** | gut**em** | gut**er** | gut**en** |
-| **Genitiv** | gut**en** | gut**en** | gut**er** | gut**er** |
+| **Nominativ** | gut<span style="color:#e67e22">**er**</span> | gut<span style="color:#e74c3c">**es**</span> | gut<span style="color:#2ecc71">**e**</span> | gut<span style="color:#2ecc71">**e**</span> |
+| **Akkusativ** | gut<span style="color:#3498db">**en**</span> | gut<span style="color:#e74c3c">**es**</span> | gut<span style="color:#2ecc71">**e**</span> | gut<span style="color:#2ecc71">**e**</span> |
+| **Dativ** | gut<span style="color:#9b59b6">**em**</span> | gut<span style="color:#9b59b6">**em**</span> | gut<span style="color:#e67e22">**er**</span> | gut<span style="color:#3498db">**en**</span> |
+| **Genitiv** | gut<span style="color:#3498db">**en**</span> | gut<span style="color:#3498db">**en**</span> | gut<span style="color:#e67e22">**er**</span> | gut<span style="color:#e67e22">**er**</span> |
 
 ---
 
@@ -67,23 +67,23 @@ categories: Deutsch
 
 當形容詞遇到下列字尾，加字尾時會產生拼字變化：
 
-1.  **以 -el 結尾：** 必須去掉 `e`。
-    * *dunkel* $\rightarrow$ ein **dunkler** Wald
-2.  **以 -er 結尾：** 通常去掉 `e` (特別是前面是長母音時)。
-    * *teuer* $\rightarrow$ ein **teures** Auto
-3.  **單字 hoch：** 加尾巴時 `c` 會消失。
-    * *hoch* $\rightarrow$ das **hohe** Haus
-4.  **以 -a 結尾的顏色詞：** 不加任何字尾（不變化）。
-    * *rosa / lila* $\rightarrow$ ein **rosa** Hemd
+1. **以 -el 結尾：** 必須去掉 `e`。
+    * *dunkel* → ein **dunkler** Wald
+2. **以 -er 結尾：** 通常去掉 `e` (特別是前面是長母音時)。
+    * *teuer* → ein **teures** Auto
+3. **單字 hoch：** 加尾巴時 `c` 會消失。
+    * *hoch* → das **hohe** Haus
+4. **以 -a 結尾的顏色詞：** 不加任何字尾（不變化）。
+    * *rosa / lila* → ein **rosa** Hemd
 
 ---
 
 ## 🚀 考試秒殺清單 (Cheat Sheet)
 
-* **看到 Dativ？** 形容詞字尾幾乎都是 **-en** (除非是無冠詞強變化)。
-* **看到複數？** 只要前面有冠詞 (die/meine/keine)，字尾一定是 **-en**。
+* **看到 Dativ？** 形容詞字尾幾乎都是 <span style="color:#3498db">**-en**</span> (除非是無冠詞強變化)。
+* **看到複數？** 只要前面有冠詞 (die/meine/keine)，字尾一定是 <span style="color:#3498db">**-en**</span>。
 * **看到形容詞修飾複數名詞且前面沒冠詞？** 字尾根據 der/die/das 變化 (Nom: -e, Akk: -e, Dat: -en, Gen: -er)。
-* **看到 Genitiv？** 字尾 90% 都是 **-en**。
+* **看到 Genitiv？** 字尾 90% 都是 <span style="color:#3498db">**-en**</span>。
 
 ---
 *Last updated: 2025*

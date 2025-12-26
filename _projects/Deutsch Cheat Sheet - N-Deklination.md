@@ -52,6 +52,7 @@ categories: Deutsch
 ## 3. 分級必背單字清單
 
 ### A1-A2 基礎
+
 | 原形 (Nom.) | 變化形 (Akk/Dat/Gen) | 中文 |
 | :--- | :--- | :--- |
 | **der Herr** | den **Herr<span style="color:#3498db">n</span>** | 先生 (正式書信常用) |
@@ -61,6 +62,7 @@ categories: Deutsch
 | **der Nachbar** | den Nachba<span style="color:#3498db">**rn**</span> | 鄰居 |
 
 ### B1 進階
+
 | 原形 (Nom.) | 變化形 (Akk/Dat/Gen) | 中文 |
 | :--- | :--- | :--- |
 | **der Bär** | den Bäre<span style="color:#3498db">**n**</span> | 熊 |
