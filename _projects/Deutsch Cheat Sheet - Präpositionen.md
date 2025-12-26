@@ -79,19 +79,20 @@ categories: Deutsch
 ---
 
 ## 5. 常見縮寫 (Verschmelzungen)
-> 寫作時請務必使用縮寫。
+> 寫作時請務必使用縮寫，這會讓你的德文更道地。
 
-* **Dativ 版:**
-    * `in + dem` = **i<span style="color:#9b59b6">m**</span>
-    * `an + dem` = **a<span style="color:#9b59b6">m**</span>
-    * `bei + dem` = **bei<span style="color:#9b59b6">m**</span>
-    * `von + dem` = **vo<span style="color:#9b59b6">m**</span>
-    * `zu + dem` = **zu<span style="color:#9b59b6">m**</span>
-    * `zu + der` = **zu<span style="color:#e67e22">r**</span>
-* **Akkusativ 版:**
-    * `in + das` = **i<span style="color:#e74c3c">ns**</span>
-    * `an + das` = **a<span style="color:#e74c3c">ns**</span>
+### Dativ 版 (紫色 -m / 橘色 -r)
+* `in + dem` = **i<span style="color:#9b59b6">m</span>**
+* `an + dem` = **a<span style="color:#9b59b6">m</span>**
+* `bei + dem` = **bei<span style="color:#9b59b6">m</span>**
+* `von + dem` = **vo<span style="color:#9b59b6">m</span>**
+* `zu + dem` = **zu<span style="color:#9b59b6">m</span>**
+* `zu + der` = **zu<span style="color:#e67e22">r</span>**
 
+### Akkusativ 版 (紅色 -ns)
+* `in + das` = **i<span style="color:#e74c3c">ns</span>**
+* `an + das` = **a<span style="color:#e74c3c">ns</span>**
+* `auf + das` = **auf<span style="color:#e74c3c">s</span>** (口語常用)
 ---
 
 ## 🎯 歌德考場必殺技
