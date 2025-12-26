@@ -1,69 +1,80 @@
-/* 1. 強制所有核心容器變黑 */
-/* Beautiful Jekyll 使用了多層 div，我們必須全部點名並加上 !important */
-html, 
-body, 
-.main-content, 
-.container, 
-.wrapper, 
-#main, 
-article, 
-section,
-.posts {
-    background-color: #121212 !important;
-    color: #e0e0e0 !important;
-    font-family: "Roboto", "Noto Sans TC", sans-serif !important;
+/* ==========================================================================
+   現代極簡風 - 德文筆記專用 CSS (白色版)
+   ========================================================================== */
+
+/* 1. 字體與基礎設定 */
+:root {
+    --text-color: #2c3e50;
+    --primary-blue: #3498db;
+    --bg-white: #ffffff;
+    --table-header-bg: #f8f9fa;
+    --border-color: #edf2f7;
 }
 
-/* 2. 導覽列與頁尾 (Navbar & Footer) */
-.navbar, 
-.navbar-default, 
-.navbar-custom, 
-footer {
-    background-color: #1a1a1a !important;
-    border-color: #333 !important;
-    background-image: none !important; /* 防止主題使用漸層圖 */
+body {
+    background-color: var(--bg-white) !important;
+    color: var(--text-color) !important;
+    font-family: "Roboto", "Noto Sans TC", -apple-system, sans-serif !important;
+    line-height: 1.8; /* 增加行距，德文才好讀 */
+    letter-spacing: 0.02em;
 }
 
-/* 3. 標題區塊 (Header) */
-.intro-header {
-    /* 加入深色濾鏡，並確保背景圖片與黑色融合 */
-    background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), 
-                url('https://images.unsplash.com/photo-1467226319447-65b413756357?auto=format&fit=crop&q=80&w=1000') no-repeat center center !important;
-    background-size: cover !important;
-    background-attachment: fixed !important;
+/* 2. 標題與段落美化 */
+h1, h2, h3 {
+    color: #1a202c !important;
+    font-weight: 700 !important;
+    margin-top: 2em !important;
+    margin-bottom: 1em !important;
 }
 
-/* 4. 德文語法表格 (Dark Mode 優化) */
+/* 3. 德文筆記表格 (極簡質感) */
 table {
-    width: 100% !important;
-    background-color: #1e1e1e !important;
-    border: 1px solid #444 !important;
-    margin: 20px 0 !important;
-    border-radius: 8px !important;
+    width: 100%;
+    border-collapse: separate; /* 使用分開邊框以便設定圓角 */
+    border-spacing: 0;
+    margin: 30px 0;
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05); /* 加入微弱陰影 */
 }
 
 table th {
-    background-color: #2c3e50 !important;
-    color: #3498db !important;
-    padding: 12px !important;
+    background-color: var(--table-header-bg);
+    color: #4a5568;
+    font-weight: 600;
+    padding: 16px;
+    text-align: left;
+    border-bottom: 2px solid var(--border-color);
 }
 
 table td {
-    border-bottom: 1px solid #333 !important;
-    padding: 10px !important;
-    color: #d1d1d1 !important;
+    padding: 14px 16px;
+    border-bottom: 1px solid var(--border-color);
+    color: #4a5568;
+    background-color: #fff;
 }
 
-/* 5. 德文詞尾顏色調亮 (例如 mein-en) */
+/* 隔行變色：讓數據對齊更輕鬆 */
+table tr:nth-child(even) td {
+    background-color: #fafcfe;
+}
+
+/* 4. 德文語法強調標記 */
+/* Akkusativ/受格藍色標註 */
 span[style*="color:blue"], 
 span[style*="color:#3498db"] {
-    color: #5dade2 !important; /* 調亮藍色 */
-    font-weight: bold !important;
+    color: var(--primary-blue) !important;
+    background-color: rgba(52, 152, 219, 0.1); /* 加入淡藍色底色 */
+    padding: 1px 4px;
+    border-radius: 4px;
+    font-weight: 600;
 }
 
-/* 6. 分頁按鈕優化 */
-.pagination .page-link {
-    background-color: #222 !important;
-    border: 1px solid #444 !important;
-    color: #3498db !important;
+/* 5. 手機版優化 */
+@media (max-width: 768px) {
+    table {
+        display: block;
+        overflow-x: auto;
+    }
 }
