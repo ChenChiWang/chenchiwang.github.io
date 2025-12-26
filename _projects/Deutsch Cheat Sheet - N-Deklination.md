@@ -85,7 +85,7 @@ categories: Deutsch
 這是德文裡極少數非陽性卻參與 N-Deklination 的字：
 * **Nominativ/Akkusativ**: das Herz (不變)
 * **Dativ**: dem **Herze<span style="color:#3498db">n</span>**
-* **Genitiv**: des **Herze<span style="color:#e74c3c">ns**</span>
+* **Genitiv**: des **Herze<span style="color:#e74c3c">ns</span>**
 
 ---
 
