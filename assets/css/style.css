@@ -1,80 +1,80 @@
 /* ==========================================================================
-   現代極簡風 - 德文筆記專用 CSS (白色版)
+   首頁佈局優化 (解決空曠感)
    ========================================================================== */
 
-/* 1. 字體與基礎設定 */
-:root {
-    --text-color: #2c3e50;
-    --primary-blue: #3498db;
-    --bg-white: #ffffff;
-    --table-header-bg: #f8f9fa;
-    --border-color: #edf2f7;
+/* 1. 首頁主標題區塊優化 */
+.intro-header.big-img, .intro-header.no-img {
+    margin-bottom: 20px !important;
+    padding: 60px 0 !important; /* 縮小過大的上下間距 */
 }
 
-body {
-    background-color: var(--bg-white) !important;
-    color: var(--text-color) !important;
-    font-family: "Roboto", "Noto Sans TC", -apple-system, sans-serif !important;
-    line-height: 1.8; /* 增加行距，德文才好讀 */
-    letter-spacing: 0.02em;
+#main h1 {
+    font-size: 3.5rem !important;
+    margin-bottom: 10px !important;
 }
 
-/* 2. 標題與段落美化 */
-h1, h2, h3 {
-    color: #1a202c !important;
-    font-weight: 700 !important;
-    margin-top: 2em !important;
-    margin-bottom: 1em !important;
+/* 2. "Step by Step" 清單改造：變成導航標籤 */
+/* 這裡假設你的 Step by Step 是用 <ul> 寫的 */
+h2:contains("Step by Step") + ul,
+.posts-list + h2 + ul { /* 針對標題後的清單 */
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0 !important;
+    list-style: none !important;
+    gap: 12px;
+    margin: 20px 0 40px 0;
 }
 
-/* 3. 德文筆記表格 (極簡質感) */
-table {
-    width: 100%;
-    border-collapse: separate; /* 使用分開邊框以便設定圓角 */
-    border-spacing: 0;
-    margin: 30px 0;
-    border: 1px solid var(--border-color);
-    border-radius: 10px;
-    overflow: hidden;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05); /* 加入微弱陰影 */
+h2:contains("Step by Step") + ul li,
+ul li:has(a[href*="About"]), 
+ul li:has(a[href*="Relocation"]) { /* 關鍵：將清單項變成卡片 */
+    background: #f8f9fa;
+    border: 1px solid #e2e8f0;
+    padding: 10px 20px;
+    border-radius: 50px; /* 膠囊形狀 */
+    transition: all 0.3s ease;
 }
 
-table th {
-    background-color: var(--table-header-bg);
-    color: #4a5568;
+h2:contains("Step by Step") + ul li a {
+    color: #4a5568 !important;
     font-weight: 600;
-    padding: 16px;
-    text-align: left;
-    border-bottom: 2px solid var(--border-color);
+    text-decoration: none !important;
 }
 
-table td {
-    padding: 14px 16px;
-    border-bottom: 1px solid var(--border-color);
-    color: #4a5568;
-    background-color: #fff;
+h2:contains("Step by Step") + ul li:hover {
+    background: #edf2f7;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
 }
 
-/* 隔行變色：讓數據對齊更輕鬆 */
-table tr:nth-child(even) td {
-    background-color: #fafcfe;
+/* 3. "Latest Posts" 文章列表卡片化 */
+.posts-list .post-preview {
+    background: #ffffff;
+    border: 1px solid #f0f0f0;
+    padding: 25px;
+    margin-bottom: 25px !important;
+    border-radius: 12px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.02);
 }
 
-/* 4. 德文語法強調標記 */
-/* Akkusativ/受格藍色標註 */
-span[style*="color:blue"], 
-span[style*="color:#3498db"] {
-    color: var(--primary-blue) !important;
-    background-color: rgba(52, 152, 219, 0.1); /* 加入淡藍色底色 */
-    padding: 1px 4px;
-    border-radius: 4px;
-    font-weight: 600;
+.posts-list .post-preview:hover {
+    transform: scale(1.01);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.05);
 }
 
-/* 5. 手機版優化 */
-@media (max-width: 768px) {
-    table {
-        display: block;
-        overflow-x: auto;
-    }
+.posts-list .post-title {
+    margin-top: 0 !important;
+    font-size: 1.5rem !important;
+    color: #2d3748 !important;
+}
+
+.posts-list .post-meta {
+    font-size: 0.9rem;
+    color: #a0aec0;
+}
+
+.posts-list .post-entry {
+    margin: 15px 0;
+    color: #718096;
 }
