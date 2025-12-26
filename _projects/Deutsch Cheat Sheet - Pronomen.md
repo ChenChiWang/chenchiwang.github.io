@@ -14,7 +14,7 @@ categories: Deutsch
 
 ---
 
-## 1. 人稱代名詞 (Personalpronomen)
+## 1. Personalpronomen (人稱代名詞)
 
 | 格位 | ich | du | er | sie | es | wir | ihr | sie | Sie |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -22,19 +22,33 @@ categories: Deutsch
 | **Akkusativ** | mich | dich | ih<span style="color:#3498db">**n**</span> | sie | es | uns | euch | sie | Sie |
 | **Dativ** | mir | dir | ih<span style="color:#9b59b6">**m**</span> | ih<span style="color:#e67e22">**r**</span> | ih<span style="color:#9b59b6">**m**</span> | uns | euch | ihne<span style="color:#3498db">**n**</span> | Ihne<span style="color:#3498db">**n**</span> |
 
+**註**：
+- **Sie (大寫)**：用於禮貌稱呼「您/您們」（單數或複數），動詞使用第三人稱複數變位，如 *Sie sind*（您是）。
+- **Sie (大寫)**：也用於第三人稱複數「他們/她們」（主格）。
+- **sie (小寫)**：用於第三人稱單數陰性「她」（主格/受格）或複數「他們/她們」（受格）。
+- **ihnen / Ihnen**：小寫 *ihnen* 用於「他們/她們」（複數與格）；大寫 *Ihnen* 用於「您/您們」（禮貌與格）。
+
 ---
 
-## 2. 反身代名詞 (Reflexivpronomen)
+## 2. Reflexivpronomen (反身代名詞)
+
+> ⚠️ **重點先記一句：**
+> - **一、二人稱** → 跟 Akkusativ / Dativ 的人稱代名詞一樣
+> - **三人稱** → 全部用「**sich**」
 
 | 格位 | ich | du | er | sie | es | wir | ihr | sie | Sie |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Akkusativ** | mich | dich | sich | sich | sich | uns | euch | sich | sich |
 | **Dativ** | mir | dir | sich | sich | sich | uns | euch | sich | sich |
 
+#### 🔍 Akkusativ vs. Dativ 怎麼分？
+- **只有一個受詞** $\rightarrow$ **Akkusativ**: *Ich freue **mich**.*
+- **已經有一個 Akkusativ 受詞** $\rightarrow$ **反身代名詞變 Dativ**: *Ich wasche **mir** die Hände.* (Hände 已經是受格)
+
 ---
 
-## 3. 所有格冠詞 (Possessivartikel)
-*用法：後面接名詞。*
+## 3. Possessivartikel (所有格冠詞)
+*用法：後面必須接名詞。例如：mein Hund.*
 
 ### 3.1 ich (my)
 | 格位 | Maskulin | Neutral | Feminin | Plural |
@@ -94,8 +108,8 @@ categories: Deutsch
 
 ---
 
-## 4. 所有格代名詞 (Possessivpronomen)
-*用法：後面不接名詞。*
+## 4. Possessivpronomen (所有格代名詞)
+*用法：後面不接名詞。用來取代名詞本身。*
 
 ### 4.1 ich (mine)
 | 格位 | Maskulin | Neutral | Feminin | Plural |
@@ -148,9 +162,9 @@ categories: Deutsch
 
 ---
 
-## 5. 冠詞 (Artikel)
+## 5. Artikel (冠詞)
 
-### 5.1 定冠詞 (Definiter Artikel)
+### 5.1 Definiter Artikel (定冠詞)
 | 格位 | Maskulin | Neutral | Feminin | Plural |
 | :--- | :--- | :--- | :--- | :--- |
 | **Nominativ** | d<span style="color:#e67e22">**er**</span> | d<span style="color:#e74c3c">**as**</span> | d<span style="color:#2ecc71">**ie**</span> | d<span style="color:#2ecc71">**ie**</span> |
@@ -158,7 +172,7 @@ categories: Deutsch
 | **Dativ** | d<span style="color:#9b59b6">**em**</span> | d<span style="color:#9b59b6">**em**</span> | d<span style="color:#e67e22">**er**</span> | d<span style="color:#3498db">**en**</span> (+n) |
 | **Genitiv** | d<span style="color:#e74c3c">**es**</span> (+s) | d<span style="color:#e74c3c">**es**</span> (+s) | d<span style="color:#e67e22">**er**</span> | d<span style="color:#e67e22">**er**</span> |
 
-### 5.2 不定冠詞 (Indefiniter Artikel)
+### 5.2 Indefiniter Artikel (不定冠詞)
 | 格位 | Maskulin | Neutral | Feminin | Plural |
 | :--- | :--- | :--- | :--- | :--- |
 | **Nominativ** | ein | ein | ein<span style="color:#2ecc71">**e**</span> | --- |
@@ -166,7 +180,7 @@ categories: Deutsch
 | **Dativ** | ein<span style="color:#9b59b6">**em**</span> | ein<span style="color:#9b59b6">**em**</span> | ein<span style="color:#e67e22">**er**</span> | --- |
 | **Genitiv** | ein<span style="color:#e74c3c">**es**</span> | ein<span style="color:#e74c3c">**es**</span> | ein<span style="color:#e67e22">**er**</span> | --- |
 
-### 5.3 否定冠詞 (Negativer Artikel)
+### 5.3 Negativer Artikel (否定冠詞)
 | 格位 | Maskulin | Neutral | Feminin | Plural |
 | :--- | :--- | :--- | :--- | :--- |
 | **Nominativ** | kein | kein | kein<span style="color:#2ecc71">**e**</span> | kein<span style="color:#2ecc71">**e**</span> |
@@ -181,6 +195,10 @@ categories: Deutsch
 1.  **複數 Dativ 特徵**：無論是哪種冠詞，Dativ 複數的冠詞一定是 **den / meinen / keinen**，且名詞末尾通常要加 **-n**。
 2.  **Genitiv 注意事項**：在陽性 (Maskulin) 和中性 (Neutral) 的 Genitiv 中，冠詞詞尾一定是 **-es**，且名詞末尾必須加 **-s** 或 **-es**。
 3.  **euer vs eure**：注意 `euer` 在加上需要 `e` 結尾的格位時（如陰性或複數），中間的 `e` 會省略：*euer* $\rightarrow$ **eu<span style="color:#e74c3c">r</span><span style="color:#2ecc71">e</span>**。
+4.  **ihr 的多重身分**：
+    * `ihr` (人稱代名詞)：你們 (Nom.) / 她 (Dat.)。
+    * `ihr` (所有格)：她的 / 他們的。
+    * `Ihr` (大寫)：您的。
 
 ---
 *Last Updated: 2025*
