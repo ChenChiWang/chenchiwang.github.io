@@ -41,7 +41,7 @@ url: "https://chenchiwang.github.io" # 你的網站 URL
 google_fonts: "Noto+Sans+TC:400,700|Roboto:400,700"
 # 3. 強制連結自定義 CSS (如果 css: 沒反應，請用 link-tags)
 link-tags:
-  - href: "/assets/css/style.css"
+  - href: "assets/css/style.css"
     rel: "stylesheet"
 
 # theme: minima # 這是 Jekyll 的默認主題，你可以更換為其他主題
