@@ -8,7 +8,7 @@ categories: Deutsch
 <!-- 流量追蹤 -->
 <script src="{{ '/assets/js/momo-script.js' | relative_url }}"></script>
 
-# 🇩🇪 德文形容詞變化終極筆記 (Adjektivdeklination)
+# 德文形容詞變化終極筆記 (Adjektivdeklination)
 
 這份筆記專為 **A1-B1 檢定** 設計，涵蓋所有核心規則、特殊變體與快速判斷技巧。
 

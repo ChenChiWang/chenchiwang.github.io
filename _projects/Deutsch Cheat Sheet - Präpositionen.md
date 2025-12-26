@@ -8,7 +8,7 @@ categories: Deutsch
 <!-- 流量追蹤 -->
 <script src="{{ '/assets/js/momo-script.js' | relative_url }}"></script>
 
-# 🇩🇪 德文介係詞與格位 (Präpositionen) – 終極速查筆記
+# 德文介係詞與格位 (Präpositionen) – 終極速查筆記
 
 這份筆記專為 **歌德檢定 (A1-B1)** 設計，涵蓋了決定德文格位的「四大介係詞家族」。
 
@@ -16,16 +16,16 @@ categories: Deutsch
 
 ## 1. 永遠接 Akkusativ (受格)
 > **口訣：FUDOG** (取其首字母)
-> 只要看到這些詞，後面的冠詞/形容詞一律變為 **Akkusativ**。
+> 只要看到這些詞，後面的冠詞/形容詞一律變為 **<span style="color:#3498db">Akkusativ</span>**。
 
 | 介係詞 | 意義 | 例句 |
 | :--- | :--- | :--- |
-| **für** | 為了... | Das Geschenk ist **für dich**. |
-| **um** | 環繞 / 在...點鐘 | Wir treffen uns **um 8 Uhr**. / Wir gehen **um den See**. |
-| **durch** | 穿過 | Wir fahren **durch den Tunnel**. |
-| **ohne** | 沒有 | Ich trinke Kaffee **ohne Zucker**. |
-| **gegen** | 對抗 / 大約(時間) | Er spielt **gegen den Weltmeister**. / Ich komme **gegen 10 Uhr**. |
-| **bis** | 直到... | Der Zug fährt **bis Berlin**. |
+| **für** | 為了... | Das Geschenk ist für dich. |
+| **um** | 環繞 / 在...點鐘 | Wir treffen uns um 8 Uhr. / Wir gehen um de<span style="color:#3498db">**n**</span> See. |
+| **durch** | 穿過 | Wir fahren durch de<span style="color:#3498db">**n**</span> Tunnel. |
+| **ohne** | 沒有 | Ich trinke Kaffee ohne Zucker. |
+| **gegen** | 對抗 / 大約(時間) | Er spielt gegen de<span style="color:#3498db">**n**</span> Weltmeister. |
+| **bis** | 直到... | Der Zug fährt bis Berlin. |
 
 ---
 
@@ -34,72 +34,73 @@ categories: Deutsch
 
 | 介係詞 | 意義 | 例句 |
 | :--- | :--- | :--- |
-| **aus** | 來自 / 從...出來 | Er kommt **aus dem Haus**. |
-| **bei** | 在某人處 / 在某公司 | Ich bin **bei meinem Freund**. / Er arbeitet **bei Siemens**. |
-| **mit** | 伴隨 / 搭乘(交通工具) | Ich fahre **mit dem Zug**. |
-| **nach** | 在...之後 / 前往(地名/家) | **Nach dem Essen** schlafe ich. / Ich fliege **nach Berlin**. |
-| **seit** | 自從... (持續至今) | Ich lerne **seit einem Jahr** Deutsch. |
-| **von** | 從... / ...的(替代 Genitiv) | Das ist ein Buch **von meinem Vater**. |
-| **zu** | 前往(某人處/某點) | Ich gehe **zu dir**. / Ich fahre **zum Bahnhof**. |
-| **gegenüber** | 在...對面 | Die Post ist **dem Park gegenüber**. (常放在名詞後) |
+| **aus** | 來自 / 從...出來 | Er kommt aus de<span style="color:#9b59b6">**m**</span> Haus. |
+| **bei** | 在某人處 / 在某公司 | Ich bin bei meine<span style="color:#9b59b6">**m**</span> Freund. |
+| **mit** | 伴隨 / 搭乘 | Ich fahre mit de<span style="color:#9b59b6">**m**</span> Zug. |
+| **nach** | 之後 / 前往(地名) | Nach de<span style="color:#9b59b6">**m**</span> Essen schlafe ich. |
+| **seit** | 自從... | Ich lerne seit eine<span style="color:#9b59b6">**m**</span> Jahr Deutsch. |
+| **von** | 從... / ...的 | Das ist ein Buch von meine<span style="color:#9b59b6">**m**</span> Vater. |
+| **zu** | 前往(人/點) | Ich fahre zu<span style="color:#9b59b6">**m**</span> (zu dem) Bahnhof. |
+| **gegenüber** | 在...對面 | Die Post ist de<span style="color:#9b59b6">**m**</span> Park gegenüber. |
 
 ---
 
 ## 3. 動靜切換：雙位介係詞 (Wechselpräpositionen)
 > **歌德考試 B1 的大魔王！** 判斷準則如下：
-> - **動態 (Wohin?):** 有位移、目標方向 $\rightarrow$ **Akkusativ**
-> - **靜態 (Wo?):** 固定地點、無位移 $\rightarrow$ **Dativ**
+> - **動態 (Wohin?):** 有位移、目標方向 → **<span style="color:#3498db">Akkusativ</span>**
+> - **靜態 (Wo?):** 固定地點、無位移 → **<span style="color:#9b59b6">Dativ</span>**
 
-| 介係詞 | 意義 | 靜態 (Wo? + Dat.) | 動態 (Wohin? + Akk.) |
+| 介係詞 | 意義 | 靜態 (Wo? + <span style="color:#9b59b6">**Dat.**</span>) | 動態 (Wohin? + <span style="color:#3498db">**Akk.**</span>) |
 | :--- | :--- | :--- | :--- |
-| **in** | 在...裡面 | Ich bin **im (in dem) Kino**. | Ich gehe **ins (in das) Kino**. |
-| **an** | 在...邊緣 (垂直) | Das Bild hängt **an der Wand**. | Ich hänge das Bild **an die Wand**. |
-| **auf** | 在...上面 (水平) | Das Buch liegt **auf dem Tisch**. | Ich lege das Buch **auf den Tisch**. |
-| **hinter** | 在...後面 | Das Auto steht **hinter dem Haus**. | Ich fahre das Auto **hinter das Haus**. |
-| **neben** | 在...旁邊 | Er sitzt **neben mir**. | Er setzt sich **neben mich**. |
-| **unter** | 在...下面 | Der Hund schläft **unter dem Bett**. | Der Hund läuft **unter das Bett**. |
-| **über** | 在...上方 (不接觸) | Die Lampe hängt **über dem Tisch**. | Ich hänge die Lampe **über den Tisch**. |
-| **vor** | 在...前面 | Ich warte **vor der Schule**. | Ich gehe **vor die Schule**. |
-| **zwischen** | 在...之間 | Ich sitze **zwischen den Kindern**. | Ich setze mich **zwischen die Kinder**. |
+| **in** | 在...裡面 | Ich bin i<span style="color:#9b59b6">**m**</span> (in dem) Kino. | Ich gehe i<span style="color:#e74c3c">**ns**</span> (in das) Kino. |
+| **an** | 在...邊緣 | Das Bild hängt a<span style="color:#e67e22">**r**</span> der Wand. | Ich hänge es an die Wand. |
+| **auf** | 在...上面 | Das Buch liegt auf de<span style="color:#9b59b6">**m**</span> Tisch. | Ich lege es auf de<span style="color:#3498db">**n**</span> Tisch. |
+| **hinter** | 在...後面 | Auto steht hinter de<span style="color:#9b59b6">**m**</span> Haus. | Ich fahre hinter das Haus. |
+| **neben** | 在...旁邊 | Er sitzt neben mi<span style="color:#e67e22">**r**</span>. | Er setzt sich neben mich. |
+| **unter** | 在...下面 | Der Hund schläft unter de<span style="color:#9b59b6">**m**</span> Bett. | Der Hund läuft unter das Bett. |
+| **über** | 在...上方 | Die Lampe hängt über de<span style="color:#9b59b6">**m**</span> Tisch. | Ich hänge sie über de<span style="color:#3498db">**n**</span> Tisch. |
+| **vor** | 在...前面 | Ich warte vor der Schule. | Ich gehe vor die Schule. |
+| **zwischen** | 在...之間 | Ich sitze zwischen de<span style="color:#3498db">**n**</span> Kindern. | Ich gehe zwischen die Kinder. |
+
+
 
 ---
 
 ## 4. 屬格介係詞 (Genitiv - B1 程度)
-> 在 B1 閱讀與寫作中，使用這些詞能大幅提升你的專業感。
+> 使用這些詞能大幅提升專業感。
 
 | 介係詞 | 意義 | 例句 |
 | :--- | :--- | :--- |
-| **wegen** | 因為 | **Wegen des Regens** bleiben wir zu Hause. |
-| **während** | 在...期間 | **Während der Prüfung** darf man nicht sprechen. |
-| **trotz** | 儘管 | **Trotz der Kälte** trägt er nur ein T-Shirt. |
-| **statt** | 代替 | **Statt eines Autos** kauft er ein Fahrrad. |
+| **wegen** | 因為 | Wegen de<span style="color:#e74c3c">**s**</span> Regen<span style="color:#e74c3c">**s**</span> bleiben wir zu Hause. |
+| **während** | 在...期間 | Während der Prüfung darf man nicht sprechen. |
+| **trotz** | 儘管 | Trotz der Kälte trägt er nur ein T-Shirt. |
+| **statt** | 代替 | Statt eine<span style="color:#e74c3c">**s**</span> Auto<span style="color:#e74c3c">**s**</span> kauft er ein Rad. |
 
 ---
 
 ## 5. 常見縮寫 (Verschmelzungen)
-> 寫作時請務必使用縮寫，這會讓你的德文更道地。
+> 寫作時請務必使用縮寫。
 
 * **Dativ 版:**
-    * `in + dem` = **im**
-    * `an + dem` = **am**
-    * `bei + dem` = **beim**
-    * `von + dem` = **vom**
-    * `zu + dem` = **zum**
-    * `zu + der` = **zur**
+    * `in + dem` = **i<span style="color:#9b59b6">m**</span>
+    * `an + dem` = **a<span style="color:#9b59b6">m**</span>
+    * `bei + dem` = **bei<span style="color:#9b59b6">m**</span>
+    * `von + dem` = **vo<span style="color:#9b59b6">m**</span>
+    * `zu + dem` = **zu<span style="color:#9b59b6">m**</span>
+    * `zu + der` = **zu<span style="color:#e67e22">r**</span>
 * **Akkusativ 版:**
-    * `in + das` = **ins**
-    * `an + das` = **ans**
-    * `auf + das` = **aufs** (口語常用)
+    * `in + das` = **i<span style="color:#e74c3c">ns**</span>
+    * `an + das` = **a<span style="color:#e74c3c">ns**</span>
 
 ---
 
 ## 🎯 歌德考場必殺技
 
-1.  **聽到 mit, zu, nach：** 後面如果是陽性或中性，尾巴一定要聽到 `-m` (dem/einem)。如果是陰性，一定要聽到 `-r` (der/einer)。
-2.  **描述圖片 (口說第一部分)：** 當你描述圖片裡的東西時（例如「桌上有瓶水」），請永遠使用 **Dativ**（靜態）：*Auf dem Tisch steht eine Flasche.*
-3.  **寫信給 Herr Müller：**
-    * 如果是 `zu` (前往他那裡) $\rightarrow$ *Ich komme zu **Herrn** Müller.* (**Dativ + N-Deklination**)
-    * 如果是 `für` (給他) $\rightarrow$ *Das ist für **Herrn** Müller.* (**Akkusativ + N-Deklination**)
+1. **聽到 mit, zu, nach：** 後面如果是陽性/中性，字尾必聽 **-m**；陰性必聽 **-r**。
+2. **描述圖片：** 靜態放置一律用 **Dativ**：*Auf de<span style="color:#9b59b6">**m**</span> Tisch steht eine Flasche.*
+3. **寫信給 Herr Müller：**
+    * 如果是 `zu` (前往) → *Ich komme zu **Herr<span style="color:#3498db">n</span>** Müller.* (**Dat + N-Dekl**)
+    * 如果是 `für` (給他) → *Das ist für **Herr<span style="color:#3498db">n</span>** Müller.* (**Akk + N-Dekl**)
 
 ---
 *Last updated: 2025*

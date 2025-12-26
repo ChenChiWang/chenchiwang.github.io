@@ -42,8 +42,8 @@ categories: Deutsch
 | **Dativ** | mir | dir | sich | sich | sich | uns | euch | sich | sich |
 
 #### 🔍 Akkusativ vs. Dativ 怎麼分？
-- **只有一個受詞** $\rightarrow$ **Akkusativ**: *Ich freue **mich**.*
-- **已經有一個 Akkusativ 受詞** $\rightarrow$ **反身代名詞變 Dativ**: *Ich wasche **mir** die Hände.* (Hände 已經是受格)
+- **只有一個受詞** → **Akkusativ**: *Ich freue **mich**.*
+- **已經有一個 Akkusativ 受詞** → **反身代名詞變 Dativ**: *Ich wasche **mir** die Hände.* (Hände 已經是受格)
 
 ---
 
@@ -211,7 +211,7 @@ categories: Deutsch
 
 1.  **複數 Dativ 特徵**：無論是哪種冠詞，Dativ 複數的冠詞一定是 **den / meinen / keinen**，且名詞末尾通常要加 **-n**。
 2.  **Genitiv 注意事項**：在陽性 (Maskulin) 和中性 (Neutral) 的 Genitiv 中，冠詞詞尾一定是 **-es**，且名詞末尾必須加 **-s** 或 **-es**。
-3.  **euer vs eure**：注意 `euer` 在加上需要 `e` 結尾的格位時（如陰性或複數），中間的 `e` 會省略：*euer* $\rightarrow$ **eu<span style="color:#e74c3c">r</span><span style="color:#2ecc71">e</span>**。
+3.  **euer vs eure**：注意 `euer` 在加上需要 `e` 結尾的格位時（如陰性或複數），中間的 `e` 會省略：*euer* → **eu<span style="color:#e74c3c">r</span><span style="color:#2ecc71">e</span>**。
 4.  **ihr 的多重身分**：
     * `ihr` (人稱代名詞)：你們 (Nom.) / 她 (Dat.)。
     * `ihr` (所有格)：她的 / 他們的。
