@@ -8,74 +8,83 @@ categories: Deutsch
 <!-- 流量追蹤 -->
 <script src="{{ '/assets/js/momo-script.js' | relative_url }}"></script>
 
-# 🇩🇪 德文形容詞變化（Adjektivdeklination）Markdown 速查筆記
+# 🇩🇪 德文形容詞變化終極筆記 (Adjektivdeklination)
 
-## 看形容詞前面是什麼：
-- **der/die/das → 弱變化**
-- **ein/mein/dein/kein → 混合變化**
-- **沒有冠詞 → 強變化**
+這份筆記專為 **A1-B1 檢定** 設計，涵蓋所有核心規則、特殊變體與快速判斷技巧。
 
 ---
 
-## 1) 定冠詞後：弱變化 (der / die / das)
-> 規則：**冠詞已清楚標示性別與格 → -e；其餘 → -en**  
-> （實務：**dem / des / den(複數) / der(Gen.) → 一定是 -en**）
+## 💡 三步邏輯判斷流程
 
-| Kasus | Maskulin | Neutrum | Feminin | Plural |
-|------|----------|---------|---------|--------|
-| **Nominativ** | der gut**e** Mann | das gut**e** Kind | die gut**e** Frau | die gut**en** Leute |
-| **Akkusativ** | den gut**en** Mann | das gut**e** Kind | die gut**e** Frau | die gut**en** Leute |
-| **Dativ** | dem gut**en** Mann | dem gut**en** Kind | der gut**en** Frau | den gut**en** Leuten |
-| **Genitiv** | des gut**en** Mannes | des gut**en** Kindes | der gut**en** Frau | der gut**en** Leute |
+在寫題目或口說時，請按此順序思考：
+
+1.  **前面有「定冠詞」嗎？** (der, die, das...) $\rightarrow$ **弱變化**
+2.  **前面有「不定/所有格冠詞」嗎？** (ein, mein, kein...) $\rightarrow$ **混合變化**
+3.  **前面「什麼都沒有」嗎？** $\rightarrow$ **強變化** (形容詞需自己標示性別)
 
 ---
 
-## 2) 不定／所有格後：混合變化 (ein / mein / dein / kein)
-> 規則：**只有在冠詞未標示性別時，形容詞才用強尾；其餘一律 -en**  
-> 注意：**複數沒有 ein → 直接用強變化**
+## 1. 定冠詞後：弱變化 (Schwache Deklination)
+> **規則：** 冠詞已清楚標示格位。
+> **口訣：** 只有單數的 Nom. 與 Fem./Neut. 的 Akk. 接 **-e**，其餘一律 **-en**。
 
-### 單數
-
-| Kasus | Maskulin | Neutrum | Feminin |
-|------|----------|---------|---------|
-| **Nominativ** | ein gut**er** Mann | ein gut**es** Kind | eine gut**e** Frau |
-| **Akkusativ** | einen gut**en** Mann | ein gut**es** Kind | eine gut**e** Frau |
-| **Dativ** | einem gut**en** Mann | einem gut**en** Kind | einer gut**en** Frau |
-| **Genitiv** | eines gut**en** Mannes | eines gut**en** Kindes | einer gut**en** Frau |
-
-### 複數（無 ein）
-- meine gut**en** Freunde  
-- keine neu**en** Bücher  
+| 格 (Kasus) | 陽性 (M) | 中性 (N) | 陰性 (F) | 複數 (Pl.) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Nominativ** | der gut**e** | das gut**e** | die gut**e** | die gut**en** |
+| **Akkusativ** | den gut**en** | das gut**e** | die gut**e** | die gut**en** |
+| **Dativ** | dem gut**en** | dem gut**en** | der gut**en** | den gut**en** |
+| **Genitiv** | des gut**en** | des gut**en** | der gut**en** | der gut**en** |
 
 ---
 
-## 3) 沒有冠詞：強變化
-> 規則：**形容詞自行標示格與性別（強變化）**  
-> ※ **Genitiv：Mask./Neut. → -en；Fem./Plural → -er**
+## 2. 不定 / 所有格後：混合變化 (Gemischte Deklination)
+> **關鍵字：** ein, kein, mein, dein, sein, ihr, unser, euer.
+> **規則：** 當冠詞看不出性別時（如 ein），形容詞要「補回」強變化尾巴。
 
-| Kasus | Maskulin | Neutrum | Feminin | Plural |
-|------|----------|---------|---------|--------|
-| **Nominativ** | gut**er** Mann | gut**es** Kind | gut**e** Frau | gut**e** Leute |
-| **Akkusativ** | gut**en** Mann | gut**es** Kind | gut**e** Frau | gut**e** Leute |
-| **Dativ** | gut**em** Mann | gut**em** Kind | gut**er** Frau | gut**en** Leuten |
-| **Genitiv** | gut**en** Mannes | gut**en** Kindes | gut**er** Frau | gut**er** Leute |
-
----
-
-## 一眼比較（超快判斷）
-
-| 前面是什麼 | 變化 | 正確理解 |
-|---|---|---|
-| der / die / das | 弱變化 | 冠詞給資訊，形容詞少變 |
-| ein / mein / kein | 混合 | 冠詞不完整時才補 |
-| （無冠詞） | 強變化 | 形容詞自己標示格與性別 |
+| 格 (Kasus) | 陽性 (M) | 中性 (N) | 陰性 (F) | 複數 (keine/meine) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Nominativ** | ein gut**er** | ein gut**es** | eine gut**e** | meine gut**en** |
+| **Akkusativ** | einen gut**en** | ein gut**es** | eine gut**e** | meine gut**en** |
+| **Dativ** | einem gut**en** | einem gut**en** | einer gut**en** | meinen gut**en** |
+| **Genitiv** | eines gut**en** | eines gut**en** | einer gut**en** | meiner gut**en** |
 
 ---
 
-## 常見例句
-- der groß**e** Tisch  
-- ein groß**er** Tisch  
-- groß**er** Tisch  
-- mit dem klein**en** Kind（Dativ → -en）  
-- frisch**e** Brötchen（Plural 無冠詞 → 強變化）
+## 3. 無冠詞：強變化 (Starke Deklination)
+> **規則：** 形容詞「完全取代」冠詞的功能，尾巴變化與 der/die/das 幾乎相同。
+> **🚨 唯一例外：** 陽性與中性的 **Genitiv** 因為名詞已有 -s，形容詞用 **-en**。
+
+| 格 (Kasus) | 陽性 (M) | 中性 (N) | 陰性 (F) | 複數 (Pl.) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Nominativ** | gut**er** | gut**es** | gut**e** | gut**e** |
+| **Akkusativ** | gut**en** | gut**es** | gut**e** | gut**e** |
+| **Dativ** | gut**em** | gut**em** | gut**er** | gut**en** |
+| **Genitiv** | gut**en** | gut**en** | gut**er** | gut**er** |
+
+---
+
+## ⚠️ 備考必背：特殊形容詞變體 (B1 高頻考點)
+
+當形容詞遇到下列字尾，加字尾時會產生拼字變化：
+
+1.  **以 -el 結尾：** 必須去掉 `e`。
+    * *dunkel* $\rightarrow$ ein **dunkler** Wald
+2.  **以 -er 結尾：** 通常去掉 `e` (特別是前面是長母音時)。
+    * *teuer* $\rightarrow$ ein **teures** Auto
+3.  **單字 hoch：** 加尾巴時 `c` 會消失。
+    * *hoch* $\rightarrow$ das **hohe** Haus
+4.  **以 -a 結尾的顏色詞：** 不加任何字尾（不變化）。
+    * *rosa / lila* $\rightarrow$ ein **rosa** Hemd
+
+---
+
+## 🚀 考試秒殺清單 (Cheat Sheet)
+
+* **看到 Dativ？** 形容詞字尾幾乎都是 **-en** (除非是無冠詞強變化)。
+* **看到複數？** 只要前面有冠詞 (die/meine/keine)，字尾一定是 **-en**。
+* **看到形容詞修飾複數名詞且前面沒冠詞？** 字尾根據 der/die/das 變化 (Nom: -e, Akk: -e, Dat: -en, Gen: -er)。
+* **看到 Genitiv？** 字尾 90% 都是 **-en**。
+
+---
+*Last updated: 2025*
 

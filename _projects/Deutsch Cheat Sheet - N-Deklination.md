@@ -10,152 +10,99 @@ categories: Deutsch
 
 
 
-# 🇩🇪 German N-Deklination – Cheat Sheet (A1–B1)
+# 🇩🇪 德文 N-Deklination 終極速查筆記 (A1-B1)
 
-## 一句話重點
-**N-Deklination = 單數中，除了主格（Nominativ），其他格的「名詞本身」一律加 -n / -en。**
-
-👉 重點不在冠詞，而在 **名詞形式**
+## 💡 一句話重點
+**N-Deklination (弱變化名詞)** 指的是一小部分陽性名詞，在**單數**情況下，除了主格 (Nominativ) 以外，其餘格位（Akk, Dat, Gen）名詞尾巴都要加 **-n** 或 **-en**。
 
 ---
 
-## 1️⃣ 什麼是 N-Deklination？
-N-Deklination 是德文名詞的一種變化規則，  
-主要出現在 **陽性名詞（der）**，少數 **中性名詞（das）** 也屬於此類。
+## 1. 基本變化規律 (以 der Student 為例)
 
-**特徵：名詞本身會變，不只冠詞變。**
+| 格位 (Kasus) | 冠詞 | 名詞變化 | 說明 |
+| :--- | :--- | :--- | :--- |
+| **Nominativ** | der | Student | 原形 |
+| **Akkusativ** | den | Student**en** | 受格加 -en |
+| **Dativ** | dem | Student**en** | 與格加 -en |
+| **Genitiv** | des | Student**en** | 屬格加 -en |
 
----
-
-## 2️⃣ 標準變化規則（單數）
-
-| Kasus | 冠詞（陽性） | 名詞變化 |
-|------|-------------|----------|
-| Nominativ | der | 原形 |
-| Akkusativ | den | + **-n / -en** |
-| Dativ | dem | + **-n / -en** |
-| Genitiv | des | + **-n / -en** |
-
-👉 **所有非主格共用同一個名詞形式**
+> **⚠️ 注意：** 複數形式與此規則無關，請遵守一般複數規則（雖然很多 N-Deklination 的複數剛好也是 -en）。
 
 ---
 
-## 3️⃣ 標準完整範例
+## 2. 判斷規律：哪些字是 N-Deklination？
 
-### der Student
+符合以下特徵的字，高機率屬於此類：
 
-| Kasus | 冠詞 | 名詞 |
-|------|------|------|
-| Nominativ | der | Student |
-| Akkusativ | den | Studenten |
-| Dativ | dem | Studenten |
-| Genitiv | des | Studenten |
+### A. 字尾為 -e 的陽性名詞 (通常指人或動物)
+* `der Kunde` (客戶) $\rightarrow$ den Kunden
+* `der Kollege` (同事) $\rightarrow$ den Kollegen
+* `der Junge` (男孩) $\rightarrow$ den Jungen
+* `der Hase` (兔子) $\rightarrow$ den Hasen
+* `der Experte` (專家) $\rightarrow$ den Experten
 
----
-
-## 4️⃣ A1 必考 N-Deklination（核心清單）
-
-| 原形 (Nominativ) | Kasus + 冠詞 | 名詞形式 |
-|-----------------|-------------|----------|
-| der Student | den / dem / des | Studenten |
-| der Mensch | den / dem / des | Menschen |
-| der Kunde | den / dem / des | Kunden |
-| der Kollege | den / dem / des | Kollegen |
-| der Junge | den / dem / des | Jungen |
-| der Name | den / dem / des | Namen ⚠️ |
-
-⚠️ **Name（Genitiv 特例）**  
-- Genitiv：des **Namens**
+### B. 特定外來語字尾 (B1 高頻考點)
+* **-ist**: `der Polizist`, `der Tourist`, `der Journalist`, `der Optimist`
+* **-ent / -ant**: `der Student`, `der Patient`, `der Praktikant`, `der Assistent`
+* **-at / -ot**: `der Diplomat`, `der Soldat`, `der Idiot`
+* **-oge**: `der Biologe`, `der Psychologe`
 
 ---
 
-## 5️⃣ A2 必考（生活＋正式語境）
+## 3. 分級必背單字清單
 
-| 原形 (Nominativ) | Kasus + 冠詞 | 名詞形式 |
-|-----------------|-------------|----------|
-| der Freund | den / dem / des | Freunden |
-| der Nachbar | den / dem / des | Nachbarn |
-| der Tourist | den / dem / des | Touristen |
-| der Patient | den / dem / des | Patienten |
-| der Polizist | den / dem / des | Polizisten |
-| der Herr | den / dem / des | Herrn ⚠️ |
+### A1-A2 基礎
+| 原形 (Nom.) | 變化形 (Akk/Dat/Gen) | 中文 |
+| :--- | :--- | :--- |
+| **der Herr** | den **Herrn** | 先生 (正式書信常用) |
+| **der Mensch** | den Menschen | 人類 |
+| **der Name** | den Namen | 名字 |
+| **der Junge** | den Jungen | 男孩 |
+| **der Nachbar** | den Nachbarn | 鄰居 |
 
-⚠️ **Herr**
-- 非主格：**Herrn**
-- 常見於正式稱呼：*Herrn Müller*
-
----
-
-## 6️⃣ B1 必考（抽象 / 學術 / 書面語）
-
-| 原形 (Nominativ) | Kasus + 冠詞 | 名詞形式 |
-|-----------------|-------------|----------|
-| der Teilnehmer | den / dem / des | Teilnehmern |
-| der Experte | den / dem / des | Experten |
-| der Journalist | den / dem / des | Journalisten |
-| der Präsident | den / dem / des | Präsidenten |
-| der Assistent | den / dem / des | Assistenten |
-
-📌 **常見字尾**
-- **-ent / -ant / -ist / -at → 幾乎都是 N-Deklination**
-- **-er / -or / 單音節 → 通常不是**
+### B1 進階
+| 原形 (Nom.) | 變化形 (Akk/Dat/Gen) | 中文 |
+| :--- | :--- | :--- |
+| **der Bär** | den Bären | 熊 |
+| **der Elefant** | den Elefanten | 大象 |
+| **der Architekt** | den Architekten | 建築師 |
+| **der Fotograf** | den Fotografen | 攝影師 |
+| **der Held** | den Helden | 英雄 |
 
 ---
 
-## 7️⃣ 重要例外（一定要背）
+## 4. 🚨 兩大必考特例
 
-### 中性名詞卻屬於 N-Deklination
+### 1) Genitiv 要額外加 -s 的名詞
+這類詞在屬格 (Genitiv) 時，字尾是 **-ns** 而非只有 -n。
+* **der Name** $\rightarrow$ des Name**ns**
+* **der Gedanke** (想法) $\rightarrow$ des Gedanke**ns**
+* **der Buchstabe** (字母) $\rightarrow$ des Buchstabe**ns**
 
-| 原形 | Dativ / Genitiv |
-|----|----------------|
-| das Herz | dem **Herzen** / des **Herzens** |
-
----
-
-## 8️⃣ 與一般名詞的對照
-
-| 類型 | Akkusativ 單數 |
-|----|----------------|
-| 一般名詞 | den Tisch |
-| N-Deklination | den **Studenten** |
-
-👉 **名詞本身出現 -n / -en = N-Deklination**
+### 2) 唯一的中性名詞：das Herz
+這是德文裡極少數非陽性卻參與 N-Deklination 的字：
+* **Nominativ/Akkusativ**: das Herz (不變)
+* **Dativ**: dem **Herzen**
+* **Genitiv**: des **Herzens**
 
 ---
 
-## 9️⃣ 考場速判口訣（嚴謹版）
+## 5. ❌ 常見陷阱：這些「人」不是 N-Deklination
 
-> **DER + 人 + 單數 + 非主格 → 名詞一定加 -n / -en**
+請注意！並非所有指「人」的名詞都要變位。以下單字**絕對不要**在單數加 -n：
 
-不確定時：  
-👉 **先讓名詞變成 -en，正確率非常高**
-
----
-
-## ❌ 常見陷阱：這些「人」不是 N-Deklination
-
-> ⚠️ 提醒：**是人 ≠ 一定是 N-Deklination**
-
-| 名詞 (Nom.) | Akk. 單數 | 為什麼不是 |
-|------------|-----------|------------|
-| der Lehrer | den Lehrer | **-er** 結尾，多數不變 |
-| der Schüler | den Schüler | **不是 Schülern** |
-| der Fahrer | den Fahrer | 職業名詞，非 N-Dek. |
-| der Fotograf | den Fotograf | **-or ≠ -ent** |
-| der Doktor | den Doktor | 常被誤加 -en |
-| der Mann | den Mann | 單音節強變化 |
-| der Vater | den Vater | 親屬但不走 N-Dek. |
-| der Bruder | den Bruder | 名詞本身不變 |
+| 名詞 (Nom.) | 錯誤寫法 (Dativ) | 正確寫法 | 原因 |
+| :--- | :--- | :--- | :--- |
+| **der Lehrer** | dem Lehren (X) | **dem Lehrer** | -er 結尾的人稱不變 |
+| **der Fahrer** | dem Fahren (X) | **dem Fahrer** | -er 結尾的人稱不變 |
+| **der Freund** | dem Freunden (X) | **dem Freund** | 普通強變化名詞 |
+| **der Vater** | dem Vatern (X) | **dem Vater** | 親屬名詞不變 |
+| **der Mann** | dem Mannen (X) | **dem Mann** | 普通強變化名詞 |
 
 ---
 
-### 🧠 複數名詞
+## 🔚 考場秒殺心法
+> **看到「陽性名詞」指人或動物，且不是句子的主角 (非 Nominativ)，**
+> **先檢查字尾是不是 -e, -ist, -ent，如果是，名詞尾巴直接補上 -n！**
 
-- N-Deklination 只影響單數名詞。
-- 複數形式不分 N-Deklination，僅遵守一般複數變化規則。
-
-- N-Deklination 的 -n：只發生在「單數」
-- Dativ 複數的 -n：發生在「所有名詞」
-
-
-## 🔚 End of Cheat Sheet
+*Last updated: 2025*
