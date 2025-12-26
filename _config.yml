@@ -29,7 +29,7 @@
   # twitter: https://twitter.com/yourhandle
 
 # 1. 啟用官方深色皮膚
-theme_skin: "dark" # 如果你想要深色模式
+# theme_skin: "dark" # 如果你想要深色模式
 
 
 # 基本設置

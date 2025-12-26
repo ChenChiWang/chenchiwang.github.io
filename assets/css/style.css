@@ -1,23 +1,34 @@
-/* 1. 全站字體與變數設定 */
+/* ==========================================================================
+   1. 全站字體與暗色變數設定
+   ========================================================================== */
 :root {
+    --bg-color: #121212;             /* 主背景：深黑 */
+    --surface-color: #1e1e1e;       /* 次背景：深灰 (用於表格、卡片) */
+    --text-main: #e0e0e0;           /* 主文字：淺灰 */
+    --primary-blue: #3498db;         /* 主題藍 */
+    --german-akk-blue: #5dade2;     /* 針對深色背景調亮的受格藍 */
     --font-family-sans-serif: "Roboto", "Noto Sans TC", sans-serif;
-    --primary-blue: #3498db;
-    --german-akk-blue: #5dade2; /* 針對深色背景調亮的受格藍 */
 }
 
-body {
+/* 暴力覆蓋：強制讓底層所有可能出現白色的地方都變黑 */
+html, body, #main, .main-content, .container, role[main] {
+    background-color: var(--bg-color) !important;
+    color: var(--text-main) !important;
     font-family: var(--font-family-sans-serif) !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-family-sans-serif) !important;
+    color: var(--primary-blue);
 }
 
-/* 2. 標題區塊 (Header) 優化 */
-/* 這裡保留你原本的背景圖，並加入深色遮罩確保文字清晰 */
+/* ==========================================================================
+   2. 標題區塊 (Header) 與 導覽列 (Navbar)
+   ========================================================================== */
 header.intro-header {
     text-align: center;
     padding: 80px 20px;
+    /* 加入深色遮罩確保文字清晰 */
     background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), 
                 url('https://images.unsplash.com/photo-1467226319447-65b413756357?auto=format&fit=crop&q=80&w=1000') no-repeat center center;
     background-size: cover;
@@ -25,20 +36,28 @@ header.intro-header {
     color: #fff !important;
 }
 
-/* 3. 德文語法表格 (Dark Mode 專用) */
+.navbar-custom {
+    background-color: rgba(26, 26, 26, 0.95) !important;
+    border-bottom: 1px solid #333;
+}
+
+/* ==========================================================================
+   3. 德文語法表格 (Dark Mode 專用美化)
+   ========================================================================== */
 table {
     width: 100%;
     border-collapse: collapse;
     margin: 25px 0;
-    background-color: rgba(255, 255, 255, 0.05); 
+    background-color: var(--surface-color) !important; 
     border-radius: 12px;
     overflow: hidden;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+    border: 1px solid #333 !important;
 }
 
 table th {
-    background-color: rgba(52, 152, 219, 0.25);
-    color: var(--primary-blue);
+    background-color: rgba(52, 152, 219, 0.25) !important;
+    color: var(--primary-blue) !important;
     font-weight: 700;
     padding: 15px;
     border-bottom: 2px solid #444;
@@ -48,22 +67,34 @@ table th {
 table td {
     padding: 12px 15px;
     border-bottom: 1px solid #333;
-    color: #e0e0e0;
+    color: #d1d1d1;
 }
 
 /* 隔行變色：讓長表格對齊更輕鬆 */
 table tr:nth-child(even) {
-    background-color: rgba(255, 255, 255, 0.02);
+    background-color: rgba(255, 255, 255, 0.03) !important;
 }
 
-/* 4. 德文詞尾顏色修正 (確保在黑底依然鮮豔) */
-/* 修正你在筆記中手動標註的藍色 (#3498db) */
-span[style*="color:#3498db"] {
+/* ==========================================================================
+   4. 德文詞尾顏色修正 (重點！)
+   ========================================================================== */
+/* 修正你在筆記中用 <span style="color:blue"> 或 #3498db 標註的顏色 */
+span[style*="color:blue"], 
+span[style*="color:#3498db"],
+span[style*="color:#0000FF"] {
     color: var(--german-akk-blue) !important;
     font-weight: bold;
 }
 
-/* 5. 內容間距與佈局優化 */
+/* 如果有標註紅色 (陰性) */
+span[style*="color:red"],
+span[style*="color:#FF0000"] {
+    color: #ff6b6b !important;
+}
+
+/* ==========================================================================
+   5. 內容間距、頁尾與分頁
+   ========================================================================== */
 main.container {
     max-width: 900px;
     padding: 40px 20px;
@@ -75,11 +106,11 @@ main.container {
     padding-bottom: 25px;
 }
 
-/* 6. 頁尾與分頁 */
 footer {
     padding: 40px 0;
     background-color: #0a0a0a !important;
     color: #777 !important;
+    border-top: 1px solid #222;
 }
 
 .pagination .page-link {
@@ -87,4 +118,12 @@ footer {
     border: 1px solid #444 !important;
     color: var(--primary-blue) !important;
     border-radius: 5px;
+}
+
+/* 手機版適應：表格可橫向滑動 */
+@media (max-width: 768px) {
+    table {
+        display: block;
+        overflow-x: auto;
+    }
 }
