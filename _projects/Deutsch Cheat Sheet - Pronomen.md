@@ -19,12 +19,8 @@ categories: Deutsch
 | 格位 | ich | du | er | sie | es | wir | ihr | sie | Sie |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Nominativ** | ich | du | er | sie | es | wir | ihr | sie | Sie |
-| **Akkusativ** | mich | dich | ihn | sie | es | uns | euch | sie | Sie |
-| **Dativ** | mi<span style="color:#e67e22">**r**</span> | di<span style="color:#e67e22">**r**</span> | ih<span style="color:#9b59b6">**m**</span> | ih<span style="color:#e67e22">**r**</span> | ih<span style="color:#9b59b6">**m**</span> | uns | euch | ihne<span style="color:#3498db">**n**</span> | Ihne<span style="color:#3498db">**n**</span> |
-
-> **💡 註解：**
-> - **Sie (大寫)**：用於禮貌稱呼「您/您們」。
-> - **ihnen / Ihnen**：小寫 *ihnen* 是「他們」；大寫 *Ihnen* 是「您」的 Dativ。
+| **Akkusativ** | mich | dich | ih<span style="color:#3498db">**n**</span> | sie | es | uns | euch | sie | Sie |
+| **Dativ** | mir | dir | ih<span style="color:#9b59b6">**m**</span> | ih<span style="color:#e67e22">**r**</span> | ih<span style="color:#9b59b6">**m**</span> | uns | euch | ihne<span style="color:#3498db">**n**</span> | Ihne<span style="color:#3498db">**n**</span> |
 
 ---
 
@@ -38,6 +34,7 @@ categories: Deutsch
 ---
 
 ## 3. 所有格冠詞 (Possessivartikel)
+*用法：後面接名詞。*
 
 ### 3.1 ich (my)
 | 格位 | Maskulin | Neutral | Feminin | Plural |
@@ -47,7 +44,45 @@ categories: Deutsch
 | **Dativ** | mein<span style="color:#9b59b6">**em**</span> | mein<span style="color:#9b59b6">**em**</span> | mein<span style="color:#e67e22">**er**</span> | mein<span style="color:#3498db">**en**</span> |
 | **Genitiv** | mein<span style="color:#e74c3c">**es**</span> | mein<span style="color:#e74c3c">**es**</span> | mein<span style="color:#e67e22">**er**</span> | mein<span style="color:#e67e22">**er**</span> |
 
-> *(註：3.2 至 3.6 變化規律與 3.1 相同，僅需更換字幹 dein-, sein-, ihr-, Ihr-, unser-)*
+### 3.2 du (your)
+| 格位 | Maskulin | Neutral | Feminin | Plural |
+| :--- | :--- | :--- | :--- | :--- |
+| **Nominativ** | dein | dein | dein<span style="color:#2ecc71">**e**</span> | dein<span style="color:#2ecc71">**e**</span> |
+| **Akkusativ** | dein<span style="color:#3498db">**en**</span> | dein | dein<span style="color:#2ecc71">**e**</span> | dein<span style="color:#2ecc71">**e**</span> |
+| **Dativ** | dein<span style="color:#9b59b6">**em**</span> | dein<span style="color:#9b59b6">**em**</span> | dein<span style="color:#e67e22">**er**</span> | dein<span style="color:#3498db">**en**</span> |
+| **Genitiv** | dein<span style="color:#e74c3c">**es**</span> | dein<span style="color:#e74c3c">**es**</span> | dein<span style="color:#e67e22">**er**</span> | dein<span style="color:#e67e22">**er**</span> |
+
+### 3.3 er / es (his / its)
+| 格位 | Maskulin | Neutral | Feminin | Plural |
+| :--- | :--- | :--- | :--- | :--- |
+| **Nominativ** | sein | sein | sein<span style="color:#2ecc71">**e**</span> | sein<span style="color:#2ecc71">**e**</span> |
+| **Akkusativ** | sein<span style="color:#3498db">**en**</span> | sein | sein<span style="color:#2ecc71">**e**</span> | sein<span style="color:#2ecc71">**e**</span> |
+| **Dativ** | sein<span style="color:#9b59b6">**em**</span> | sein<span style="color:#9b59b6">**em**</span> | sein<span style="color:#e67e22">**er**</span> | sein<span style="color:#3498db">**en**</span> |
+| **Genitiv** | sein<span style="color:#e74c3c">**es**</span> | sein<span style="color:#e74c3c">**es**</span> | sein<span style="color:#e67e22">**er**</span> | sein<span style="color:#e67e22">**er**</span> |
+
+### 3.4 sie / sie (her / their)
+| 格位 | Maskulin | Neutral | Feminin | Plural |
+| :--- | :--- | :--- | :--- | :--- |
+| **Nominativ** | ihr | ihr | ihr<span style="color:#2ecc71">**e**</span> | ihr<span style="color:#2ecc71">**e**</span> |
+| **Akkusativ** | ihr<span style="color:#3498db">**en**</span> | ihr | ihr<span style="color:#2ecc71">**e**</span> | ihr<span style="color:#2ecc71">**e**</span> |
+| **Dativ** | ihr<span style="color:#9b59b6">**em**</span> | ihr<span style="color:#9b59b6">**em**</span> | ihr<span style="color:#e67e22">**er**</span> | ihr<span style="color:#3498db">**en**</span> |
+| **Genitiv** | ihr<span style="color:#e74c3c">**es**</span> | ihr<span style="color:#e74c3c">**es**</span> | ihr<span style="color:#e67e22">**er**</span> | ihr<span style="color:#e67e22">**er**</span> |
+
+### 3.5 Sie (禮貌形 Your)
+| 格位 | Maskulin | Neutral | Feminin | Plural |
+| :--- | :--- | :--- | :--- | :--- |
+| **Nominativ** | Ihr | Ihr | Ihr<span style="color:#2ecc71">**e**</span> | Ihr<span style="color:#2ecc71">**e**</span> |
+| **Akkusativ** | Ihr<span style="color:#3498db">**en**</span> | Ihr | Ihr<span style="color:#2ecc71">**e**</span> | Ihr<span style="color:#2ecc71">**e**</span> |
+| **Dativ** | Ihr<span style="color:#9b59b6">**em**</span> | Ihr<span style="color:#9b59b6">**em**</span> | Ihr<span style="color:#e67e22">**er**</span> | Ihr<span style="color:#3498db">**en**</span> |
+| **Genitiv** | Ihr<span style="color:#e74c3c">**es**</span> | Ihr<span style="color:#e74c3c">**es**</span> | Ihr<span style="color:#e67e22">**er**</span> | Ihr<span style="color:#e67e22">**er**</span> |
+
+### 3.6 wir (our)
+| 格位 | Maskulin | Neutral | Feminin | Plural |
+| :--- | :--- | :--- | :--- | :--- |
+| **Nominativ** | unser | unser | unser<span style="color:#2ecc71">**e**</span> | unser<span style="color:#2ecc71">**e**</span> |
+| **Akkusativ** | unser<span style="color:#3498db">**en**</span> | unser | unser<span style="color:#2ecc71">**e**</span> | unser<span style="color:#2ecc71">**e**</span> |
+| **Dativ** | unser<span style="color:#9b59b6">**em**</span> | unser<span style="color:#9b59b6">**em**</span> | unser<span style="color:#e67e22">**er**</span> | unser<span style="color:#3498db">**en**</span> |
+| **Genitiv** | unser<span style="color:#e74c3c">**es**</span> | unser<span style="color:#e74c3c">**es**</span> | unser<span style="color:#e67e22">**er**</span> | unser<span style="color:#e67e22">**er**</span> |
 
 ### 3.7 ihr (你們的 your)
 | 格位 | Maskulin | Neutral | Feminin | Plural |
@@ -60,6 +95,7 @@ categories: Deutsch
 ---
 
 ## 4. 所有格代名詞 (Possessivpronomen)
+*用法：後面不接名詞。*
 
 ### 4.1 ich (mine)
 | 格位 | Maskulin | Neutral | Feminin | Plural |
@@ -68,7 +104,47 @@ categories: Deutsch
 | **Akkusativ** | mein<span style="color:#3498db">**en**</span> | mein<span style="color:#e74c3c">**s**</span> | mein<span style="color:#2ecc71">**e**</span> | mein<span style="color:#2ecc71">**e**</span> |
 | **Dativ** | mein<span style="color:#9b59b6">**em**</span> | mein<span style="color:#9b59b6">**em**</span> | mein<span style="color:#e67e22">**er**</span> | mein<span style="color:#3498db">**en**</span> |
 
-> *(註：其餘代名詞依此類推：deiner/deins, seiner/seins, ihrer/ihres, Ihrer/Ihres, unserer/unseres, eurer/eures)*
+### 4.2 du (yours)
+| 格位 | Maskulin | Neutral | Feminin | Plural |
+| :--- | :--- | :--- | :--- | :--- |
+| **Nominativ** | dein<span style="color:#e67e22">**er**</span> | dein<span style="color:#e74c3c">**s**</span> | dein<span style="color:#2ecc71">**e**</span> | dein<span style="color:#2ecc71">**e**</span> |
+| **Akkusativ** | dein<span style="color:#3498db">**en**</span> | dein<span style="color:#e74c3c">**s**</span> | dein<span style="color:#2ecc71">**e**</span> | dein<span style="color:#2ecc71">**e**</span> |
+| **Dativ** | dein<span style="color:#9b59b6">**em**</span> | dein<span style="color:#9b59b6">**em**</span> | dein<span style="color:#e67e22">**er**</span> | dein<span style="color:#3498db">**en**</span> |
+
+### 4.3 er / es (his / its)
+| 格位 | Maskulin | Neutral | Feminin | Plural |
+| :--- | :--- | :--- | :--- | :--- |
+| **Nominativ** | sein<span style="color:#e67e22">**er**</span> | sein<span style="color:#e74c3c">**s**</span> | sein<span style="color:#2ecc71">**e**</span> | sein<span style="color:#2ecc71">**e**</span> |
+| **Akkusativ** | sein<span style="color:#3498db">**en**</span> | sein<span style="color:#e74c3c">**s**</span> | sein<span style="color:#2ecc71">**e**</span> | sein<span style="color:#2ecc71">**e**</span> |
+| **Dativ** | sein<span style="color:#9b59b6">**em**</span> | sein<span style="color:#9b59b6">**em**</span> | sein<span style="color:#e67e22">**er**</span> | sein<span style="color:#3498db">**en**</span> |
+
+### 4.4 sie / sie (hers / theirs)
+| 格位 | Maskulin | Neutral | Feminin | Plural |
+| :--- | :--- | :--- | :--- | :--- |
+| **Nominativ** | ihr<span style="color:#e67e22">**er**</span> | ihr<span style="color:#e74c3c">**es**</span> | ihr<span style="color:#2ecc71">**e**</span> | ihr<span style="color:#2ecc71">**e**</span> |
+| **Akkusativ** | ihr<span style="color:#3498db">**en**</span> | ihr<span style="color:#e74c3c">**es**</span> | ihr<span style="color:#2ecc71">**e**</span> | ihr<span style="color:#2ecc71">**e**</span> |
+| **Dativ** | ihr<span style="color:#9b59b6">**em**</span> | ihr<span style="color:#9b59b6">**em**</span> | ihr<span style="color:#e67e22">**er**</span> | ihr<span style="color:#3498db">**en**</span> |
+
+### 4.5 Sie (禮貌形 Yours)
+| 格位 | Maskulin | Neutral | Feminin | Plural |
+| :--- | :--- | :--- | :--- | :--- |
+| **Nominativ** | Ihr<span style="color:#e67e22">**er**</span> | Ihr<span style="color:#e74c3c">**es**</span> | Ihr<span style="color:#2ecc71">**e**</span> | Ihr<span style="color:#2ecc71">**e**</span> |
+| **Akkusativ** | Ihr<span style="color:#3498db">**en**</span> | Ihr<span style="color:#e74c3c">**es**</span> | Ihr<span style="color:#2ecc71">**e**</span> | Ihr<span style="color:#2ecc71">**e**</span> |
+| **Dativ** | Ihr<span style="color:#9b59b6">**em**</span> | Ihr<span style="color:#9b59b6">**em**</span> | Ihr<span style="color:#e67e22">**er**</span> | Ihr<span style="color:#3498db">**en**</span> |
+
+### 4.6 wir (ours)
+| 格位 | Maskulin | Neutral | Feminin | Plural |
+| :--- | :--- | :--- | :--- | :--- |
+| **Nominativ** | unser<span style="color:#e67e22">**er**</span> | unser<span style="color:#e74c3c">**es**</span> | unser<span style="color:#2ecc71">**e**</span> | unser<span style="color:#2ecc71">**e**</span> |
+| **Akkusativ** | unser<span style="color:#3498db">**en**</span> | unser<span style="color:#e74c3c">**es**</span> | unser<span style="color:#2ecc71">**e**</span> | unser<span style="color:#2ecc71">**e**</span> |
+| **Dativ** | unser<span style="color:#9b59b6">**em**</span> | unser<span style="color:#9b59b6">**em**</span> | unser<span style="color:#e67e22">**er**</span> | unser<span style="color:#3498db">**en**</span> |
+
+### 4.7 ihr (你們的 yours)
+| 格位 | Maskulin | Neutral | Feminin | Plural |
+| :--- | :--- | :--- | :--- | :--- |
+| **Nominativ** | eu<span style="color:#e74c3c">**r**</span><span style="color:#e67e22">**er**</span> | eu<span style="color:#e74c3c">**r**</span><span style="color:#e74c3c">**es**</span> | eu<span style="color:#e74c3c">**r**</span><span style="color:#2ecc71">**e**</span> | eu<span style="color:#e74c3c">**r**</span><span style="color:#2ecc71">**e**</span> |
+| **Akkusativ** | eu<span style="color:#e74c3c">**r**</span><span style="color:#3498db">**en**</span> | eu<span style="color:#e74c3c">**r**</span><span style="color:#e74c3c">**es**</span> | eu<span style="color:#e74c3c">**r**</span><span style="color:#2ecc71">**e**</span> | eu<span style="color:#e74c3c">**r**</span><span style="color:#2ecc71">**e**</span> |
+| **Dativ** | eu<span style="color:#e74c3c">**r**</span><span style="color:#9b59b6">**em**</span> | eu<span style="color:#e74c3c">**r**</span><span style="color:#9b59b6">**em**</span> | eu<span style="color:#e74c3c">**r**</span><span style="color:#e67e22">**er**</span> | eu<span style="color:#e74c3c">**r**</span><span style="color:#3498db">**en**</span> |
 
 ---
 
@@ -102,8 +178,8 @@ categories: Deutsch
 
 ## 💡 學習建議與注意事項
 
-1.  **複數 Dativ 特徵**：無論是哪種冠詞，Dativ 複數的冠詞一定是 **<span style="color:#3498db">den</span> / <span style="color:#3498db">meinen</span> / <span style="color:#3498db">keinen</span>**，且名詞末尾通常要加 **-n**。
-2.  **Genitiv 注意事項**：在陽性 (Maskulin) 和中性 (Neutral) 的 Genitiv 中，冠詞詞尾一定是 **<span style="color:#e74c3c">-es</span>**，且名詞末尾必須加 **-s** 或 **-es**。
+1.  **複數 Dativ 特徵**：無論是哪種冠詞，Dativ 複數的冠詞一定是 **den / meinen / keinen**，且名詞末尾通常要加 **-n**。
+2.  **Genitiv 注意事項**：在陽性 (Maskulin) 和中性 (Neutral) 的 Genitiv 中，冠詞詞尾一定是 **-es**，且名詞末尾必須加 **-s** 或 **-es**。
 3.  **euer vs eure**：注意 `euer` 在加上需要 `e` 結尾的格位時（如陰性或複數），中間的 `e` 會省略：*euer* $\rightarrow$ **eu<span style="color:#e74c3c">r</span><span style="color:#2ecc71">e</span>**。
 
 ---
