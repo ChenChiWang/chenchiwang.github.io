@@ -28,7 +28,7 @@
 #   linkedin: https://www.linkedin.com/in/john-wang-5bb70bb3/
   # twitter: https://twitter.com/yourhandle
 
-# 1. 啟用官方深色皮膚
+# 啟用官方深色皮膚
 # theme_skin: "dark" # 如果你想要深色模式
 
 
@@ -38,8 +38,12 @@ description: "Relocation"
 baseurl: "" 
 url: "https://chenchiwang.github.io"
 
-# 2. 引入字體
+# 引入字體
 google_fonts: "Noto+Sans+TC:400,700|Roboto:400,700"
+
+# Beautiful Jekyll 官方認可的自定義 CSS 載入方式
+site-css:
+  - "/assets/css/style.css"
 
 # theme: minima # 這是 Jekyll 的默認主題，你可以更換為其他主題
 # remote_theme: "mmistakes/minimal-mistakes"
@@ -96,8 +100,3 @@ include:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-# 3. 強制連結自定義 CSS (使用 link-tags 是正確的)
-link-tags:
-  - href: "/assets/css/style.css"
-    rel: "stylesheet"
