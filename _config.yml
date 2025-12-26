@@ -35,14 +35,11 @@
 # 基本設置
 title: "CCsphere"
 description: "Relocation"
-baseurl: "" # 如果是根域名，保持空白
-url: "https://chenchiwang.github.io" # 你的網站 URL
+baseurl: "" 
+url: "https://chenchiwang.github.io"
+
 # 2. 引入字體
 google_fonts: "Noto+Sans+TC:400,700|Roboto:400,700"
-# 3. 強制連結自定義 CSS (如果 css: 沒反應，請用 link-tags)
-link-tags:
-  - href: "assets/css/style.css"
-    rel: "stylesheet"
 
 # theme: minima # 這是 Jekyll 的默認主題，你可以更換為其他主題
 # remote_theme: "mmistakes/minimal-mistakes"
@@ -99,3 +96,8 @@ include:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# 3. 強制連結自定義 CSS (使用 link-tags 是正確的)
+link-tags:
+  - href: "/assets/css/style.css"
+    rel: "stylesheet"
