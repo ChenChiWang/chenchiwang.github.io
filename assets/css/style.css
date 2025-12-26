@@ -1,102 +1,33 @@
 /* ==========================================================================
-   1. 全站字體與暗色變數設定
+   1. 字體與基礎變數 (保留 Roboto + Noto Sans)
    ========================================================================== */
 :root {
-    --bg-color: #121212;             /* 主背景：深黑 */
-    --surface-color: #1e1e1e;       /* 次背景：深灰 (用於表格、卡片) */
-    --text-main: #e0e0e0;           /* 主文字：淺灰 */
-    --primary-blue: #3498db;         /* 主題藍 */
-    --german-akk-blue: #5dade2;     /* 針對深色背景調亮的受格藍 */
-    --font-family-sans-serif: "Roboto", "Noto Sans TC", sans-serif;
+    --bg-dark: #121212;
+    --surface-dark: #1e1e1e;
+    --text-main: #e0e0e0;
+    --primary-blue: #3498db;
+    --german-akk-blue: #5dade2;
 }
 
-/* 暴力覆蓋：強制讓底層所有可能出現白色的地方都變黑 */
-html, body, #main, .main-content, .container, role[main] {
-    background-color: var(--bg-color) !important;
+/* 暴力覆蓋：點名所有 Beautiful Jekyll 的容器，強制塗黑 */
+html, 
+body, 
+#main, 
+.main-content, 
+.container, 
+.wrapper, 
+div[role="main"],
+article {
+    background-color: var(--bg-dark) !important;
     color: var(--text-main) !important;
-    font-family: var(--font-family-sans-serif) !important;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    font-family: var(--font-family-sans-serif) !important;
-    color: var(--primary-blue);
+    font-family: "Roboto", "Noto Sans TC", sans-serif !important;
 }
 
 /* ==========================================================================
-   2. 標題區塊 (Header) 與 導覽列 (Navbar)
-   ========================================================================== */
-header.intro-header {
-    text-align: center;
-    padding: 80px 20px;
-    /* 加入深色遮罩確保文字清晰 */
-    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), 
-                url('https://images.unsplash.com/photo-1467226319447-65b413756357?auto=format&fit=crop&q=80&w=1000') no-repeat center center;
-    background-size: cover;
-    background-attachment: fixed;
-    color: #fff !important;
-}
-
-.navbar-custom {
-    background-color: rgba(26, 26, 26, 0.95) !important;
-    border-bottom: 1px solid #333;
-}
-
-/* ==========================================================================
-   3. 德文語法表格 (Dark Mode 專用美化)
-   ========================================================================== */
-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 25px 0;
-    background-color: var(--surface-color) !important; 
-    border-radius: 12px;
-    overflow: hidden;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.5);
-    border: 1px solid #333 !important;
-}
-
-table th {
-    background-color: rgba(52, 152, 219, 0.25) !important;
-    color: var(--primary-blue) !important;
-    font-weight: 700;
-    padding: 15px;
-    border-bottom: 2px solid #444;
-    text-align: left;
-}
-
-table td {
-    padding: 12px 15px;
-    border-bottom: 1px solid #333;
-    color: #d1d1d1;
-}
-
-/* 隔行變色：讓長表格對齊更輕鬆 */
-table tr:nth-child(even) {
-    background-color: rgba(255, 255, 255, 0.03) !important;
-}
-
-/* ==========================================================================
-   4. 德文詞尾顏色修正 (重點！)
-   ========================================================================== */
-/* 修正你在筆記中用 <span style="color:blue"> 或 #3498db 標註的顏色 */
-span[style*="color:blue"], 
-span[style*="color:#3498db"],
-span[style*="color:#0000FF"] {
-    color: var(--german-akk-blue) !important;
-    font-weight: bold;
-}
-
-/* 如果有標註紅色 (陰性) */
-span[style*="color:red"],
-span[style*="color:#FF0000"] {
-    color: #ff6b6b !important;
-}
-
-/* ==========================================================================
-   5. 內容間距、頁尾與分頁
+   2. 版面佈局優化 (保留你原本的設定)
    ========================================================================== */
 main.container {
-    max-width: 900px;
+    max-width: 900px; /* 確保閱讀寬度舒適 */
     padding: 40px 20px;
 }
 
@@ -106,24 +37,94 @@ main.container {
     padding-bottom: 25px;
 }
 
+/* ==========================================================================
+   3. 標題與導覽列 (保留背景圖 + 深色過濾)
+   ========================================================================== */
+header.intro-header {
+    text-align: center;
+    padding: 80px 20px;
+    background: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75)), 
+                url('https://images.unsplash.com/photo-1467226319447-65b413756357?auto=format&fit=crop&q=80&w=1000') no-repeat center center !important;
+    background-size: cover !important;
+    background-attachment: fixed !important;
+    color: #fff !important;
+}
+
+.navbar-custom, .navbar {
+    background-color: rgba(20, 20, 20, 0.95) !important;
+    border-bottom: 1px solid #333 !important;
+}
+
+/* ==========================================================================
+   4. 德文語法表格 (保留美化樣式)
+   ========================================================================== */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 25px 0;
+    background-color: var(--surface-dark) !important; 
+    border-radius: 12px;
+    overflow: hidden;
+    border: 1px solid #444 !important;
+}
+
+table th {
+    background-color: rgba(52, 152, 219, 0.25) !important;
+    color: var(--primary-blue) !important;
+    padding: 15px;
+}
+
+table td {
+    padding: 12px 15px;
+    border-bottom: 1px solid #333;
+}
+
+/* 隔行變色 */
+table tr:nth-child(even) {
+    background-color: rgba(255, 255, 255, 0.03) !important;
+}
+
+/* ==========================================================================
+   5. 德文詞尾顏色標註 (自動調亮)
+   ========================================================================== */
+span[style*="color:blue"], 
+span[style*="color:#3498db"] {
+    color: var(--german-akk-blue) !important;
+    font-weight: bold;
+}
+span[style*="color:red"] {
+    color: #ff6b6b !important;
+}
+
+/* ==========================================================================
+   6. 頁尾與分頁 (保留設定)
+   ========================================================================== */
 footer {
-    padding: 40px 0;
     background-color: #0a0a0a !important;
+    padding: 40px 0;
     color: #777 !important;
-    border-top: 1px solid #222;
 }
 
 .pagination .page-link {
     background-color: #222 !important;
     border: 1px solid #444 !important;
     color: var(--primary-blue) !important;
-    border-radius: 5px;
 }
 
-/* 手機版適應：表格可橫向滑動 */
+/* ==========================================================================
+   7. 手機版設定優化 (保留並強化)
+   ========================================================================== */
 @media (max-width: 768px) {
+    header.intro-header {
+        padding: 50px 15px;
+    }
+    /* 關鍵：手機版表格支援橫向滑動，不破版 */
     table {
         display: block;
         overflow-x: auto;
+        white-space: nowrap; /* 防止手機上文字自動換行導致表格太長 */
+    }
+    main.container {
+        padding: 20px 15px;
     }
 }
