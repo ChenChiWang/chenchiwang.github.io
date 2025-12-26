@@ -22,9 +22,9 @@ categories: Deutsch
 | 格位 (Kasus) | 冠詞 | 名詞變化 | 說明 |
 | :--- | :--- | :--- | :--- |
 | **Nominativ** | der | Student | 原形 |
-| **Akkusativ** | den | Student**en** | 受格加 -en |
-| **Dativ** | dem | Student**en** | 與格加 -en |
-| **Genitiv** | des | Student**en** | 屬格加 -en |
+| **Akkusativ** | den | Student<span style="color:#3498db">**en**</span> | 受格加 -en |
+| **Dativ** | dem | Student<span style="color:#3498db">**en**</span> | 與格加 -en |
+| **Genitiv** | des | Student<span style="color:#3498db">**en**</span> | 屬格加 -en |
 
 > **⚠️ 注意：** 複數形式與此規則無關，請遵守一般複數規則（雖然很多 N-Deklination 的複數剛好也是 -en）。
 
@@ -35,11 +35,11 @@ categories: Deutsch
 符合以下特徵的字，高機率屬於此類：
 
 ### A. 字尾為 -e 的陽性名詞 (通常指人或動物)
-* `der Kunde` (客戶) $\rightarrow$ den Kunden
-* `der Kollege` (同事) $\rightarrow$ den Kollegen
-* `der Junge` (男孩) $\rightarrow$ den Jungen
-* `der Hase` (兔子) $\rightarrow$ den Hasen
-* `der Experte` (專家) $\rightarrow$ den Experten
+* `der Kunde` (客戶) → den Kunde<span style="color:#3498db">**n**</span>
+* `der Kollege` (同事) → den Kollege<span style="color:#3498db">**n**</span>
+* `der Junge` (男孩) → den Junge<span style="color:#3498db">**n**</span>
+* `der Hase` (兔子) → den Hase<span style="color:#3498db">**n**</span>
+* `der Experte` (專家) → den Experte<span style="color:#3498db">**n**</span>
 
 ### B. 特定外來語字尾 (B1 高頻考點)
 * **-ist**: `der Polizist`, `der Tourist`, `der Journalist`, `der Optimist`
@@ -54,20 +54,20 @@ categories: Deutsch
 ### A1-A2 基礎
 | 原形 (Nom.) | 變化形 (Akk/Dat/Gen) | 中文 |
 | :--- | :--- | :--- |
-| **der Herr** | den **Herrn** | 先生 (正式書信常用) |
-| **der Mensch** | den Menschen | 人類 |
-| **der Name** | den Namen | 名字 |
-| **der Junge** | den Jungen | 男孩 |
-| **der Nachbar** | den Nachbarn | 鄰居 |
+| **der Herr** | den **Herr<span style="color:#3498db">n</span>** | 先生 (正式書信常用) |
+| **der Mensch** | den Mensch<span style="color:#3498db">**en**</span> | 人類 |
+| **der Name** | den Name<span style="color:#3498db">**n**</span> | 名字 |
+| **der Junge** | den Junge<span style="color:#3498db">**n**</span> | 男孩 |
+| **der Nachbar** | den Nachba<span style="color:#3498db">**rn**</span> | 鄰居 |
 
 ### B1 進階
 | 原形 (Nom.) | 變化形 (Akk/Dat/Gen) | 中文 |
 | :--- | :--- | :--- |
-| **der Bär** | den Bären | 熊 |
-| **der Elefant** | den Elefanten | 大象 |
-| **der Architekt** | den Architekten | 建築師 |
-| **der Fotograf** | den Fotografen | 攝影師 |
-| **der Held** | den Helden | 英雄 |
+| **der Bär** | den Bäre<span style="color:#3498db">**n**</span> | 熊 |
+| **der Elefant** | den Elefante<span style="color:#3498db">**n**</span> | 大象 |
+| **der Architekt** | den Architekte<span style="color:#3498db">**n**</span> | 建築師 |
+| **der Fotograf** | den Fotografe<span style="color:#3498db">**n**</span> | 攝影師 |
+| **der Held** | den Helde<span style="color:#3498db">**n**</span> | 英雄 |
 
 ---
 
@@ -75,15 +75,15 @@ categories: Deutsch
 
 ### 1) Genitiv 要額外加 -s 的名詞
 這類詞在屬格 (Genitiv) 時，字尾是 **-ns** 而非只有 -n。
-* **der Name** $\rightarrow$ des Name**ns**
-* **der Gedanke** (想法) $\rightarrow$ des Gedanke**ns**
-* **der Buchstabe** (字母) $\rightarrow$ des Buchstabe**ns**
+* **der Name** → des Name<span style="color:#e74c3c">**ns**</span>
+* **der Gedanke** (想法) → des Gedanke<span style="color:#e74c3c">**ns**</span>
+* **der Buchstabe** (字母) → des Buchstabe<span style="color:#e74c3c">**ns**</span>
 
 ### 2) 唯一的中性名詞：das Herz
 這是德文裡極少數非陽性卻參與 N-Deklination 的字：
 * **Nominativ/Akkusativ**: das Herz (不變)
-* **Dativ**: dem **Herzen**
-* **Genitiv**: des **Herzens**
+* **Dativ**: dem **Herze<span style="color:#3498db">n</span>**
+* **Genitiv**: des **Herze<span style="color:#e74c3c">ns**</span>
 
 ---
 
