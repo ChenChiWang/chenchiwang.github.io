@@ -1,141 +1,142 @@
-/* General Styles */
+/* 1. 定義暗色系變數 */
+:root {
+    --bg-color: #121212;         /* 主背景：深黑 */
+    --surface-color: #1e1e1e;   /* 次背景：深灰 (用於表格/卡片) */
+    --text-main: #e0e0e0;       /* 主文字：淺灰 (不刺眼) */
+    --text-muted: #b0b0b0;      /* 次要文字：中灰 */
+    --primary-color: #3498db;   /* 主題藍：稍微調亮增加對比 */
+    --border-color: #333333;    /* 邊框顏色 */
+    --font-family-sans-serif: "Roboto", "Noto Sans TC", -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+}
+
+/* 2. 全站基礎樣式 */
 body {
-    font-family: "Roboto", "Noto Sans TC", Arial, sans-serif;
-    color: #333;
+    font-family: var(--font-family-sans-serif);
+    background-color: var(--bg-color);
+    color: var(--text-main);
     margin: 0;
     padding: 0;
     line-height: 1.6;
 }
 
-a {
-    text-decoration: none;
-    color: #007acc;
-}
-a:hover {
-    text-decoration: underline;
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-family-sans-serif);
+    color: var(--primary-color);
 }
 
-/* Header Styles */
+a {
+    text-decoration: none;
+    color: var(--primary-color);
+    transition: 0.3s;
+}
+
+a:hover {
+    text-decoration: underline;
+    filter: brightness(1.2); /* 懸停時變亮 */
+}
+
+/* 3. 德文語法表格暗色優化 */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    background-color: var(--surface-color);
+    border-radius: 8px;
+    overflow: hidden; /* 確保圓角生效 */
+}
+
+table th {
+    background-color: #2c2c2c;
+    color: var(--primary-color);
+    font-weight: 700;
+    padding: 12px;
+    border-bottom: 2px solid var(--border-color);
+    text-align: left;
+}
+
+table td {
+    padding: 12px;
+    border-bottom: 1px solid var(--border-color);
+    color: var(--text-main);
+}
+
+/* 隔行變色，幫助視線對齊 (暗色版) */
+table tr:nth-child(even) {
+    background-color: #252525;
+}
+
+/* 4. Header (搭配深色遮罩) */
 header {
     text-align: center;
-    padding: 50px 20px;
-    background: url('https://chatgpt.com/c/6730375a-0d44-800b-9119-db4bfcec0d09') no-repeat center center;
+    padding: 80px 20px;
+    /* 加入深色漸層遮罩，確保背景圖不影響標題閱讀 */
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://images.unsplash.com/photo-1467226319447-65b413756357?auto=format&fit=crop&q=80&w=1000') no-repeat center center;
     background-size: cover;
     background-attachment: fixed;
     color: #fff;
 }
-header h1 {
-    font-size: 3em;
-    margin: 0;
-}
-header p {
-    font-size: 1.2em;
-    margin: 10px 0 0;
-}
 
-/* Navigation Styles */
 nav ul {
     list-style: none;
     padding: 0;
     margin: 20px 0;
     text-align: center;
 }
+
 nav ul li {
     display: inline-block;
     margin: 0 15px;
 }
+
+/* 導覽列連結在暗色模式下的顏色 */
 nav ul li a {
-    font-size: 1.1em;
-    color: #333;
-}
-nav ul li a:hover {
-    color: #007acc;
+    color: var(--text-main);
 }
 
-/* Main Content Styles */
+/* 5. Main Content */
 main {
     padding: 40px 20px;
-    max-width: 800px;
+    max-width: 900px;
     margin: 0 auto;
 }
-main h2 {
-    font-size: 2em;
-    margin-top: 0;
-    color: #007acc;
-}
-main ul {
-    list-style: none;
-    padding: 0;
-    margin: 20px 0;
-}
-main ul li {
-    display: inline-block;
-    margin: 0 10px;
-}
+
 .posts .post {
-    margin-bottom: 20px;
-    border-bottom: 1px solid #ddd;
-    padding-bottom: 15px;
-}
-.posts .post h3 {
-    font-size: 1.5em;
-    margin-bottom: 5px;
-}
-.posts .post p {
-    margin: 5px 0;
+    margin-bottom: 40px;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 20px;
 }
 
-/* Footer Styles */
+/* 引用區塊 (Blockquote) 優化 */
+blockquote {
+    border-left: 4px solid var(--primary-color);
+    background-color: var(--surface-color);
+    margin: 20px 0;
+    padding: 15px;
+    color: var(--text-muted);
+    font-style: italic;
+}
+
+/* 6. Footer & Pagination */
 footer {
     text-align: center;
-    padding: 20px;
-    background: #333;
-    color: #fff;
-    font-size: 0.9em;
-    margin-top: 40px;
-}
-footer a {
-    color: #007acc;
-}
-footer a:hover {
-    text-decoration: underline;
+    padding: 40px;
+    background: #0a0a0a;
+    color: #777;
+    font-size: 0.85em;
+    margin-top: 60px;
 }
 
-/* Pagination Styles */
-.pagination {
-    text-align: center;
-    margin: 20px 0;
-}
 .pagination .page-link {
-    color: #007acc;
+    color: var(--primary-color);
     margin: 0 5px;
-    padding: 5px 10px;
-    border: 1px solid #ddd;
-    border-radius: 3px;
-}
-.pagination .page-link:hover {
-    background: #f0f0f0;
+    padding: 8px 15px;
+    border: 1px solid var(--border-color);
+    background-color: var(--surface-color);
+    border-radius: 5px;
 }
 
-/* Mobile Responsiveness */
+/* 7. 響應式設定 */
 @media (max-width: 768px) {
-    header h1 {
-        font-size: 2.5em;
-    }
-    header p {
-        font-size: 1em;
-    }
-    nav ul li {
-        display: block;
-        margin: 10px 0;
-    }
-    .posts .post h3 {
-        font-size: 1.2em;
-    }
-}
-
-.mermaid {
-    margin: 20px auto;
-    text-align: center;
-    max-width: 100%;
+    header h1 { font-size: 2em; }
+    table { font-size: 0.85em; display: block; overflow-x: auto; } /* 手機版表格支援左右滑動 */
 }
