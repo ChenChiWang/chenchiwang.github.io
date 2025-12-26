@@ -38,7 +38,7 @@ baseurl: "" # 如果是根域名，保持空白
 url: "https://chenchiwang.github.io" # 你的網站 URL
 # 範例：引入 Noto Sans TC 和 Roboto
 google_fonts: "Noto+Sans+TC:400,700|Roboto:400,700"
-
+custom-css: ["/assets/css/style.css"]
 
 # theme: minima # 這是 Jekyll 的默認主題，你可以更換為其他主題
 # remote_theme: "mmistakes/minimal-mistakes"
