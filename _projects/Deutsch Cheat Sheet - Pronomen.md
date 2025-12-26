@@ -8,7 +8,7 @@ categories: Deutsch
 <!-- 流量追蹤 -->
 <script src="{{ '/assets/js/momo-script.js' | relative_url }}"></script>
 
-# 德文語法速查筆記 (German Cheat Sheet)
+# 🇩🇪 德文語法速查筆記 (German Cheat Sheet)
 
 這份筆記包含人稱、反身、所有格及冠詞的全格位變化，專為 **A1-B1 檢定** 準備。
 

@@ -9,7 +9,7 @@ categories: Deutsch
 <script src="{{ '/assets/js/momo-script.js' | relative_url }}"></script>
 
 
-# 德文 A1 動詞變位 Cheat Sheet (彩色版)
+# 🇩🇪 德文 A1 動詞變位 Cheat Sheet (彩色版)
 
 這份 Cheat Sheet 整理 A1 級別常用德文動詞變位，涵蓋規則動詞、強變化動詞和特殊動詞，適合初學者。變位以現在時態 (Präsens) 為主，按變位邏輯整合，附簡單範例。
 
