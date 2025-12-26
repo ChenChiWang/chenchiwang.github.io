@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Präpositionen A1"
+title:  "Deutsch Cheat Sheet - Präpositionen"
 date:   2025-9-12
 categories: Deutsch
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Deutsch A1-B1 N-Deklination"
+title:  "Deutsch Cheat Sheet - N-Deklination"
 date:   2025-12-23
 categories: Deutsch
 ---
