@@ -9,81 +9,121 @@ categories: Deutsch
 <script src="{{ '/assets/js/momo-script.js' | relative_url }}"></script>
 
 
-# 德文常用固定搭配整理（A1-B1 級別補充）
+# 🇩🇪 德文常用固定搭配終極攻略 (Kollokationen A1-B1)
 
-以下整理了德文中常見的固定搭配，涵蓋娛樂活動、日常動作、地點移動與任務安排，適合 A1 至 B1 級別學習者。新增了實用表達，搭配中文意思與結構說明，方便學習與應用。
-
-## 🎭 娛樂與活動
-這類表達多使用 **ins / aufs + Akkusativ + gehen** 或 **eine + 名詞 + 動詞** 的結構，補充了一些其他高頻娛樂相關表達。
-
-| 表達                    | 中文意思       | 結構說明                     |
-|-------------------------|----------------|------------------------------|
-| ins Kino gehen          | 去電影院       | in + Akkusativ + gehen       |
-| ins Konzert gehen       | 去音樂會       | in + Akkusativ + gehen       |
-| ins Theater gehen       | 去劇院         | in + Akkusativ + gehen       |
-| eine Party feiern       | 辦派對         | Artikel + Nomen + Verb       |
-| einen Ausflug machen    | 去郊遊         | Akkusativ + machen           |
-| eine Reise machen       | 去旅行         | Akkusativ + machen           |
-| Musik hören             | 聽音樂         | Akkusativ + hören            |
-| Sport treiben           | 做運動         | 固定搭配動詞                 |
-| **ins Restaurant gehen** | 去餐廳         | in + Akkusativ + gehen       |
-| **einen Film schauen**  | 看電影         | Akkusativ + schauen          |
-| **Freunde treffen**     | 見朋友         | Akkusativ + treffen          |
-| **ein Buch lesen**      | 讀書           | Akkusativ + lesen            |
-
-## 🚶 日常動作與休閒習慣
-常見搭配 **gehen**（去做某事）或 **machen**（完成某項活動）的動詞結構，補充了更多日常活動。
-
-| 表達                    | 中文意思       | 結構說明                     |
-|-------------------------|----------------|------------------------------|
-| spazieren gehen         | 去散步         | Verb + Verb                  |
-| einkaufen gehen         | 去購物         | Verb + Verb                  |
-| Frühstück machen        | 做早餐         | 名詞 + machen                |
-| Hausaufgaben machen     | 做功課         | 名詞 + machen                |
-| Pause machen            | 休息一下       | 名詞 + machen                |
-| einen Kaffee trinken    | 喝咖啡         | Akkusativ + trinken          |
-| fernsehen schauen       | 看電視         | Verb 合成語                  |
-| zu Abend essen          | 吃晚餐         | 固定時間短語 + essen         |
-| **joggen gehen**        | 去慢跑         | Verb + Verb                  |
-| **einen Spaziergang machen** | 散步       | Akkusativ + machen           |
-| **zu Hause bleiben**    | 待在家         | zu + Dativ + Verb            |
-| **im Internet surfen**  | 上網           | in + Dativ + Verb            |
-
-## 🏡 地點與移動
-與方向介詞（如 **nach, in, zu, an**）相關，需搭配正確的格位與動詞，補充了常見移動場景。
-
-| 表達                    | 中文意思       | 結構說明                     |
-|-------------------------|----------------|------------------------------|
-| nach Hause fahren       | 回家           | nach + 地點（無冠詞）        |
-| zur Arbeit fahren       | 去上班         | zu + Dativ                   |
-| zur Schule gehen        | 去上學         | zu + Dativ                   |
-| in Urlaub fahren        | 去度假         | in + Akkusativ               |
-| am Wochenende verreisen | 週末去旅行     | 時間副詞 + 動詞              |
-| an den Strand gehen     | 去海邊         | an + Akkusativ + gehen       |
-| **in die Stadt gehen**  | 進城           | in + Akkusativ + gehen       |
-| **zum Arzt gehen**      | 去看醫生       | zu + Dativ + gehen           |
-| **aufs Land fahren**    | 去鄉下         | auf + Akkusativ + fahren     |
-| **ins Bett gehen**      | 上床睡覺       | in + Akkusativ + gehen       |
-
-## 📅 安排與任務
-多為 **名詞 + 特定動詞** 的搭配，德文中常見的名詞動詞組合，補充了實用任務表達。
-
-| 表達                    | 中文意思       | 結構說明                     |
-|-------------------------|----------------|------------------------------|
-| einen Termin vereinbaren | 預約時間       | Akkusativ + Verb             |
-| eine Einladung schicken | 發出邀請       | Akkusativ + schicken         |
-| einen Vorschlag machen  | 提出建議       | Akkusativ + machen           |
-| eine Entscheidung treffen | 做決定       | Akkusativ + treffen          |
-| ein Gespräch führen     | 進行對話       | Akkusativ + führen           |
-| **einen Plan machen**   | 制定計畫       | Akkusativ + machen           |
-| **eine Frage stellen**  | 提問           | Akkusativ + stellen          |
-| **einen Anruf tätigen** | 打電話         | Akkusativ + tätigen          |
-| **eine Liste schreiben**| 寫清單         | Akkusativ + schreiben        |
+這份筆記整理了歌德檢定中最高頻的動賓搭配與介係詞短語。掌握這些「組合技」，能讓你的寫作與口說顯得非常道地。
 
 ---
 
-## 學習建議
-- **A1 級別**：優先掌握「娛樂與活動」和「日常動作與休閒習慣」中的高頻表達，如 **ins Kino gehen**、**einkaufen gehen**，這些在日常對話中最常用。
-- **A2 級別**：開始學習「地點與移動」中的介詞搭配（如 **zu, nach, in** 的用法），並注意格位（Dativ 或 Akkusativ）的區別。
-- **B1 級別**：熟練使用「安排與任務」中的名詞動詞搭配，並練習將這些表達應用到更複雜的句子中，如結合時間副詞或情態動詞。
-- **實用提示**：建議將這些表達融入日常對話練習，例如用日記或對話模擬場景（如購物、旅行計畫）來加深記憶。
+## 1. 🎭 娛樂與活動
+> **重點：** 前往場所多使用 **in / auf + Akkusativ** (位移)。
+
+| 固定搭配 | 中文意思 | 結構說明 |
+| :--- | :--- | :--- |
+| i<span style="color:#e74c3c">**ns**</span> Kino gehen | 去電影院 | in + das (Akk.) |
+| i<span style="color:#e74c3c">**ns**</span> Konzert gehen | 去音樂會 | in + das (Akk.) |
+| i<span style="color:#e74c3c">**ns**</span> Theater gehen | 去劇院 | in + das (Akk.) |
+| eine Party feiern | 辦派對 | Feminin Akk. |
+| eine<span style="color:#3498db">**n**</span> Ausflug machen | 去郊遊 | Maskulin Akk. |
+| eine Reise machen | 去旅行 | Feminin Akk. |
+| Musik hören | 聽音樂 | 無冠詞 Akk. |
+| Sport treiben | 做運動 | 固定動詞搭配 |
+| i<span style="color:#e74c3c">**ns**</span> Restaurant gehen | 去餐廳 | in + das (Akk.) |
+| eine<span style="color:#3498db">**n**</span> Film sehen | 看電影 | Maskulin Akk. |
+| Freunde treffen | 見朋友 | Plural Akk. |
+| ein Buch lesen | 讀書 | Neutral Akk. |
+
+---
+
+## 2. 🚶 日常動作與休閒習慣
+> **重點：** 這些是口說第一部分（自我介紹/日常生活）的必備詞彙。
+
+| 固定搭配 | 中文意思 | 結構說明 |
+| :--- | :--- | :--- |
+| spazieren gehen | 去散步 | 雙動詞結構 |
+| einkaufen gehen | 去購物 | 雙動詞結構 |
+| Frühstück machen | 做早餐 | 準備早餐 |
+| Hausaufgaben machen | 做功課 | 固定動詞 machen |
+| Pause machen | 休息一下 | 固定動詞 machen |
+| eine<span style="color:#3498db">**n**</span> Kaffee trinken | 喝咖啡 | Maskulin Akk. |
+| **fernsehen** | 看電視 | 分離動詞 (Ich sehe fern) |
+| zu Abend essen | 吃晚餐 | 固定短語 |
+| joggen gehen | 去慢跑 | 雙動詞結構 |
+| eine<span style="color:#3498db">**n**</span> Spaziergang machen | 散步 | Maskulin Akk. |
+| **zu Hause** bleiben | 待在家 | 靜態 (Dativ) |
+| i<span style="color:#9b59b6">**m**</span> Internet surfen | 上網 | in + dem (Dativ) |
+
+---
+
+## 3. 🏡 地點與移動 (位移與格位)
+> **重點：** 區分 **nach** (地名/家), **zu** (人/機構), **in** (進入空間)。
+
+| 固定搭配 | 中文意思 | 結構說明 |
+| :--- | :--- | :--- |
+| **nach Hause** fahren | 回家 | 方向固定用法 (nach) |
+| zu<span style="color:#e67e22">**r**</span> Arbeit fahren | 去上班 | zu + der (Dativ) |
+| zu<span style="color:#e67e22">**r**</span> Schule gehen | 去上學 | zu + der (Dativ) |
+| in de<span style="color:#3498db">**n**</span> Urlaub fahren | 去度假 | in + Mask. Akk. |
+| a<span style="color:#3498db">**n**</span> de<span style="color:#3498db">**n**</span> Strand gehen | 去海邊 | an + Mask. Akk. |
+| in die Stadt gehen | 進城/去市區 | in + Fem. Akk. |
+| zu<span style="color:#9b59b6">**m**</span> Arzt gehen | 去看醫生 | zu + dem (Dativ) |
+| au<span style="color:#e74c3c">**fs**</span> Land fahren | 去鄉下 | auf + das (Akk.) |
+| i<span style="color:#e74c3c">**ns**</span> Bett gehen | 上床睡覺 | in + das (Akk.) |
+
+---
+
+## 4. 📅 安排、任務與正式事務 (B1 升級必背)
+> **重點：** 這些組合（Nomen-Verb-Verbindungen）是 B1 寫作與正式書信的加分項。
+
+| 固定搭配 | 中文意思 | 結構說明 |
+| :--- | :--- | :--- |
+| eine<span style="color:#3498db">**n**</span> Termin vereinbaren | 預約時間 | Maskulin Akk. |
+| eine Einladung schicken | 發出邀請 | Feminin Akk. |
+| eine<span style="color:#3498db">**n**</span> Vorschlag machen | 提出建議 | Maskulin Akk. |
+| eine Entscheidung treffen | 做決定 | Feminin Akk. |
+| ein Gespräch führen | 進行對話 | Neutral Akk. |
+| eine<span style="color:#3498db">**n**</span> Plan machen | 制定計畫 | Maskulin Akk. |
+| eine Frage stellen | 提問 | Feminin Akk. |
+| eine<span style="color:#3498db">**n**</span> Antrag stellen | 提出申請 | 辦理簽證/延簽常用 |
+| eine<span style="color:#3498db">**n**</span> Vertrag unterschreiben | 簽署合約 | 租屋/工作必備 |
+
+---
+
+## 5. 😊 情緒、社交與意見表達 (B1 口說利器)
+> **重點：** 用於表達觀點或在討論中達成共識。
+
+| 固定搭配 | 中文意思 | 結構說明 |
+| :--- | :--- | :--- |
+| **Bescheid geben** | 告知/通知 | 非常道地的表達 |
+| **Lust haben** auf | 對...有興趣 | auf + Akk. |
+| **Angst haben** vor | 害怕... | vor + Dativ |
+| eine Rolle spielen | 具重要性 | 討論社會議題常用 |
+| **Recht haben** | 是對的 | Du hast Recht. (你說得對) |
+| eine Meinung äußern | 表達意見 | B1 口說標準用語 |
+| **Müll trennen** | 垃圾分類 | 環保主題必背 |
+| **Erfahrung sammeln** | 累積經驗 | 實習/工作主題 |
+
+---
+
+## 🚀 歌德考試攻略建議 (A1 - B1)
+
+### 1. 寫作模組 (Schreiben)
+* **不要只用單一動詞**：
+    * 練習用 `einen Vorschlag machen` 代替 `vorgeschlagen`。
+    * 練習用 `Bescheid geben` 代替 `informieren`。
+    * 這會讓評卷老師覺得你的字彙量達到 B1 水準。
+
+### 2. 口說模組 (Sprechen)
+* **描述圖片 (Teil 1)**：
+    * 當你看到圖片中有兩個人在說話，可以說：*Sie **führen ein Gespräch**.*
+    * 當你看到一個人在診所，可以說：*Er ist **zum Arzt gegangen**.*
+
+### 3. 文法聯動提醒
+* **N-Deklination 聯動**：
+    * *Ich gehe zu<span style="color:#9b59b6">**m**</span> (zu dem) **Herr<span style="color:#3498db">n**</span> Müller.* (Dativ + N-Deklination)
+* **所有格聯動**：
+    * *Ich feiere **meine** Party.*
+    * *Ich trinke **meine<span style="color:#3498db">n**</span> Kaffee.*
+
+---
+*Last Updated: 2025-12-26*
