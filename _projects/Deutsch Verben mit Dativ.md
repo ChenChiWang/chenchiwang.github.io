@@ -9,10 +9,10 @@ permalink: /Deutsch Verben mit Dativ/
 <!-- 流量追蹤 -->
 <script src="{{ '/assets/js/momo-script.js' | relative_url }}"></script>
 
-
-# 德語三格動詞 (Dativ Verben) 100% 完整分析表 [A1-A2 生活化版本]
+## Verben mit Dativ
 
 ### 1. Social Interactions (社交與禮儀)
+
 | 動詞 (Infinitiv) | 格位 | 中文意思 | A1-A2 例句 (重點標註) | 備註 / 介係詞 |
 | :--- | :---: | :--- | :--- | :--- |
 | **danken** | **Dat** | 感謝 | Ich danke **dir** für das Geschenk. | **für + Akk** |
@@ -26,6 +26,7 @@ permalink: /Deutsch Verben mit Dativ/
 ---
 
 ### 2. Benefit & Damage (利益、損害與支持)
+
 | 動詞 (Infinitiv) | 格位 | 中文意思 | A1-A2 例句 (重點標註) | 備註 / 介係詞 |
 | :--- | :---: | :--- | :--- | :--- |
 | **helfen** | **Dat** | 幫助 | Kannst du **mir** bitte helfen? | A1 最常用動詞 |
@@ -36,6 +37,7 @@ permalink: /Deutsch Verben mit Dativ/
 ---
 
 ### 3. Opinion & Communication (觀點、信任與溝通)
+
 | 動詞 (Infinitiv) | 格位 | 中文意思 | A1-A2 例句 (重點標註) | 備註 / 介係詞 |
 | :--- | :---: | :--- | :--- | :--- |
 | **antworten** | **Dat** | 回答 | Bitte antworte **mir** schnell auf WhatsApp. | 對人使用 Dativ |
@@ -60,6 +62,7 @@ permalink: /Deutsch Verben mit Dativ/
 ---
 
 ### 5. Impersonal Logic (反向邏輯/感受)
+
 | 動詞 (Infinitiv) | 格位 | 中文意思 | A1-A2 例句 (重點標註) | 備註 / 介係詞 |
 | :--- | :---: | :--- | :--- | :--- |
 | **gefallen** | **Dat** | 喜歡 | Das Kleid gefällt **mir** sehr gut. | 購物/主觀喜好 |
@@ -72,6 +75,7 @@ permalink: /Deutsch Verben mit Dativ/
 ---
 
 ### 6. Others (其他行為反應)
+
 | 動詞 (Infinitiv) | 格位 | 中文意思 | A1-A2 例句 (重點標註) | 備註 / 介係詞 |
 | :--- | :---: | :--- | :--- | :--- |
 | **ausweichen** | **Dat** | 避開 | Das Auto weicht **dem Bus** aus. | 交通安全；助動詞 **sein** |

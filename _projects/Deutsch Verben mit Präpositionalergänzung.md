@@ -6,7 +6,7 @@ categories: Deutsch
 permalink: /Deutsch Verben mit Präpositionalergänzung/
 ---
 
-# 🇩🇪 德語 A2 動詞搭配清單：Akkusativ (受格)
+## 動詞搭配清單：Akkusativ (受格)
 
 | 介系詞 | 動詞搭配 (Verb + Kasus) | A1-A2 程度例句 | 中文意義 |
 | :--- | :--- | :--- | :--- |
@@ -48,7 +48,7 @@ permalink: /Deutsch Verben mit Präpositionalergänzung/
 | | sich sorgen um + A | Die Mutter sorgt sich um ihre Tochter. | 擔心 |
 | | sich Sorgen machen um + A | Ich mache mir Sorgen um meine Noten. | 擔心 |
 
-# 🇩🇪 德語 A2 動詞搭配清單：Dativ (與格)
+# 動詞搭配清單：Dativ (與格)
 
 | 介系詞 | 動詞搭配 (Verb + Kasus) | A1-A2 程度例句 | 中文意義 |
 | :--- | :--- | :--- | :--- |
@@ -71,9 +71,10 @@ permalink: /Deutsch Verben mit Präpositionalergänzung/
 | **zu** | gehören zu + D | Gehört dieses Buch zu dir? | 屬於 |
 
 
-# 💡 德語 A2 重點結構辨析表 (Verbvergleich)
+# 易混淆補充
 
 ### 1. 「照顧」與「擔心」 (Sorgen)
+
 | 動詞結構 | 焦點 | A1-A2 程度例句 | 中文翻譯 |
 | :--- | :--- | :--- | :--- |
 | **sorgen für + A** | 負責/提供生活所需 | Ich sorge für das Abendessen. | 我負責準備晚餐。 |
@@ -83,6 +84,7 @@ permalink: /Deutsch Verben mit Präpositionalergänzung/
 ---
 
 ### 2. 「感謝」的對象與原因 (Danken / Bedanken)
+
 | 動詞結構 | 重點 | A1-A2 程度例句 | 中文翻譯 |
 | :--- | :--- | :--- | :--- |
 | **sich bei + D bedanken** | 感謝的「對象」 | Ich bedanke mich bei Ihnen. | 我向您致謝。 |
@@ -92,6 +94,7 @@ permalink: /Deutsch Verben mit Präpositionalergänzung/
 ---
 
 ### 3. 「高興」的時間差別 (Freuen)
+
 | 動詞結構 | 時間點 | A1-A2 程度例句 | 中文翻譯 |
 | :--- | :--- | :--- | :--- |
 | **sich freuen auf + A** | 未來 (期待) | Wir freuen uns auf die Ferien. | 我們期待假期。 |
@@ -100,6 +103,7 @@ permalink: /Deutsch Verben mit Präpositionalergänzung/
 ---
 
 ### 4. 「談論」的深淺程度 (Sprechen)
+
 | 動詞結構 | 談論性質 | A1-A2 程度例句 | 中文翻譯 |
 | :--- | :--- | :--- | :--- |
 | **sprechen über + A** | 詳細討論某個主題 | Wir sprechen über das neue Projekt. | 我們討論這個新計畫。 |
