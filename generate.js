@@ -1,5 +1,5 @@
 const { createCanvas } = require('@napi-rs/canvas');
-const GIFEncoder = require('gif-encoder-2');
+const { GIFEncoder, quantize, applyPalette } = require('gifenc');
 const seedRandom = require('seed-random');
 const fs = require('fs');
 
@@ -399,10 +399,7 @@ function main() {
   console.log(`Palette: ${palette.join(', ')}`);
   console.log(`Generating ${FRAMES} frames...`);
 
-  const encoder = new GIFEncoder(WIDTH, HEIGHT, 'neuquant', false, FRAMES);
-  encoder.setDelay(FRAME_DELAY);
-  encoder.setRepeat(0);
-  encoder.start();
+  const gif = GIFEncoder();
 
   for (let f = 0; f < FRAMES; f++) {
     // 清除畫布
@@ -424,12 +421,19 @@ function main() {
     ctx.textBaseline = 'bottom';
     ctx.fillText(today, WIDTH - 15, HEIGHT - 12);
 
-    encoder.addFrame(ctx.getImageData(0, 0, WIDTH, HEIGHT).data);
+    const { data } = ctx.getImageData(0, 0, WIDTH, HEIGHT);
+    const pal = quantize(data, 256);
+    const index = applyPalette(data, pal);
+    gif.writeFrame(index, WIDTH, HEIGHT, {
+      palette: pal,
+      delay: FRAME_DELAY,
+      repeat: 0,
+    });
     process.stdout.write(`\rFrame ${f + 1}/${FRAMES}`);
   }
 
-  encoder.finish();
-  fs.writeFileSync('art.gif', encoder.out.getData());
+  gif.finish();
+  fs.writeFileSync('art.gif', Buffer.from(gif.bytes()));
   console.log('\nGenerated art.gif successfully!');
 }
 

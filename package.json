@@ -6,7 +6,7 @@
   },
   "dependencies": {
     "@napi-rs/canvas": "^0.1.65",
-    "gif-encoder-2": "^1.0.5",
+    "gifenc": "^1.0.3",
     "seed-random": "^2.2.0"
   }
 }
