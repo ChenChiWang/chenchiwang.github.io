@@ -12,6 +12,7 @@ export interface PostMeta {
   title: string;
   date: string;
   categories?: string;
+  subcategory?: string;
   excerpt?: string;
 }
 
@@ -56,6 +57,7 @@ export function getAllPosts(section: 'blog' | 'projects'): PostMeta[] {
       title: data.title || filename,
       date: data.date ? String(data.date).slice(0, 10) : '',
       categories: data.categories || '',
+      subcategory: data.subcategory || '',
       excerpt: excerpt + '...',
     };
   });

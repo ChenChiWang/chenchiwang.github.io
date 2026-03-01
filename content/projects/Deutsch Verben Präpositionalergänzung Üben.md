@@ -1,3 +1,9 @@
+---
+title: "Deutsch Verben Präpositionalergänzung Üben"
+date: 2025-01-01
+categories: Deutsch
+subcategory: Verben
+---
 
 # 德文詩詞與文法分析：愛與現實 (Liebe und die Realität)
 

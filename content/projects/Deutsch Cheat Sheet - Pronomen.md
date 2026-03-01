@@ -3,6 +3,7 @@ layout: post
 title:  "Deutsch Cheat Sheet - Pronomen"
 date:   2025-12-25
 categories: Deutsch
+subcategory: Grammatik
 ---
 
 <!-- 流量追蹤 -->

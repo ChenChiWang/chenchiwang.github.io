@@ -57,7 +57,7 @@ export default function BlogPage() {
         {posts.map((post, i) => (
           <Link
             key={post.slug}
-            href={`/blog/${encodeURIComponent(post.slug)}`}
+            href={`/blog/${post.slug}`}
             style={{
               display: 'grid',
               gridTemplateColumns: '120px 1fr 100px',

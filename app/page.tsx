@@ -135,7 +135,7 @@ export default function Home() {
           {recentPosts.map((post) => (
             <Link
               key={post.slug}
-              href={`/blog/${encodeURIComponent(post.slug)}`}
+              href={`/blog/${post.slug}`}
               className="hover-card"
               style={{
                 display: 'flex',

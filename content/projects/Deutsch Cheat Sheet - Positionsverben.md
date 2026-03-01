@@ -3,6 +3,7 @@ layout: post
 title:  "Deutsch Cheat Sheet - Positionsverben"
 date:   2025-12-27
 categories: Deutsch
+subcategory: Grammatik
 ---
 
 <!-- 流量追蹤 -->

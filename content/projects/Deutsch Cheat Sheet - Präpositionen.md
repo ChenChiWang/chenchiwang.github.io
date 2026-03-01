@@ -3,6 +3,7 @@ layout: post
 title:  "Deutsch Cheat Sheet - Präpositionen"
 date:   2025-9-12
 categories: Deutsch
+subcategory: Grammatik
 ---
 
 <!-- 流量追蹤 -->

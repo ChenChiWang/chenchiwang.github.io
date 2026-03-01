@@ -21,7 +21,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="zh-TW">
-      <body className="min-h-screen flex flex-col" style={{ background: '#0d1117' }}>
+      <head>
         <Script
           src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}
           strategy="afterInteractive"
@@ -34,6 +34,8 @@ export default function RootLayout({
             gtag('config', '${GA_ID}');
           `}
         </Script>
+      </head>
+      <body className="min-h-screen flex flex-col" style={{ background: '#0d1117' }}>
         <Navbar />
         <main className="flex-1">
           {children}

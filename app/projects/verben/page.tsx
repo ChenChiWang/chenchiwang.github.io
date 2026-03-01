@@ -176,7 +176,7 @@ export default function VerbenPage() {
 
         <div style={{ textAlign: 'right', marginTop: '1rem' }}>
           <Link
-            href={`/projects/${encodeURIComponent('Deutsch Verben Reflexive')}`}
+            href="/projects/Deutsch Verben Reflexive"
             style={linkBtnStyle(colors.orange)}
           >
             反身動詞清單 →
@@ -231,7 +231,7 @@ export default function VerbenPage() {
 
         <div style={{ textAlign: 'right', marginTop: '1rem' }}>
           <Link
-            href={`/projects/${encodeURIComponent('Deutsch Verben mit Dativ')}`}
+            href="/projects/Deutsch Verben mit Dativ"
             style={linkBtnStyle(colors.purple)}
           >
             Dativ 動詞清單 →
@@ -319,7 +319,7 @@ export default function VerbenPage() {
 
         <div style={{ textAlign: 'right', marginTop: '1rem' }}>
           <Link
-            href={`/projects/${encodeURIComponent('Deutsch Verben mit Präpositionalergänzung')}`}
+            href="/projects/Deutsch Verben mit Präpositionalergänzung"
             style={linkBtnStyle(colors.red)}
           >
             介係詞搭配清單 →

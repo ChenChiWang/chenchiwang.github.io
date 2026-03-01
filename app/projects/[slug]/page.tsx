@@ -4,7 +4,7 @@ import { notFound } from 'next/navigation';
 
 export async function generateStaticParams() {
   const slugs = getAllSlugs('projects');
-  return slugs.map((slug) => ({ slug: encodeURIComponent(slug) }));
+  return slugs.map((slug) => ({ slug }));
 }
 
 export default async function ProjectPage({

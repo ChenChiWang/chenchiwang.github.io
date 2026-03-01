@@ -3,6 +3,7 @@ layout: post
 title:  "Redemittel/Ausdrücke A1"
 date:   2025-9-12
 categories: Deutsch
+subcategory: Wortschatz
 ---
 
 <!-- 流量追蹤 -->

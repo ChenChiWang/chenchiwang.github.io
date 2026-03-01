@@ -3,6 +3,7 @@ layout: post
 title:  "Deutsch Verben mit Präpositionalergänzung"
 date:   2025-12-30
 categories: Deutsch
+subcategory: Verben
 permalink: /Deutsch Verben mit Präpositionalergänzung/
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Deutsch A1-B1 feste Wendung"
 date:   2025-6-22
 categories: Deutsch
+subcategory: Verben
 ---
 
 <!-- 流量追蹤 -->
