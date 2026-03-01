@@ -156,3 +156,16 @@ body {
 .blog-row:hover {
   background: rgba(88,166,255,0.05) !important;
 }
+
+/* 手機適配 */
+@media (max-width: 640px) {
+  .nav-links-desktop { display: none !important; }
+  .nav-hamburger { display: block !important; }
+  .nav-mobile-menu { display: block !important; }
+  .calabi-yau-canvas { display: none; }
+  .experience-row { grid-template-columns: 1fr !important; gap: 0.25rem !important; }
+  .experience-period { padding-top: 0 !important; }
+  .blog-row, .blog-header { grid-template-columns: 1fr !important; }
+  .blog-date { font-size: 0.7rem !important; margin-bottom: 0.15rem; }
+  .blog-category { justify-self: start !important; margin-top: 0.25rem; }
+}

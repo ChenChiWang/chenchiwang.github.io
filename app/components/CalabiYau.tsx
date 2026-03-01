@@ -102,6 +102,7 @@ export default function CalabiYau() {
   return (
     <div
       ref={containerRef}
+      className="calabi-yau-canvas"
       style={{
         position: 'absolute',
         top: '-10px',

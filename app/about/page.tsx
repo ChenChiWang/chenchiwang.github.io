@@ -82,7 +82,7 @@ export default function AboutPage() {
         <div
           style={{
             display: 'grid',
-            gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))',
+            gridTemplateColumns: 'repeat(auto-fit, minmax(min(250px, 100%), 1fr))',
             gap: '1rem',
             marginBottom: '2rem',
           }}
@@ -117,6 +117,7 @@ export default function AboutPage() {
           ].map(({ period, role, desc }) => (
             <div
               key={role}
+              className="experience-row"
               style={{
                 display: 'grid',
                 gridTemplateColumns: '140px 1fr',
@@ -127,6 +128,7 @@ export default function AboutPage() {
               }}
             >
               <span
+                className="experience-period"
                 style={{
                   fontFamily: "'JetBrains Mono', monospace",
                   fontSize: '0.75rem',

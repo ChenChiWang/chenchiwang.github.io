@@ -39,6 +39,7 @@ export default function BlogPage() {
       <div style={{ display: 'flex', flexDirection: 'column', gap: '1px' }}>
         {/* Header row */}
         <div
+          className="blog-header"
           style={{
             display: 'grid',
             gridTemplateColumns: '120px 1fr 100px',
@@ -49,9 +50,9 @@ export default function BlogPage() {
             borderBottom: '1px solid #30363d',
           }}
         >
-          <span>DATE</span>
+          <span className="blog-date">DATE</span>
           <span>TITLE</span>
-          <span style={{ textAlign: 'right' }}>CATEGORY</span>
+          <span className="blog-category" style={{ textAlign: 'right' }}>CATEGORY</span>
         </div>
 
         {posts.map((post, i) => (
@@ -68,9 +69,10 @@ export default function BlogPage() {
               alignItems: 'start',
               gap: '0.5rem',
             }}
-            className="blog-row"
+            className="blog-row blog-header"
           >
             <span
+              className="blog-date"
               style={{
                 fontFamily: "'JetBrains Mono', monospace",
                 fontSize: '0.78rem',
@@ -87,6 +89,7 @@ export default function BlogPage() {
               <div style={{ fontSize: '0.83rem', color: '#6e7681' }}>{post.excerpt}</div>
             </div>
             <span
+              className="blog-category"
               style={{
                 fontFamily: "'JetBrains Mono', monospace",
                 fontSize: '0.72rem',
