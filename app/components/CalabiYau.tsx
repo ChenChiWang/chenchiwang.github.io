@@ -47,8 +47,8 @@ export default function CalabiYau() {
             const hue = (k * 360 / n + angle * 20) % 360;
 
             p.beginShape();
-            p.stroke(hue, 70, 90, 40);
-            p.strokeWeight(1.2);
+            p.stroke(hue, 70, 100, 70);
+            p.strokeWeight(1.4);
 
             const steps = 200;
             for (let i = 0; i <= steps; i++) {
@@ -67,8 +67,8 @@ export default function CalabiYau() {
             p.endShape();
 
             p.beginShape();
-            p.stroke(hue, 50, 70, 20);
-            p.strokeWeight(0.6);
+            p.stroke(hue, 50, 85, 40);
+            p.strokeWeight(0.8);
 
             for (let i = 0; i <= steps; i++) {
               const alpha = (i / steps) * p.TWO_PI;
@@ -109,7 +109,7 @@ export default function CalabiYau() {
         width: `${SIZE}px`,
         height: `${SIZE}px`,
         overflow: 'hidden',
-        opacity: 0.5,
+        opacity: 0.75,
       }}
     />
   );
