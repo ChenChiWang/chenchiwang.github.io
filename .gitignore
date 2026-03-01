@@ -1,44 +1,33 @@
-# Jekyll 輸出目錄
-_site/
+# Next.js
+.next/
+out/
+node_modules/
+npm-debug.log*
 
-# Jekyll 緩存目錄
-.jekyll-cache/
+# Build
+build/
 
-# Bundler 本地安裝的 gem 目錄
-vendor/
-
-# Bundler 配置目錄
-.bundle/
-
-# Sass/SCSS 緩存
-.sass-cache/
-
-# 日誌和臨時文件
-*.log
-*.tmp
-*.swp
-*~
-
-# 系統生成的隱藏文件
+# OS
 .DS_Store
 Thumbs.db
 
-# IDE 和編輯器配置
+# Local env
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# IDE
 .idea/
 .vscode/
 
-# Git 合併衝突文件
-*.orig
-
-# Node.js 依賴（如果有使用 Node.js 插件）
-node_modules/
-
-# RubyMine 的 IDE 設置
-.ruby-gemset
-.ruby-version
-
-# 本地配置文件
-_config.local.yml
-
-# Jekyll 构建产生的 Gemfile.lock（如果不希望提交）
-# Gemfile.lock
+# Old Jekyll (kept for reference)
+# _site/
+# .jekyll-cache/
+# vendor/
+# .bundle/
