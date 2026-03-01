@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Deutsch Verben mit Dativ"
 date:   2025-12-30
 categories: Deutsch
@@ -7,8 +6,6 @@ subcategory: Verben
 permalink: /Deutsch Verben mit Dativ/
 ---
 
-<!-- 流量追蹤 -->
-<script src="{{ '/assets/js/momo-script.js' | relative_url }}"></script>
 
 ## Verben mit Dativ
 

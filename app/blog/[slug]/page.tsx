@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { getPostBySlug, getAllSlugs } from '@/lib/markdown';
 import { notFound } from 'next/navigation';
+import MermaidInit from '@/app/components/MermaidInit';
 
 export async function generateStaticParams() {
   const slugs = getAllSlugs('blog');
@@ -81,6 +82,7 @@ export default async function BlogPostPage({
         className="prose-dark"
         dangerouslySetInnerHTML={{ __html: post.content }}
       />
+      <MermaidInit />
 
       {/* Back link */}
       <div style={{ marginTop: '3rem', paddingTop: '1.5rem', borderTop: '1px solid #30363d' }}>

@@ -1,13 +1,10 @@
 ---
-layout: post
 title:  "Deutsch Cheat Sheet - Adjektiv"
 date:   2025-12-25
 categories: Deutsch
 subcategory: Grammatik
 ---
 
-<!-- 流量追蹤 -->
-<script src="{{ '/assets/js/momo-script.js' | relative_url }}"></script>
 
 # 🇩🇪 德文形容詞變化終極筆記 (Adjektivdeklination)
 

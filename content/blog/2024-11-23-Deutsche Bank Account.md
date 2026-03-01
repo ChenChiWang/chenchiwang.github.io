@@ -1,12 +1,8 @@
 ---
-layout: post
-title:  "Deutsche Bank Account"
-date:   2024-11-23
-categories: bank
+title: "Deutsche Bank Account"
+date: 2024-11-23
+categories: blog
 ---
-
-<!-- 流量追蹤 -->
-<script src="{{ '/assets/js/momo-script.js' | relative_url }}"></script>
 
 ## 德意志銀行開戶相關
 

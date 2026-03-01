@@ -51,6 +51,7 @@ body {
 .prose-dark li { margin: 0.4rem 0; color: #c9d1d9; }
 
 .prose-dark strong { color: #e6edf3; font-weight: 600; }
+.prose-dark span[style] strong { color: inherit; }
 .prose-dark em { color: #c9d1d9; }
 
 .prose-dark code {

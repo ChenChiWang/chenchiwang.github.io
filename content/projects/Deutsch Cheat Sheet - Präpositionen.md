@@ -1,13 +1,10 @@
 ---
-layout: post
 title:  "Deutsch Cheat Sheet - Präpositionen"
 date:   2025-9-12
 categories: Deutsch
 subcategory: Grammatik
 ---
 
-<!-- 流量追蹤 -->
-<script src="{{ '/assets/js/momo-script.js' | relative_url }}"></script>
 
 # 🇩🇪 德文介係詞與格位 (Präpositionen) – 終極速查筆記
 

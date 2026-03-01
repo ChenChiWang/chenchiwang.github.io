@@ -1,13 +1,10 @@
 ---
-layout: post
 title:  "Deutsch A1-B1 feste Wendung"
 date:   2025-6-22
 categories: Deutsch
 subcategory: Verben
 ---
 
-<!-- 流量追蹤 -->
-<script src="{{ '/assets/js/momo-script.js' | relative_url }}"></script>
 
 
 # 🇩🇪 德文常用固定搭配終極攻略 (Kollokationen A1-B1)

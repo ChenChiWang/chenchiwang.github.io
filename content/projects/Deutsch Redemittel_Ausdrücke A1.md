@@ -1,13 +1,10 @@
 ---
-layout: post
 title:  "Redemittel/Ausdrücke A1"
 date:   2025-9-12
 categories: Deutsch
 subcategory: Wortschatz
 ---
 
-<!-- 流量追蹤 -->
-<script src="{{ '/assets/js/momo-script.js' | relative_url }}"></script>
 
 
 | 德文表達 (Ausdrücke / Redemittel) | 中文意思                | 英文意思                  | 備註 |

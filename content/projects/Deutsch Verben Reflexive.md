@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Deutsch Verben Reflexive"
 date:   2025-12-30
 categories: Deutsch
