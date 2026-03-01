@@ -1,19 +1,14 @@
-import MatrixRain from '@/app/components/MatrixRain';
+import CalabiYau from '@/app/components/CalabiYau';
 
-// 毛玻璃卡片共用樣式
-const glassCard = {
-  background: 'rgba(22, 27, 34, 0.85)',
-  backdropFilter: 'blur(8px)',
-  WebkitBackdropFilter: 'blur(8px)',
+const cardStyle = {
+  background: '#161b22',
   border: '1px solid #30363d',
   borderRadius: '12px',
 } as const;
 
 export default function AboutPage() {
   return (
-    <>
-      <MatrixRain />
-      <div style={{ maxWidth: '860px', margin: '0 auto', padding: '3rem 1.5rem', position: 'relative', zIndex: 1 }}>
+    <div style={{ maxWidth: '860px', margin: '0 auto', padding: '3rem 1.5rem' }}>
         {/* Header */}
         <div style={{ marginBottom: '2.5rem' }}>
           <div
@@ -40,20 +35,22 @@ export default function AboutPage() {
           </h1>
         </div>
 
-        {/* Profile card */}
-        <div style={{ ...glassCard, padding: '2rem', marginBottom: '2rem' }}>
-          <div style={{ display: 'flex', gap: '1.5rem', alignItems: 'flex-start', flexWrap: 'wrap' }}>
+        {/* Profile card — Calabi-Yau 背景 */}
+        <div style={{ ...cardStyle, background: '#0d1117', padding: '2rem', marginBottom: '2rem', position: 'relative', overflow: 'hidden' }}>
+          <CalabiYau />
+          <div style={{ position: 'relative', zIndex: 1, display: 'flex', gap: '1.5rem', alignItems: 'flex-start', flexWrap: 'wrap' }}>
             <div
               style={{
                 width: '80px',
                 height: '80px',
                 borderRadius: '50%',
-                background: 'linear-gradient(135deg, #58a6ff, #3fb950)',
+                background: 'linear-gradient(135deg, rgba(88,166,255,0.8), rgba(63,185,80,0.8))',
                 display: 'flex',
                 alignItems: 'center',
                 justifyContent: 'center',
                 fontSize: '2rem',
                 flexShrink: 0,
+                border: '2px solid #30363d',
               }}
             >
               👤
@@ -97,7 +94,7 @@ export default function AboutPage() {
         </div>
 
         {/* Experience timeline */}
-        <div style={{ ...glassCard, padding: '1.75rem', marginBottom: '2rem' }}>
+        <div style={{ ...cardStyle, padding: '1.75rem', marginBottom: '2rem' }}>
           <h3
             style={{
               fontFamily: "'JetBrains Mono', monospace",
@@ -148,7 +145,7 @@ export default function AboutPage() {
         </div>
 
         {/* Education */}
-        <div style={{ ...glassCard, padding: '1.75rem', marginBottom: '2rem' }}>
+        <div style={{ ...cardStyle, padding: '1.75rem', marginBottom: '2rem' }}>
           <h3
             style={{
               fontFamily: "'JetBrains Mono', monospace",
@@ -171,7 +168,7 @@ export default function AboutPage() {
         </div>
 
         {/* Contact */}
-        <div style={{ ...glassCard, padding: '1.5rem', display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
+        <div style={{ ...cardStyle, padding: '1.5rem', display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
           <a
             href="https://github.com/chenchiwang"
             target="_blank"
@@ -213,8 +210,7 @@ export default function AboutPage() {
             LinkedIn ↗
           </a>
         </div>
-      </div>
-    </>
+    </div>
   );
 }
 
@@ -232,9 +228,7 @@ function SkillCard({
   return (
     <div
       style={{
-        background: 'rgba(22, 27, 34, 0.85)',
-        backdropFilter: 'blur(8px)',
-        WebkitBackdropFilter: 'blur(8px)',
+        background: '#161b22',
         border: '1px solid #30363d',
         borderRadius: '10px',
         padding: '1.25rem',
